@@ -1,0 +1,2201 @@
+transaction_id,transaction_date,customer_type,product,category,quantity,amount,payment_method,city,sales_rep
+1,2022-07-29,Wholesale,Tablet,Electronics,,,,new york,
+2,02/06/2022,Wholesale,Keyboard,Office,,1424.54,,chicago,John
+3,03-09-2023,Retail,Keyboard,Office,3.0, ,Cash,chicago,Sara
+4,05/18/2023,Retail,Laptop,electronics,1.0, ,card,NY ,
+5,06/30/2023,Online,Keyboard,Office,1.0,,Transfer,New York,Ali
+6,2022-10-02,Online,Monitor,Office,,,,NY ,Ali
+7,06-03-2024,Retail,Monitor,electronics,2.0, ,Transfer,New York,Fatima
+8,2022-10-23,Online,Phone,Office,2.0,,Cash,chicago,Fatima
+9,2023-12-08,Wholesale,Keyboard,office,2.0,,,New York,Fatima
+10,,Retail,Laptop,electronics,1.0, ,,NY ,Sara
+11,2023-06-26,Online,Mouse,Electronics,2.0, ,Cash,NY ,John
+12,2023-05-07,Online,Mouse,office,,2236.39,Card,new york,Sara
+13,09-08-2022,Retail,Laptop,Office,,381.39,,NY ,Ali
+14,06/06/2023,Wholesale,Phone, ELECTRONICS ,3.0,,Transfer,Chicago,Fatima
+15,2024-03-01,Wholesale,Monitor, ELECTRONICS ,2.0,,card,,Fatima
+16,08/18/2023,Wholesale,Keyboard,Office,3.0,339.62,Transfer,NY ,Fatima
+17,08-02-2023,Retail,Phone,office,1.0,,Transfer,NY ,Sara
+18,2024-03-25,Online,Mouse, ELECTRONICS ,,,Card,Chicago,Ali
+19,08/09/2022,Wholesale,Keyboard,Electronics,1.0, ,card,,Sara
+20,2024-05-14,Online,Tablet,office,,,Card,NY ,
+21,10-02-2023,Retail,Tablet,office,1.0,,,,John
+22,09-08-2023,Online,Keyboard, ELECTRONICS ,1.0,,card,new york,Sara
+23,05/15/2023,Wholesale,Monitor,Electronics,3.0,1957.81,card,Chicago,John
+24,2024-05-21,Retail,Keyboard,Office,,2777.06,Card,new york,Sara
+25,,Retail,Keyboard,electronics,2.0,1137.94,Transfer,NY ,Fatima
+26,2024-02-27,Wholesale,Monitor,Office,1.0, ,,New York,John
+27,05/08/2024,Retail,Mouse,Office,3.0, ,Cash,NY ,John
+28,22-05-2023,Online,Tablet,Office,, ,,Chicago,John
+29,2023-01-08,Wholesale,Keyboard,Office,3.0,1263.75,Transfer,new york,Sara
+30,03-07-2022,Online,Monitor,Electronics,,883.98,Transfer,NY ,Fatima
+31,01/30/2024,Wholesale,Keyboard, ELECTRONICS ,,,,Chicago,Sara
+32,2023-02-24,Wholesale,Laptop,Electronics,1.0, ,,chicago,
+33,03-12-2022,Wholesale,Monitor, ELECTRONICS ,2.0, ,,new york,
+34,,Online,Monitor,Office,3.0,,Card,,
+35,,Online,Tablet,Office,3.0, ,Card,NY ,John
+36,,Online,Laptop,office,2.0,2951.08,,NY ,Sara
+37,2022-06-29,Retail,Tablet, ELECTRONICS ,1.0,,Card,NY ,Sara
+38,03-03-2024,Online,Monitor,office,2.0,2233.92,Transfer,New York,Ali
+39,,Retail,Mouse,electronics,2.0, ,Card,chicago,Ali
+40,09/02/2023,Wholesale,Tablet,Electronics,, ,,,Ali
+41,04/21/2023,Retail,Keyboard,Electronics,1.0,,Cash,New York,Sara
+42,06/24/2023,Retail,Phone,office,1.0,1803.98,card,NY ,
+43,12/19/2023,Online,Phone,Electronics,1.0, ,,Chicago,
+44,05/18/2023,Wholesale,Laptop, ELECTRONICS ,1.0,,Card,,Fatima
+45,,Retail,Mouse, ELECTRONICS ,3.0, ,card,chicago,Fatima
+46,05-09-2023,Online,Phone, ELECTRONICS ,,,Cash,,John
+47,,Online,Mouse,office,3.0, ,Cash,chicago,
+48,06/05/2023,Retail,Mouse,office,2.0,,Transfer,Chicago,Ali
+49,2024-05-06,Online,Phone,Electronics,2.0,2490.54,Cash,chicago,Fatima
+50,26-04-2023,Retail,Keyboard, ELECTRONICS ,1.0,,,NY ,John
+51,12/27/2023,Retail,Monitor,Electronics,1.0, ,Transfer,NY ,
+52,,Wholesale,Tablet,office,2.0,,card,chicago,
+53,2023-06-30,Retail,Mouse,office,,256.06,Transfer,New York,
+54,2024-02-22,Wholesale,Monitor,Office,3.0,,Transfer,new york,Ali
+55,2022-05-25,Retail,Mouse,Electronics,, ,Card,,
+56,,Retail,Tablet,office,3.0, ,Transfer,NY ,
+57,22-01-2023,Wholesale,Tablet, ELECTRONICS ,,,Transfer,Chicago,Fatima
+58,11/22/2022,Retail,Keyboard, ELECTRONICS ,2.0,,Card,,
+59,2022-02-13,Retail,Mouse,office,, ,card,Chicago,Sara
+60,26-10-2022,Retail,Phone,Electronics,1.0,,Cash,,Fatima
+61,28-01-2022,Online,Monitor,office,, ,,new york,Sara
+62,04/07/2023,Wholesale,Phone,electronics,3.0,,,NY ,Fatima
+63,03/12/2024,Retail,Monitor,Office,2.0,915.76,Transfer,NY ,
+64,07/11/2022,Wholesale,Monitor, ELECTRONICS ,, ,Transfer,new york,John
+65,,Retail,Phone, ELECTRONICS ,1.0, ,Transfer,chicago,Ali
+66,21-05-2023,Retail,Mouse, ELECTRONICS ,3.0,,Cash,new york,Ali
+67,01-07-2022,Wholesale,Phone,Office,3.0, ,,Chicago,Ali
+68,2022-08-24,Retail,Monitor,electronics,2.0,,Card,new york,
+69,2023-07-01,Online,Laptop, ELECTRONICS ,1.0,,Cash,,Sara
+70,,Wholesale,Tablet,electronics,1.0, ,Card,New York,Sara
+71,04/20/2022,Retail,Mouse,Office,3.0, ,,Chicago,Sara
+72,,Online,Tablet,electronics,,525.12,Transfer,,
+73,02/26/2023,Retail,Monitor,Electronics,2.0,,Card,,Ali
+74,2022-07-12,Online,Phone,office,1.0, ,Transfer,chicago,
+75,28-11-2022,Wholesale,Phone,Office,,,,Chicago,John
+76,,Online,Mouse,Office,2.0,,,NY ,
+77,11-11-2022,Retail,Laptop, ELECTRONICS ,3.0,,Card,new york,John
+78,03-11-2022,Online,Laptop,Electronics,2.0, ,card,chicago,
+79,18-06-2024,Wholesale,Keyboard,office,1.0,,Transfer,Chicago,
+80,,Online,Phone,Electronics,2.0,,Card,New York,Ali
+81,2022-09-22,Wholesale,Tablet,office,3.0, ,Card,new york,John
+82,28-10-2023,Retail,Keyboard,office,, ,card,chicago,John
+83,10/23/2023,Online,Tablet,electronics,,718.58,card,New York,Fatima
+84,03/08/2023,Online,Tablet,Electronics,,,,New York,John
+85,,Retail,Monitor,Office,3.0,,card,,Sara
+86,03/05/2023,Retail,Keyboard,Office,2.0, ,Cash,New York,John
+87,05/19/2023,Wholesale,Mouse,office,3.0,2199.61,Card,new york,
+88,,Online,Monitor,Office,2.0,476.89,Cash,chicago,
+89,2024-03-06,Online,Keyboard,Electronics,2.0,,card,Chicago,Ali
+90,,Retail,Laptop,electronics,1.0,,,chicago,
+91,11/24/2023,Wholesale,Monitor,Office,,1778.08,Cash,,John
+92,11/21/2022,Online,Keyboard,Electronics,3.0,,Cash,new york,John
+93,12/12/2023,Online,Laptop, ELECTRONICS ,,2188.92,Cash,New York,John
+94,2022-08-16,Retail,Laptop,Electronics,1.0, ,Card,chicago,Ali
+95,11/21/2023,Online,Tablet,electronics,1.0,271.22,Card,new york,Ali
+96,,Wholesale,Tablet,office,,2522.74,Transfer,,Sara
+97,2022-03-19,Wholesale,Laptop, ELECTRONICS ,2.0,856.5,,chicago,John
+98,2022-03-03,Online,Phone,Office,3.0,306.79,card,Chicago,Ali
+99,09/19/2023,Retail,Keyboard,office,1.0, ,,new york,John
+100,2023-02-02,Wholesale,Phone,office,1.0,1799.7,,NY ,
+101,03-06-2023,Retail,Laptop,Office,3.0,2096.97,,,Ali
+102,,Online,Mouse,office,1.0,,card,New York,Ali
+103,28-04-2024,Online,Tablet, ELECTRONICS ,3.0,,,,John
+104,02/05/2023,Retail,Phone,Office,3.0, ,Transfer,chicago,Ali
+105,11-04-2023,Retail,Monitor,Office,1.0,,Transfer,,Ali
+106,01/19/2024,Wholesale,Laptop, ELECTRONICS ,2.0,78.73,Cash,New York,John
+107,29-04-2023,Online,Keyboard,electronics,, ,Transfer,,
+108,04/08/2023,Wholesale,Phone,office,2.0,2092.89,Cash,New York,
+109,09/26/2023,Wholesale,Keyboard,office,1.0,2398.72,Cash,Chicago,
+110,17-11-2022,Online,Phone,office,3.0,,Card,Chicago,Sara
+111,25-02-2024,Retail,Monitor,electronics,3.0, ,Cash,NY ,Sara
+112,,Retail,Monitor,office,3.0,,Card,,Fatima
+113,,Wholesale,Laptop,Electronics,3.0, ,Cash,Chicago,
+114,02/04/2024,Wholesale,Keyboard,office,1.0,,Transfer,,Sara
+115,04/18/2022,Retail,Mouse,office,2.0,1758.28,,new york,Fatima
+116,02/25/2024,Retail,Tablet,electronics,3.0, ,,chicago,Sara
+117,25-08-2022,Wholesale,Mouse, ELECTRONICS ,2.0,1882.74,card,NY ,Ali
+118,,Retail,Monitor, ELECTRONICS ,,,Cash,New York,
+119,,Wholesale,Keyboard, ELECTRONICS ,1.0,,Cash,NY ,Sara
+120,,Retail,Monitor,office,,2871.9,Card,Chicago,
+121,12-02-2022,Online,Keyboard,office,2.0, ,Card,,Fatima
+122,05/01/2023,Online,Tablet,office,2.0,,card,NY ,John
+123,,Wholesale,Monitor,Office,1.0,2497.23,Transfer,New York,Sara
+124,11/10/2023,Wholesale,Keyboard,Office,2.0,,Transfer,,Fatima
+125,10/15/2023,Retail,Tablet,Electronics,1.0,128.21,Cash,new york,Ali
+126,2022-04-15,Retail,Monitor,office,3.0,2936.18,card,,Sara
+127,06-10-2023,Wholesale,Mouse,Office,3.0,817.49,Card,new york,John
+128,01/13/2024,Online,Monitor, ELECTRONICS ,3.0,1009.8,Card,Chicago,Ali
+129,12/30/2023,Wholesale,Keyboard,Office,, ,Cash,Chicago,
+130,07-02-2022,Retail,Phone,electronics,1.0,,Card,New York,Sara
+131,,Wholesale,Tablet,Office,2.0,,Cash,new york,Fatima
+132,2022-11-11,Online,Tablet,Electronics,,1559.3,,Chicago,Ali
+133,02/05/2023,Online,Keyboard,Office,2.0,848.49,Cash,new york,Ali
+134,03-07-2022,Wholesale,Monitor,electronics,2.0,2238.18,Cash,New York,Fatima
+135,06-12-2023,Wholesale,Phone, ELECTRONICS ,2.0, ,Transfer,chicago,Fatima
+136,06-08-2022,Retail,Phone, ELECTRONICS ,3.0, ,Cash,Chicago,Sara
+137,08/12/2023,Online,Monitor, ELECTRONICS ,1.0,,card,Chicago,Sara
+138,06/05/2024,Online,Laptop,Electronics,,,,NY ,Fatima
+139,03/21/2024,Retail,Mouse,Office,1.0, ,Transfer,New York,John
+140,22-02-2023,Online,Phone,Electronics,,,Card,new york,Sara
+141,08/22/2022,Online,Mouse,Electronics,2.0,,Card,new york,Fatima
+142,,Retail,Mouse,office,, ,card,Chicago,Ali
+143,,Retail,Laptop,office,3.0,475.35,Cash,new york,Sara
+144,08/27/2023,Retail,Monitor,Electronics,3.0, ,card,Chicago,Sara
+145,09-01-2023,Online,Mouse,electronics,2.0,,Transfer,,
+146,12/05/2022,Wholesale,Laptop,Electronics,1.0, ,,Chicago,Ali
+147,2024-03-26,Online,Keyboard,electronics,2.0, ,Card,Chicago,John
+148,10-06-2023,Wholesale,Monitor,Office,3.0,,card,new york,Sara
+149,2022-04-19,Wholesale,Laptop,Electronics,1.0,2421.82,card,NY ,
+150,03-04-2022,Retail,Mouse,Electronics,1.0,2035.69,,Chicago,Ali
+151,03-12-2023,Retail,Monitor,Office,1.0, ,,Chicago,Sara
+152,06/06/2022,Wholesale,Laptop,office,, ,,New York,Fatima
+153,,Wholesale,Mouse,Office,1.0,1498.14,Cash,Chicago,Ali
+154,2022-12-23,Wholesale,Tablet,electronics,2.0,,card,New York,Fatima
+155,06/29/2023,Online,Laptop,electronics,1.0, ,card,new york,Sara
+156,02/19/2022,Retail,Tablet,electronics,1.0,458.22,Card,new york,
+157,11-04-2024,Wholesale,Monitor,office,, ,Cash,Chicago,John
+158,,Online,Keyboard,Electronics,2.0,1686.5,,chicago,
+159,03/12/2022,Wholesale,Keyboard,Electronics,2.0,,Transfer,Chicago,Ali
+160,2023-08-17,Online,Tablet, ELECTRONICS ,,,,new york,Fatima
+161,,Wholesale,Laptop,Office,, ,Card,,
+162,2022-06-30,Wholesale,Mouse, ELECTRONICS ,2.0,1579.6,,,Sara
+163,2022-09-10,Online,Mouse,office,2.0,,Card,,Fatima
+164,,Wholesale,Monitor,electronics,,238.53,Transfer,New York,John
+165,29-12-2023,Wholesale,Keyboard,Office,2.0,,,,
+166,,Retail,Monitor,office,3.0, ,Cash,,Ali
+167,18-04-2023,Retail,Tablet,office,3.0, ,Cash,Chicago,John
+168,,Wholesale,Monitor,Electronics,3.0,1413.87,Transfer,new york,Ali
+169,26-01-2023,Wholesale,Mouse,Office,, ,Cash,chicago,
+170,2023-10-18,Wholesale,Laptop,Electronics,3.0,2001.02,Cash,Chicago,
+171,27-03-2023,Online,Phone, ELECTRONICS ,3.0, ,,Chicago,Sara
+172,,Retail,Monitor,electronics,2.0, ,card,New York,Fatima
+173,02/19/2024,Online,Laptop,electronics,1.0,,card,NY ,Ali
+174,04/09/2023,Online,Tablet,electronics,3.0,,Card,,Fatima
+175,08/06/2023,Online,Phone,electronics,3.0,2487.68,,Chicago,John
+176,2022-08-17,Online,Mouse,Office,2.0,,,NY ,Sara
+177,,Retail,Monitor,Electronics,,2330.15,card,NY ,Ali
+178,,Retail,Mouse,electronics,3.0,626.17,Cash,new york,John
+179,10-06-2024,Online,Phone,office,2.0, ,,Chicago,Sara
+180,03/21/2024,Retail,Monitor, ELECTRONICS ,,435.74,Cash,NY ,Sara
+181,02/27/2024,Retail,Monitor,electronics,1.0,,card,,
+182,,Retail,Mouse,electronics,,,card,new york,Sara
+183,2023-06-29,Retail,Laptop,Office,3.0, ,Cash,,John
+184,14-07-2023,Online,Phone,Office,3.0,365.75,Transfer,,Fatima
+185,03/26/2022,Wholesale,Monitor,office,,,,chicago,Ali
+186,04/12/2022,Retail,Keyboard,Electronics,3.0,,Card,new york,John
+187,2022-05-02,Wholesale,Mouse,Office,2.0,,Cash,new york,John
+188,04/12/2024,Retail,Keyboard,Electronics,1.0,2930.83,Cash,Chicago,John
+189,2022-10-30,Retail,Laptop,office,3.0, ,,new york,
+190,2023-02-21,Retail,Laptop,Electronics,3.0,1517.91,,new york,Sara
+191,23-12-2022,Wholesale,Tablet,office,1.0,1459.29,Cash,chicago,Fatima
+192,2023-10-23,Wholesale,Mouse,office,1.0,,Cash,chicago,Fatima
+193,,Retail,Laptop, ELECTRONICS ,1.0,2505.72,Cash,new york,
+194,07/05/2022,Retail,Monitor, ELECTRONICS ,3.0,1156.68,,chicago,Sara
+195,12/05/2023,Online,Mouse,office,1.0,,Cash,NY ,Fatima
+196,16-05-2023,Online,Tablet,Electronics,2.0,,,Chicago,
+197,,Wholesale,Monitor,electronics,2.0, ,Card,,John
+198,14-07-2022,Retail,Monitor,electronics,3.0, ,Cash,,Ali
+199,,Retail,Phone,Office,2.0, ,Transfer,chicago,Ali
+200,2024-03-26,Online,Keyboard,Office,1.0,670.51,card,NY ,Sara
+201,08/13/2022,Online,Laptop,Electronics,1.0,2543.91,card,,Sara
+202,2024-05-03,Wholesale,Keyboard,office,3.0, ,card,chicago,
+203,2023-08-23,Online,Keyboard,Electronics,,,Transfer,chicago,Ali
+204,16-02-2024,Retail,Keyboard,Electronics,3.0,,card,Chicago,Ali
+205,03/24/2022,Retail,Tablet,Electronics,2.0, ,Transfer,NY ,
+206,2022-09-04,Retail,Monitor,electronics,2.0,2273.21,,New York,Sara
+207,27-10-2022,Wholesale,Phone,electronics,3.0,1356.87,Card,Chicago,Fatima
+208,,Wholesale,Monitor,Office,3.0, ,Card,Chicago,Fatima
+209,,Wholesale,Laptop,electronics,1.0, ,card,chicago,John
+210,20-04-2024,Wholesale,Keyboard,Office,, ,Card,new york,Sara
+211,19-07-2022,Retail,Tablet,office,1.0,,card,new york,Ali
+212,08/12/2022,Retail,Laptop,Electronics,,,card,Chicago,Fatima
+213,2024-04-02,Retail,Phone,Electronics,2.0, ,Cash,,Ali
+214,26-05-2022,Retail,Tablet,electronics,3.0,1682.22,,,Fatima
+215,,Retail,Tablet,Office,1.0,,,New York,
+216,03/30/2023,Online,Mouse,office,3.0,,Card,,Fatima
+217,15-03-2024,Retail,Laptop,Electronics,1.0,,Cash,New York,Fatima
+218,01/17/2023,Online,Phone,office,2.0,,,chicago,Sara
+219,,Wholesale,Keyboard,office,1.0, ,Cash,chicago,
+220,27-07-2022,Retail,Keyboard,electronics,, ,card,Chicago,Ali
+221,2023-10-22,Retail,Tablet,Electronics,3.0, ,Cash,new york,Sara
+222,11/24/2022,Retail,Keyboard, ELECTRONICS ,,,Card,chicago,John
+223,,Retail,Laptop, ELECTRONICS ,,,Cash,Chicago,
+224,27-07-2023,Wholesale,Mouse,office,1.0, ,Cash,new york,Fatima
+225,01/03/2024,Retail,Mouse,office,2.0,2731.7,Transfer,New York,Ali
+226,06-05-2023,Retail,Mouse, ELECTRONICS ,1.0, ,Card,chicago,Sara
+227,12/17/2022,Retail,Mouse,Electronics,3.0,900.9,Card,chicago,Ali
+228,30-04-2023,Wholesale,Phone, ELECTRONICS ,1.0,,Cash,new york,Ali
+229,03/30/2024,Retail,Tablet,Office,3.0,2501.71,Transfer,new york,Sara
+230,23-05-2023,Online,Tablet,office,2.0, ,Cash,Chicago,
+231,,Retail,Monitor, ELECTRONICS ,2.0,1873.8,Card,New York,Sara
+232,12/13/2023,Retail,Monitor,electronics,, ,Cash,new york,Sara
+233,,Wholesale,Phone,Electronics,,,Card,new york,Fatima
+234,2023-05-02,Retail,Keyboard,office,, ,Cash,NY ,
+235,,Wholesale,Tablet, ELECTRONICS ,3.0,,Card,new york,Sara
+236,17-11-2023,Online,Laptop,electronics,2.0,,Transfer,Chicago,Sara
+237,01/08/2022,Online,Mouse,office,2.0,,Card,Chicago,Fatima
+238,28-10-2022,Online,Tablet,Electronics,3.0,997.04,Cash,Chicago,Ali
+239,05/13/2024,Wholesale,Laptop,office,, ,Cash,chicago,Sara
+240,,Wholesale,Tablet,office,2.0,2717.87,Transfer,NY ,
+241,28-02-2024,Wholesale,Monitor,Office,1.0,,Transfer,chicago,Sara
+242,2022-10-13,Online,Keyboard,Office,,2034.05,,,Ali
+243,26-09-2023,Retail,Mouse,office,,1734.14,Transfer,chicago,Fatima
+244,01/27/2023,Online,Phone, ELECTRONICS ,,1514.61,Card,Chicago,
+245,,Retail,Phone,Office,2.0,,,Chicago,Ali
+246,16-03-2023,Online,Laptop,Office,2.0, ,card,Chicago,John
+247,2023-11-12,Retail,Mouse,Office,2.0, ,card,New York,
+248,31-10-2023,Online,Tablet, ELECTRONICS ,1.0,,Card,Chicago,Ali
+249,06/10/2024,Retail,Phone,Office,, ,Transfer,chicago,Fatima
+250,,Online,Laptop, ELECTRONICS ,1.0,2326.69,card,,John
+251,2022-09-18,Wholesale,Keyboard, ELECTRONICS ,1.0, ,card,NY ,
+252,2024-06-18,Retail,Keyboard,office,2.0,,,,John
+253,05/19/2024,Wholesale,Monitor, ELECTRONICS ,3.0, ,,new york,Fatima
+254,2024-01-14,Online,Phone, ELECTRONICS ,2.0,,Cash,NY ,Sara
+255,02/17/2024,Retail,Keyboard, ELECTRONICS ,2.0, ,Cash,,John
+256,2024-04-19,Online,Keyboard,Electronics,2.0, ,Card,Chicago,Fatima
+257,03/24/2022,Online,Laptop,Electronics,1.0,2790.94,,Chicago,John
+258,,Wholesale,Keyboard,electronics,3.0, ,,NY ,Fatima
+259,,Retail,Mouse,office,,,Transfer,new york,John
+260,2023-07-13,Wholesale,Phone,office,3.0, ,Card,Chicago,Ali
+261,2022-12-23,Online,Tablet, ELECTRONICS ,2.0, ,Card,New York,Fatima
+262,2023-05-21,Wholesale,Laptop,electronics,1.0,2189.92,Cash,chicago,Fatima
+263,2023-07-09,Wholesale,Keyboard,office,1.0,,Card,chicago,John
+264,09-12-2022,Retail,Laptop, ELECTRONICS ,1.0,,card,,Sara
+265,,Online,Phone,electronics,,276.06,Transfer,chicago,
+266,2022-03-05,Online,Phone, ELECTRONICS ,1.0,1682.65,,Chicago,
+267,02/19/2023,Wholesale,Laptop,Electronics,,,,,
+268,06/19/2023,Wholesale,Tablet,Electronics,3.0,1473.58,Transfer,new york,John
+269,,Wholesale,Tablet,office,,,Transfer,new york,Sara
+270,2022-05-27,Online,Monitor,office,, ,Cash,new york,Sara
+271,,Online,Keyboard,Office,, ,Cash,,Sara
+272,09/17/2022,Online,Laptop,Electronics,1.0,665.22,Card,Chicago,Ali
+273,2022-09-22,Wholesale,Keyboard,office,1.0, ,card,,Ali
+274,2023-06-04,Wholesale,Phone,office,1.0,,,NY ,Ali
+275,11/13/2023,Retail,Keyboard,office,,,card,,John
+276,,Retail,Tablet,Office,, ,,,Sara
+277,2022-01-07,Online,Phone,Electronics,2.0,630.16,,chicago,John
+278,24-10-2023,Retail,Mouse,Office,,,Card,chicago,Fatima
+279,2022-12-02,Retail,Monitor, ELECTRONICS ,2.0,2232.43,card,new york,John
+280,,Retail,Tablet,electronics,2.0,,,NY ,Ali
+281,,Online,Mouse,Electronics,3.0,652.33,card,Chicago,John
+282,2022-09-14,Wholesale,Phone,Office,2.0, ,Card,new york,
+283,08-04-2023,Online,Mouse,Electronics,3.0,107.84,Card,New York,
+284,04/23/2024,Wholesale,Monitor,Office,2.0,2644.98,card,chicago,John
+285,,Online,Mouse,office,2.0,,Card,Chicago,
+286,,Wholesale,Mouse,office,1.0, ,Transfer,chicago,Ali
+287,2023-07-15,Retail,Monitor,Office,2.0,,,new york,
+288,06/19/2023,Wholesale,Monitor,office,2.0,2800.07,card,New York,John
+289,,Wholesale,Tablet,Electronics,,,Cash,chicago,Sara
+290,,Retail,Monitor,electronics,3.0, ,,chicago,Ali
+291,2022-10-22,Retail,Keyboard,office,2.0,,Transfer,NY ,John
+292,,Retail,Tablet,Electronics,2.0, ,,NY ,Sara
+293,11/23/2022,Online,Monitor, ELECTRONICS ,2.0,,card,Chicago,John
+294,2024-02-25,Wholesale,Monitor,electronics,1.0,1588.92,,chicago,John
+295,,Retail,Keyboard, ELECTRONICS ,1.0, ,card,Chicago,
+296,31-07-2023,Wholesale,Tablet,Office,1.0,,card,chicago,
+297,10/07/2022,Retail,Mouse,Office,3.0,2423.82,Card,Chicago,
+298,15-08-2023,Retail,Keyboard,electronics,2.0,740.3,,new york,Fatima
+299,2022-09-18,Wholesale,Mouse,Office,3.0, ,,NY ,Fatima
+300,,Wholesale,Phone,electronics,3.0,,card,chicago,Fatima
+301,28-03-2023,Wholesale,Keyboard,office,, ,,Chicago,Sara
+302,19-04-2022,Wholesale,Monitor,office,3.0,,Cash,,Sara
+303,2022-09-21,Online,Keyboard,office,1.0, ,Transfer,chicago,Ali
+304,03/07/2024,Retail,Phone,Office,2.0,2043.44,Card,new york,Fatima
+305,2023-11-02,Retail,Monitor,Office,1.0,940.93,Card,,John
+306,14-07-2022,Retail,Keyboard,office,,2898.24,card,NY ,Sara
+307,03/13/2024,Retail,Tablet,office,1.0, ,Transfer,,Ali
+308,,Online,Phone,Electronics,1.0, ,Transfer,Chicago,Sara
+309,,Retail,Tablet,office,, ,Transfer,New York,Fatima
+310,19-12-2022,Wholesale,Tablet,Electronics,2.0,,Card,New York,John
+311,2022-05-06,Retail,Mouse,Office,3.0,,,New York,
+312,10/14/2022,Retail,Laptop, ELECTRONICS ,3.0,2329.65,card,chicago,Ali
+313,2022-09-14,Wholesale,Monitor, ELECTRONICS ,,,Cash,,Sara
+314,05/17/2023,Retail,Mouse,Office,1.0,397.87,card,Chicago,Fatima
+315,05-11-2023,Online,Mouse,electronics,1.0, ,Transfer,NY ,
+316,03/16/2022,Wholesale,Keyboard,electronics,2.0,87.95,Transfer,chicago,Ali
+317,,Retail,Monitor,Office,,,card,new york,Ali
+318,,Retail,Phone, ELECTRONICS ,1.0, ,Cash,new york,Sara
+319,,Retail,Keyboard,electronics,2.0,2198.4,Card,new york,Fatima
+320,2022-05-23,Wholesale,Phone,Electronics,,,,chicago,Ali
+321,04/28/2023,Online,Mouse, ELECTRONICS ,3.0,,Cash,new york,
+322,27-08-2022,Retail,Mouse,office,1.0, ,Cash,NY ,John
+323,2024-05-12,Wholesale,Laptop,electronics,1.0,1710.49,Cash,new york,
+324,26-01-2024,Wholesale,Keyboard,Electronics,2.0,,Transfer,,Fatima
+325,,Retail,Keyboard,Office,3.0,,Cash,New York,Ali
+326,2022-07-12,Online,Phone,electronics,3.0,2443.96,Card,new york,
+327,,Online,Tablet, ELECTRONICS ,3.0,2469.32,Cash,new york,Fatima
+328,21-12-2022,Online,Tablet,electronics,,,Cash,new york,Sara
+329,06/14/2024,Online,Phone,Office,3.0, ,,chicago,Ali
+330,,Retail,Tablet,office,1.0,1374.43,Transfer,New York,
+331,2023-01-21,Wholesale,Keyboard,Office,1.0, ,,new york,John
+332,04/17/2022,Online,Tablet,Electronics,1.0,,,NY ,Fatima
+333,2023-04-16,Online,Keyboard,electronics,,,,NY ,Fatima
+334,07/12/2022,Wholesale,Laptop,Office,3.0,,Transfer,New York,Sara
+335,2022-05-02,Retail,Laptop,office,2.0,1487.42,Card,New York,Sara
+336,2022-03-25,Online,Laptop,Electronics,2.0, ,,Chicago,
+337,2024-03-24,Retail,Mouse, ELECTRONICS ,3.0,1255.46,,,Ali
+338,2022-10-13,Wholesale,Mouse,office,,1585.55,Cash,New York,
+339,2022-09-08,Online,Mouse,electronics,3.0, ,Cash,New York,John
+340,2023-01-13,Wholesale,Laptop, ELECTRONICS ,,1024.77,card,New York,
+341,05-04-2023,Online,Keyboard,Office,,2415.85,,Chicago,John
+342,2023-06-04,Wholesale,Tablet,office,3.0, ,,new york,Sara
+343,,Wholesale,Mouse,electronics,3.0,,Cash,New York,John
+344,2022-07-30,Retail,Laptop, ELECTRONICS ,1.0, ,,Chicago,Fatima
+345,,Online,Mouse,office,, ,card,chicago,Fatima
+346,22-01-2022,Online,Laptop,Office,1.0,2446.37,Transfer,Chicago,Fatima
+347,30-04-2022,Retail,Phone,Office,2.0,,Transfer,Chicago,
+348,2024-02-18,Wholesale,Phone, ELECTRONICS ,3.0, ,card,Chicago,Ali
+349,26-07-2022,Retail,Mouse,Electronics,3.0,2134.84,Card,,
+350,06/08/2023,Retail,Laptop, ELECTRONICS ,3.0,682.51,card,new york,John
+351,,Retail,Phone, ELECTRONICS ,2.0, ,Card,New York,
+352,2023-11-11,Online,Phone,Office,,595.34,Transfer,chicago,
+353,,Wholesale,Mouse, ELECTRONICS ,2.0,541.3,Transfer,NY ,John
+354,11/29/2022,Online,Laptop,Office,2.0, ,Transfer,new york,Fatima
+355,2023-08-16,Online,Tablet,Office,2.0,,Transfer,NY ,John
+356,,Wholesale,Phone,office,3.0,2212.14,card,Chicago,Ali
+357,07/02/2023,Wholesale,Tablet, ELECTRONICS ,2.0,2490.57,Transfer,New York,Ali
+358,12-03-2022,Retail,Laptop,office,3.0, ,,,
+359,05/08/2024,Wholesale,Tablet, ELECTRONICS ,,,Cash,new york,Fatima
+360,01/26/2023,Retail,Laptop,Office,2.0, ,,NY ,John
+361,01/28/2024,Online,Mouse,electronics,1.0,1875.07,Transfer,new york,Ali
+362,05/15/2023,Online,Mouse,Electronics,, ,Cash,Chicago,Fatima
+363,2024-05-27,Online,Keyboard,electronics,1.0,474.15,Card,Chicago,John
+364,,Online,Monitor,Office,3.0,1875.81,Card,NY ,John
+365,24-03-2022,Retail,Tablet,Electronics,2.0,,Transfer,new york,Sara
+366,06-09-2023,Retail,Laptop,office,2.0,2284.75,Cash,Chicago,
+367,15-05-2022,Retail,Monitor,Office,2.0,880.99,,chicago,Ali
+368,2023-01-29,Retail,Phone,Electronics,2.0, ,Transfer,New York,Sara
+369,12/19/2023,Retail,Mouse,electronics,,1242.03,card,chicago,Fatima
+370,,Online,Mouse,office,2.0, ,Transfer,,
+371,2022-09-22,Retail,Mouse,Office,,531.14,card,chicago,John
+372,,Wholesale,Tablet, ELECTRONICS ,,,card,new york,Fatima
+373,2022-04-03,Wholesale,Monitor,electronics,3.0,,card,chicago,Fatima
+374,10/08/2023,Online,Phone,office,2.0, ,Cash,,John
+375,2022-02-13,Wholesale,Mouse,electronics,1.0,2859.76,Cash,Chicago,Sara
+376,,Wholesale,Laptop,office,3.0,,Card,,Sara
+377,06/04/2024,Retail,Laptop,office,,1998.11,,NY ,John
+378,,Online,Phone,office,3.0,,Transfer,chicago,Ali
+379,04-07-2022,Retail,Keyboard,Office,1.0,2952.64,,chicago,
+380,16-06-2023,Retail,Tablet,Office,1.0, ,Cash,new york,
+381,,Wholesale,Monitor,Office,3.0,780.33,Cash,chicago,Sara
+382,,Wholesale,Tablet,office,1.0,,,new york,
+383,03/04/2022,Retail,Monitor,Office,3.0, ,Transfer,Chicago,
+384,01/22/2023,Retail,Mouse, ELECTRONICS ,1.0,900.02,,New York,Sara
+385,17-10-2023,Online,Phone,office,,,Transfer,chicago,Fatima
+386,03-04-2023,Online,Phone, ELECTRONICS ,,452.04,card,new york,
+387,01/17/2023,Retail,Phone,Electronics,,138.07,Transfer,Chicago,Fatima
+388,10-06-2023,Wholesale,Keyboard,Office,,,Card,,Fatima
+389,,Online,Mouse,Office,3.0,1970.46,Card,New York,Sara
+390,20-04-2024,Retail,Phone,Electronics,1.0,2286.46,,NY ,
+391,,Retail,Tablet, ELECTRONICS ,1.0, ,Cash,NY ,John
+392,25-06-2022,Wholesale,Phone, ELECTRONICS ,1.0,1947.97,Card,NY ,Fatima
+393,06/15/2023,Online,Monitor, ELECTRONICS ,, ,card,NY ,Fatima
+394,02-06-2022,Online,Laptop,Office,3.0,,card,NY ,Ali
+395,,Retail,Mouse,electronics,2.0, ,Card,Chicago,John
+396,15-03-2023,Retail,Tablet,electronics,,2958.93,,NY ,Sara
+397,07/13/2022,Online,Phone,Electronics,3.0,2212.49,Card,NY ,Fatima
+398,14-03-2022,Online,Monitor,electronics,, ,,,
+399,30-01-2022,Online,Keyboard,Electronics,,,Transfer,new york,Ali
+400,,Wholesale,Phone,Electronics,2.0,1755.45,Transfer,chicago,Sara
+401,,Wholesale,Mouse,office,3.0, ,,NY ,
+402,11-04-2022,Online,Monitor, ELECTRONICS ,2.0,2321.21,,,Fatima
+403,2024-01-25,Online,Monitor,office,2.0, ,card,new york,Fatima
+404,2022-09-27,Online,Tablet,Office,1.0,1135.43,Card,,
+405,,Retail,Mouse,office,2.0,2712.98,,Chicago,Ali
+406,2023-12-11,Online,Phone,electronics,2.0,313.54,Card,New York,Fatima
+407,,Retail,Mouse, ELECTRONICS ,1.0,1214.48,,chicago,Fatima
+408,2022-09-10,Online,Keyboard,Office,,,Cash,Chicago,Ali
+409,,Retail,Keyboard,Office,1.0,301.25,Cash,NY ,Ali
+410,20-05-2022,Online,Mouse,Office,, ,Card,Chicago,Ali
+411,10/31/2022,Online,Monitor,office,,1929.49,Cash,NY ,Sara
+412,05-04-2023,Wholesale,Phone,office,,,Card,,John
+413,,Retail,Laptop,office,2.0,924.52,Card,,
+414,2022-01-14,Retail,Monitor, ELECTRONICS ,3.0,,Transfer,NY ,
+415,2023-03-10,Online,Monitor,Office,,,card,chicago,Sara
+416,25-07-2023,Wholesale,Tablet, ELECTRONICS ,,1560.71,,,Fatima
+417,11-07-2022,Retail,Laptop,office,2.0,,Transfer,Chicago,
+418,2022-11-04,Online,Keyboard,office,2.0,,Transfer,,John
+419,11/04/2022,Wholesale,Keyboard,electronics,2.0, ,card,,Fatima
+420,2023-05-21,Wholesale,Monitor,electronics,3.0,611.52,Card,chicago,
+421,07/04/2022,Wholesale,Mouse,Electronics,3.0,2844.88,Cash,Chicago,Fatima
+422,2024-06-02,Online,Laptop,electronics,2.0,220.69,card,Chicago,John
+423,09-01-2023,Online,Mouse,office,3.0,,,Chicago,Sara
+424,07/17/2023,Online,Tablet,office,1.0,1007.81,Transfer,chicago,Sara
+425,08/03/2023,Online,Laptop,electronics,,,Card,chicago,Ali
+426,,Wholesale,Laptop,electronics,,,Transfer,NY ,Fatima
+427,2023-07-14,Retail,Laptop,office,1.0, ,Transfer,chicago,John
+428,,Retail,Monitor,Electronics,3.0,,Card,New York,Ali
+429,2023-02-06,Wholesale,Mouse, ELECTRONICS ,2.0,2630.1,Card,New York,Fatima
+430,,Online,Tablet,Office,1.0,1691.87,Cash,New York,Fatima
+431,,Wholesale,Monitor,electronics,3.0, ,Transfer,Chicago,
+432,2022-01-16,Wholesale,Phone,electronics,2.0,,Cash,NY ,
+433,,Wholesale,Phone,Electronics,1.0, ,Card,,Fatima
+434,2023-10-22,Online,Keyboard,office,, ,card,new york,Sara
+435,2023-06-04,Retail,Phone,electronics,,,card,NY ,Sara
+436,19-04-2022,Wholesale,Mouse, ELECTRONICS ,,,Card,new york,Sara
+437,04-06-2024,Retail,Monitor,electronics,3.0,,Card,Chicago,Ali
+438,2023-02-10,Retail,Keyboard, ELECTRONICS ,1.0,,,NY ,John
+439,,Retail,Phone,Office,,,Card,chicago,Ali
+440,20-03-2024,Retail,Monitor,Electronics,3.0,2855.66,,,Ali
+441,,Online,Monitor,electronics,2.0,,Transfer,Chicago,John
+442,09-06-2024,Wholesale,Tablet,office,3.0,2174.89,Card,,Fatima
+443,02/24/2024,Retail,Keyboard, ELECTRONICS ,2.0,603.53,card,new york,Fatima
+444,2024-01-21,Retail,Monitor,electronics,3.0,,Transfer,NY ,
+445,06-09-2023,Online,Tablet,electronics,2.0,1610.87,Transfer,,Sara
+446,2023-05-14,Wholesale,Mouse,Office,2.0, ,Transfer,new york,
+447,28-02-2022,Wholesale,Phone,electronics,,606.26,Card,NY ,Sara
+448,,Online,Phone,electronics,1.0,,Transfer,,Fatima
+449,,Online,Monitor,office,,2470.48,card,New York,
+450,07/29/2022,Wholesale,Keyboard,Electronics,2.0,,Card,New York,Sara
+451,,Retail,Phone,electronics,3.0,,card,Chicago,Fatima
+452,,Online,Tablet,Electronics,,,card,chicago,
+453,03/01/2024,Online,Monitor,Office,, ,Cash,chicago,Ali
+454,22-12-2022,Retail,Monitor,Office,1.0, ,Card,chicago,Ali
+455,2023-08-15,Wholesale,Tablet,electronics,, ,,New York,Ali
+456,11/26/2023,Wholesale,Phone,Office,1.0,1463.54,Card,chicago,
+457,,Retail,Mouse,Electronics,3.0,,Card,new york,Fatima
+458,2022-03-27,Retail,Phone,Electronics,1.0,1044.97,,Chicago,Sara
+459,19-12-2022,Retail,Phone,electronics,3.0, ,Transfer,,Fatima
+460,,Retail,Phone,electronics,2.0,880.36,Card,NY ,John
+461,05/06/2022,Retail,Laptop,electronics,, ,Transfer,NY ,John
+462,2022-11-11,Online,Keyboard,Office,3.0,,Cash,Chicago,Fatima
+463,08/24/2022,Retail,Phone,Electronics,3.0,2321.35,card,NY ,Ali
+464,06-06-2024,Retail,Laptop,electronics,2.0, ,Transfer,chicago,Sara
+465,2024-05-02,Online,Monitor, ELECTRONICS ,2.0, ,Cash,Chicago,John
+466,,Wholesale,Phone,Electronics,2.0,782.62,Card,Chicago,Ali
+467,02/11/2022,Retail,Mouse,electronics,1.0,233.06,card,Chicago,Ali
+468,2023-11-02,Wholesale,Mouse, ELECTRONICS ,,,Card,chicago,Sara
+469,,Retail,Monitor,electronics,3.0,,Transfer,chicago,Fatima
+470,2024-01-13,Wholesale,Monitor,Electronics,3.0, ,Transfer,new york,Fatima
+471,2022-09-01,Online,Keyboard,Electronics,,,,chicago,
+472,,Retail,Phone, ELECTRONICS ,3.0,1274.11,Cash,chicago,John
+473,2022-12-04,Online,Mouse,electronics,, ,card,new york,
+474,2022-09-19,Wholesale,Mouse,Office,2.0,1618.48,Transfer,New York,Ali
+475,2022-01-09,Wholesale,Phone,office,3.0,816.13,Card,new york,Ali
+476,,Retail,Keyboard, ELECTRONICS ,3.0, ,Card,New York,Sara
+477,08/13/2023,Retail,Mouse,Office,3.0,1227.36,Cash,New York,Ali
+478,,Wholesale,Tablet,Electronics,3.0, ,card,,
+479,20-04-2023,Retail,Laptop,electronics,3.0, ,Cash,Chicago,Ali
+480,18-10-2022,Online,Phone,Office,2.0,929.33,card,New York,Sara
+481,23-12-2022,Retail,Tablet,office,3.0,1139.75,Card,New York,Fatima
+482,2022-05-18,Retail,Laptop,Office,,,Transfer,chicago,Fatima
+483,08/05/2023,Online,Keyboard, ELECTRONICS ,3.0,1222.43,Cash,new york,Sara
+484,17-07-2023,Wholesale,Phone, ELECTRONICS ,2.0,2156.12,,new york,
+485,2023-01-05,Wholesale,Laptop,office,2.0,1559.97,Card,NY ,Fatima
+486,04/02/2023,Online,Mouse,Electronics,3.0,809.47,Card,new york,Fatima
+487,,Wholesale,Laptop, ELECTRONICS ,,362.74,Card,Chicago,John
+488,,Wholesale,Monitor,Electronics,3.0,,,Chicago,Fatima
+489,,Online,Phone,Office,2.0, ,card,Chicago,
+490,27-07-2022,Retail,Laptop,Electronics,3.0,2803.95,Cash,new york,Ali
+491,19-01-2023,Online,Keyboard,Electronics,3.0, ,card,chicago,Ali
+492,04/30/2022,Retail,Phone,Office,1.0, ,,Chicago,Sara
+493,27-08-2022,Online,Laptop,electronics,, ,Cash,new york,Fatima
+494,08/12/2022,Wholesale,Mouse, ELECTRONICS ,3.0,,Transfer,chicago,Fatima
+495,,Retail,Phone,electronics,,33.7,card,Chicago,
+496,2024-05-10,Retail,Keyboard,Electronics,2.0,2948.55,Card,,Sara
+497,09-05-2022,Retail,Keyboard, ELECTRONICS ,, ,Transfer,chicago,Sara
+498,,Online,Monitor,office,3.0,2078.71,,Chicago,John
+499,01/08/2023,Online,Laptop,Electronics,2.0, ,Card,New York,
+500,,Online,Laptop,electronics,,,,,
+501,2024-04-29,Wholesale,Keyboard, ELECTRONICS ,3.0,275.25,Cash,New York,
+502,2022-03-21,Online,Laptop,Office,1.0,,Transfer,,John
+503,,Retail,Keyboard,Electronics,2.0,,Cash,chicago,John
+504,10/16/2022,Wholesale,Tablet,Office,1.0,,card,new york,John
+505,,Wholesale,Phone,electronics,1.0,627.98,Card,chicago,John
+506,,Wholesale,Phone,Office,3.0,1408.96,Cash,Chicago,
+507,2022-09-16,Retail,Mouse, ELECTRONICS ,,2448.67,Cash,chicago,John
+508,2023-09-24,Online,Tablet,Electronics,3.0,2870.34,Card,,
+509,02/12/2024,Wholesale,Laptop,office,, ,Transfer,,Fatima
+510,06/19/2022,Online,Monitor, ELECTRONICS ,2.0,2956.76,Cash,new york,Sara
+511,,Online,Laptop, ELECTRONICS ,3.0,2395.29,card,Chicago,John
+512,10-05-2024,Wholesale,Keyboard,office,3.0, ,Cash,new york,Sara
+513,2023-02-10,Online,Tablet,Electronics,, ,Card,,Fatima
+514,2023-06-20,Wholesale,Keyboard,Office,1.0, ,,chicago,
+515,2023-12-25,Wholesale,Laptop,office,3.0,1672.51,,chicago,Sara
+516,01/30/2024,Retail,Monitor,electronics,2.0,2863.45,Transfer,new york,John
+517,09/06/2023,Online,Laptop,electronics,, ,,chicago,Fatima
+518,2023-02-25,Wholesale,Laptop, ELECTRONICS ,,,Transfer,New York,
+519,03/30/2024,Retail,Monitor,office,1.0,,Card,,
+520,29-07-2023,Wholesale,Laptop,Electronics,,,card,New York,John
+521,05/04/2022,Retail,Keyboard,electronics,2.0,,Cash,New York,John
+522,,Online,Laptop,office,3.0,,Card,NY ,Ali
+523,09/29/2023,Retail,Phone,Electronics,2.0,2617.85,card,NY ,Ali
+524,,Wholesale,Mouse,office,3.0,364.49,Cash,Chicago,John
+525,2022-11-16,Online,Tablet,electronics,3.0,,Transfer,NY ,John
+526,02/07/2022,Wholesale,Laptop,Office,1.0,,card,,
+527,05/17/2023,Retail,Monitor,electronics,3.0,,Cash,,
+528,,Retail,Laptop,office,,1814.99,Card,Chicago,Ali
+529,06-09-2023,Online,Phone,Office,3.0,2403.04,,,
+530,,Online,Laptop,Office,1.0, ,card,chicago,Fatima
+531,13-09-2023,Retail,Mouse,Office,, ,,New York,
+532,01/23/2023,Retail,Laptop,Office,3.0,1691.02,Cash,chicago,Fatima
+533,,Retail,Laptop, ELECTRONICS ,3.0,,Cash,NY ,John
+534,07/09/2023,Online,Phone,electronics,,1204.66,,Chicago,Sara
+535,14-03-2022,Retail,Phone,Electronics,3.0,2062.83,Cash,New York,Fatima
+536,2023-08-17,Wholesale,Mouse, ELECTRONICS ,3.0,,Transfer,new york,Sara
+537,03/02/2024,Online,Keyboard, ELECTRONICS ,1.0, ,,Chicago,Ali
+538,,Wholesale,Keyboard,Electronics,,,card,new york,
+539,2022-06-21,Wholesale,Monitor,electronics,3.0,2290.49,Card,new york,Sara
+540,01-10-2022,Online,Mouse,Office,1.0,2026.84,,chicago,Fatima
+541,,Retail,Monitor,electronics,1.0,1721.59,,NY ,
+542,14-08-2023,Wholesale,Tablet,electronics,2.0, ,Transfer,,John
+543,2022-05-17,Wholesale,Phone,Electronics,3.0, ,Card,,Ali
+544,2023-03-03,Wholesale,Tablet, ELECTRONICS ,1.0, ,card,Chicago,Fatima
+545,,Online,Tablet,Office,,,card,,
+546,2024-04-04,Online,Monitor,Office,2.0,,Card,Chicago,Sara
+547,11/24/2023,Wholesale,Mouse,office,,1190.4,card,Chicago,Fatima
+548,,Wholesale,Tablet,Electronics,,,card,,
+549,07-11-2023,Online,Phone, ELECTRONICS ,1.0, ,card,NY ,Sara
+550,02/04/2024,Retail,Tablet,office,1.0, ,,Chicago,Sara
+551,07/02/2023,Wholesale,Tablet,electronics,3.0,,Transfer,new york,Ali
+552,04-11-2023,Wholesale,Phone,office,2.0,,card,NY ,
+553,25-03-2022,Online,Keyboard,electronics,2.0, ,Cash,Chicago,John
+554,,Retail,Laptop,office,2.0,1202.82,Cash,New York,
+555,21-06-2022,Online,Keyboard,Electronics,3.0, ,card,New York,
+556,,Retail,Monitor,Electronics,1.0, ,Card,New York,Fatima
+557,,Wholesale,Laptop,office,,,card,,Fatima
+558,24-11-2022,Online,Phone,office,,2635.92,card,Chicago,John
+559,,Retail,Mouse,office,3.0,199.07,,NY ,Sara
+560,13-10-2022,Online,Mouse,electronics,1.0,,Cash,New York,John
+561,24-12-2023,Online,Mouse,office,2.0,,Transfer,Chicago,
+562,2023-03-14,Online,Tablet,electronics,1.0,1471.99,Transfer,chicago,John
+563,07-05-2024,Retail,Monitor, ELECTRONICS ,1.0, ,Cash,chicago,Sara
+564,11/21/2022,Online,Phone,Office,2.0,,Transfer,NY ,Fatima
+565,06/10/2023,Online,Monitor, ELECTRONICS ,,2886.74,Transfer,new york,Sara
+566,15-03-2024,Online,Laptop,Electronics,2.0,28.85,Card,New York,Fatima
+567,,Retail,Monitor,Electronics,2.0, ,card,,John
+568,13-08-2023,Wholesale,Monitor,Electronics,,2352.4,Card,NY ,John
+569,12-09-2023,Wholesale,Tablet,Electronics,3.0,2522.41,Transfer,NY ,John
+570,13-09-2022,Wholesale,Monitor,electronics,3.0,2112.48,Card,chicago,John
+571,2023-11-22,Wholesale,Mouse,Office,1.0, ,,NY ,Sara
+572,20-07-2022,Online,Mouse,Office,2.0,,Transfer,Chicago,Fatima
+573,2023-03-11,Wholesale,Tablet,Office,2.0,642.6,Cash,New York,John
+574,2022-03-21,Wholesale,Keyboard,Electronics,,,Card,chicago,
+575,05/16/2023,Retail,Keyboard,Office,, ,,NY ,
+576,10-11-2022,Retail,Monitor,Office,,,Cash,Chicago,Ali
+577,10-01-2022,Online,Mouse,electronics,2.0,,Transfer,NY ,Sara
+578,2023-02-09,Retail,Laptop,Electronics,3.0,,Cash,New York,Ali
+579,12/16/2022,Online,Keyboard, ELECTRONICS ,, ,Cash,NY ,Fatima
+580,06/02/2023,Wholesale,Tablet,office,1.0,1196.75,Transfer,NY ,Ali
+581,03/15/2024,Online,Monitor,electronics,, ,Card,new york,Sara
+582,13-12-2023,Online,Monitor,Office,1.0, ,Transfer,new york,Fatima
+583,07/10/2023,Retail,Monitor,Electronics,2.0, ,Transfer,chicago,Sara
+584,12/28/2022,Online,Phone,Electronics,2.0, ,Cash,Chicago,Fatima
+585,05-06-2022,Wholesale,Keyboard,Office,, ,Cash,Chicago,Ali
+586,,Retail,Laptop,Office,1.0,,Transfer,new york,
+587,05-11-2022,Retail,Monitor,office,1.0,,,chicago,Fatima
+588,2022-08-22,Online,Monitor,Office,3.0,,card,chicago,Sara
+589,,Wholesale,Phone,electronics,,1268.11,Transfer,chicago,Sara
+590,09/16/2022,Online,Laptop,Electronics,2.0,1906.56,Transfer,NY ,Fatima
+591,02/18/2024,Retail,Tablet,office,,,Card,,Fatima
+592,,Wholesale,Laptop,Electronics,2.0, ,Cash,new york,Sara
+593,,Online,Phone,Electronics,3.0,,Card,,Sara
+594,2022-01-28,Wholesale,Mouse,office,,,Card,chicago,John
+595,,Retail,Phone,Office,3.0, ,Transfer,NY ,Sara
+596,,Online,Monitor,electronics,1.0,835.64,,NY ,Fatima
+597,21-02-2023,Wholesale,Laptop,Office,2.0,,Card,,Sara
+598,27-02-2023,Wholesale,Monitor,Office,3.0, ,Transfer,chicago,Fatima
+599,10/18/2023,Wholesale,Mouse,Electronics,3.0, ,Card,new york,Sara
+600,05/25/2024,Wholesale,Phone,Office,1.0,1925.01,,chicago,Sara
+601,08-10-2022,Retail,Monitor,Office,3.0,,,new york,Sara
+602,,Retail,Laptop,Electronics,2.0,773.07,,Chicago,
+603,2022-03-03,Wholesale,Laptop,Electronics,1.0,,Card,Chicago,Ali
+604,2023-12-06,Wholesale,Keyboard,office,1.0,1292.57,Transfer,,
+605,,Wholesale,Tablet,office,,330.48,Transfer,chicago,Ali
+606,2022-03-31,Online,Laptop,electronics,2.0, ,,new york,Sara
+607,04/01/2023,Wholesale,Tablet,Electronics,3.0, ,,new york,Fatima
+608,,Retail,Keyboard,Office,1.0,,Transfer,,Sara
+609,04/10/2022,Retail,Tablet,Electronics,,,card,NY ,
+610,,Online,Mouse,electronics,1.0,471.04,card,NY ,Sara
+611,14-08-2023,Retail,Monitor,Electronics,,,card,chicago,
+612,2022-06-24,Online,Monitor,Electronics,3.0, ,card,new york,Fatima
+613,2022-03-02,Wholesale,Laptop,Electronics,,2697.73,Card,,Fatima
+614,09/19/2023,Wholesale,Monitor,electronics,3.0,658.31,card,NY ,
+615,,Retail,Keyboard,electronics,1.0,2540.65,Card,NY ,John
+616,17-01-2024,Wholesale,Mouse,Office,1.0,,Cash,new york,Ali
+617,28-11-2023,Wholesale,Mouse,Office,1.0, ,Card,New York,
+618,,Online,Mouse,Electronics,2.0,2089.9,Transfer,,
+619,07/02/2023,Retail,Monitor, ELECTRONICS ,2.0, ,,New York,Fatima
+620,2022-05-28,Wholesale,Mouse, ELECTRONICS ,2.0,,card,NY ,Fatima
+621,2023-11-05,Retail,Tablet,office,2.0,,Transfer,Chicago,Fatima
+622,2022-02-08,Retail,Laptop,Office,,,card,,Ali
+623,10-05-2023,Wholesale,Monitor, ELECTRONICS ,,703.25,Card,NY ,John
+624,,Retail,Laptop,office,3.0,,,NY ,Sara
+625,01-03-2023,Wholesale,Monitor, ELECTRONICS ,3.0,1211.43,,Chicago,John
+626,2024-05-03,Retail,Monitor,office,3.0, ,card,NY ,John
+627,07/23/2023,Wholesale,Keyboard,office,3.0,,card,New York,Fatima
+628,2022-05-09,Online,Mouse,electronics,, ,Card,,Fatima
+629,08/28/2022,Retail,Laptop,electronics,1.0, ,Transfer,Chicago,Fatima
+630,07/26/2023,Retail,Monitor,electronics,2.0, ,Transfer,New York,Sara
+631,2022-10-03,Retail,Phone,office,1.0, ,card,Chicago,Ali
+632,25-01-2024,Retail,Monitor,Electronics,2.0, ,Cash,Chicago,
+633,,Wholesale,Keyboard, ELECTRONICS ,2.0,142.75,,,
+634,01/16/2022,Retail,Mouse,Electronics,3.0,2930.95,,new york,
+635,02/11/2023,Online,Monitor, ELECTRONICS ,2.0,,,chicago,Fatima
+636,04/19/2024,Online,Keyboard,electronics,, ,Transfer,new york,John
+637,2022-01-12,Wholesale,Keyboard, ELECTRONICS ,1.0,,Cash,NY ,Ali
+638,2023-03-30,Wholesale,Tablet,Office,1.0,2426.17,,chicago,
+639,26-08-2023,Retail,Tablet, ELECTRONICS ,3.0,,Cash,new york,Sara
+640,2022-08-30,Retail,Laptop,Electronics,3.0, ,card,Chicago,Sara
+641,13-02-2024,Retail,Tablet,electronics,3.0, ,Card,new york,John
+642,2023-12-16,Wholesale,Mouse,electronics,3.0,,Cash,new york,Sara
+643,,Online,Laptop,electronics,1.0,2835.46,Transfer,,John
+644,,Retail,Keyboard,electronics,3.0, ,Cash,Chicago,Ali
+645,,Wholesale,Mouse,electronics,,142.72,,new york,Sara
+646,04/23/2023,Retail,Monitor,Electronics,1.0,2041.29,,,Fatima
+647,12/19/2023,Wholesale,Monitor,Electronics,1.0,841.09,,New York,
+648,2022-05-22,Retail,Laptop, ELECTRONICS ,3.0,1507.17,,new york,
+649,,Online,Phone,Electronics,3.0,,card,NY ,
+650,03/15/2023,Retail,Laptop,electronics,1.0, ,Card,NY ,Sara
+651,2024-02-02,Retail,Monitor,electronics,,1370.55,card,New York,Fatima
+652,,Online,Laptop, ELECTRONICS ,1.0,1191.36,Card,chicago,
+653,07/08/2022,Wholesale,Mouse,Electronics,2.0,,card,,
+654,2024-05-17,Wholesale,Phone, ELECTRONICS ,1.0,2237.82,Card,new york,Fatima
+655,27-02-2024,Retail,Mouse, ELECTRONICS ,,,Cash,Chicago,Fatima
+656,03/11/2023,Retail,Phone,Office,3.0,289.1,Cash,New York,Sara
+657,,Retail,Phone,electronics,2.0,,Card,new york,John
+658,06-02-2023,Retail,Mouse,electronics,,742.37,card,Chicago,
+659,2023-07-19,Retail,Laptop,office,3.0,,Card,,John
+660,,Wholesale,Phone,Electronics,2.0, ,Transfer,Chicago,Fatima
+661,2024-05-25,Online,Keyboard, ELECTRONICS ,3.0,,Transfer,Chicago,
+662,01/27/2023,Online,Tablet,electronics,2.0, ,,,Sara
+663,26-05-2024,Retail,Mouse,electronics,3.0, ,,NY ,
+664,,Wholesale,Laptop,office,,991.83,Cash,,Fatima
+665,,Wholesale,Laptop,Office,2.0,,card,new york,Fatima
+666,,Online,Phone,electronics,1.0, ,,NY ,John
+667,2023-08-07,Wholesale,Tablet,Electronics,1.0,860.49,Cash,chicago,Fatima
+668,,Wholesale,Tablet, ELECTRONICS ,1.0, ,Cash,NY ,Fatima
+669,2022-02-28,Retail,Mouse,Electronics,2.0,2810.04,Card,Chicago,John
+670,11/20/2022,Online,Tablet,Office,3.0, ,Transfer,NY ,Sara
+671,31-08-2023,Wholesale,Monitor,electronics,,2929.45,Transfer,chicago,Fatima
+672,2023-09-16,Online,Laptop,electronics,,530.74,card,New York,John
+673,2024-06-10,Retail,Keyboard,electronics,1.0, ,,,
+674,09/06/2023,Wholesale,Phone,office,1.0,,Card,new york,Sara
+675,,Retail,Keyboard,Electronics,3.0,596.74,Transfer,New York,John
+676,21-04-2024,Retail,Mouse,office,1.0,,Card,chicago,Fatima
+677,08-04-2022,Retail,Laptop,office,2.0,,Cash,,
+678,17-08-2023,Online,Mouse, ELECTRONICS ,2.0,,Cash,NY ,Sara
+679,2023-10-24,Wholesale,Keyboard,Office,1.0,,,chicago,
+680,,Retail,Laptop,electronics,, ,card,Chicago,Sara
+681,21-11-2022,Wholesale,Phone,office,3.0, ,Transfer,NY ,John
+682,,Wholesale,Laptop,electronics,3.0,94.23,Card,chicago,Fatima
+683,,Retail,Monitor,Electronics,2.0, ,card,,Ali
+684,2024-02-07,Wholesale,Mouse, ELECTRONICS ,, ,card,chicago,Fatima
+685,09/27/2023,Retail,Keyboard,electronics,,2528.44,Cash,NY ,Sara
+686,07-01-2022,Retail,Laptop,electronics,3.0, ,Transfer,New York,Sara
+687,03/12/2024,Retail,Keyboard, ELECTRONICS ,2.0, ,,Chicago,Ali
+688,2023-11-28,Retail,Laptop, ELECTRONICS ,, ,card,chicago,Ali
+689,2022-09-10,Online,Phone,electronics,1.0,2419.87,Cash,new york,Fatima
+690,2022-11-05,Online,Phone,electronics,1.0,1177.67,Transfer,chicago,Fatima
+691,11/10/2023,Wholesale,Phone,electronics,1.0,,card,new york,Ali
+692,21-12-2023,Online,Tablet, ELECTRONICS ,1.0,1329.09,,New York,Sara
+693,05/02/2024,Online,Tablet,office,1.0, ,Cash,NY ,Sara
+694,23-04-2024,Wholesale,Mouse,office,,,Transfer,chicago,John
+695,22-03-2022,Retail,Tablet,Electronics,3.0, ,Cash,Chicago,
+696,29-03-2022,Wholesale,Mouse,office,,1705.87,Cash,NY ,
+697,20-06-2022,Wholesale,Phone,Electronics,,2279.76,card,Chicago,
+698,,Retail,Keyboard,office,1.0,,,NY ,Fatima
+699,,Online,Monitor, ELECTRONICS ,1.0,,Card,Chicago,
+700,10-02-2024,Wholesale,Mouse,office,3.0, ,Cash,,Sara
+701,02-03-2024,Online,Phone,Electronics,3.0, ,card,Chicago,John
+702,03-10-2023,Retail,Mouse, ELECTRONICS ,,714.54,card,new york,Ali
+703,,Wholesale,Laptop,Office,2.0,1113.1,Transfer,chicago,
+704,2023-02-17,Online,Mouse,office,2.0,,Transfer,,Ali
+705,10/07/2023,Retail,Phone,office,,2039.12,Card,New York,Fatima
+706,,Online,Tablet,Electronics,2.0,,,Chicago,Ali
+707,12/20/2023,Retail,Keyboard,electronics,3.0,,Transfer,chicago,Sara
+708,,Wholesale,Phone,Electronics,1.0,246.96,Card,New York,
+709,2024-05-07,Online,Phone,Electronics,, ,card,Chicago,Sara
+710,01/12/2023,Wholesale,Laptop,Office,, ,Transfer,Chicago,John
+711,11-03-2022,Wholesale,Monitor, ELECTRONICS ,,,Cash,new york,Ali
+712,2023-10-04,Retail,Keyboard,electronics,1.0,741.49,Card,Chicago,Sara
+713,,Wholesale,Laptop, ELECTRONICS ,, ,,,Sara
+714,28-09-2022,Online,Phone,office,3.0,,Cash,new york,
+715,05-01-2024,Wholesale,Mouse,Electronics,, ,Transfer,chicago,Sara
+716,06/13/2022,Wholesale,Monitor,office,1.0, ,Transfer,chicago,
+717,2024-02-17,Online,Phone,office,2.0,112.16,,new york,
+718,,Retail,Keyboard,electronics,1.0,1071.44,card,NY ,John
+719,26-12-2022,Retail,Keyboard,electronics,,1822.8,,new york,Fatima
+720,,Wholesale,Laptop,Office,2.0,2108.09,,,John
+721,2024-02-04,Retail,Laptop,Electronics,3.0,,Card,Chicago,Ali
+722,,Retail,Keyboard,office,2.0,,,chicago,Fatima
+723,2023-01-07,Wholesale,Laptop,office,1.0, ,Card,,John
+724,22-09-2022,Retail,Monitor,electronics,3.0,,Card,chicago,Ali
+725,04/06/2023,Wholesale,Phone,Electronics,2.0,2881.87,Cash,chicago,Fatima
+726,2022-12-21,Online,Phone, ELECTRONICS ,1.0, ,Cash,NY ,John
+727,2023-11-14,Online,Mouse,Office,3.0,,Card,new york,Ali
+728,05-07-2022,Wholesale,Laptop,electronics,1.0,1974.38,Card,new york,Fatima
+729,25-07-2022,Retail,Tablet, ELECTRONICS ,2.0, ,card,new york,John
+730,19-01-2022,Wholesale,Mouse,Electronics,,2212.17,Card,new york,John
+731,2023-04-14,Retail,Mouse,Office,2.0,2441.95,card,NY ,Sara
+732,,Retail,Phone,Office,, ,card,NY ,Fatima
+733,,Retail,Phone,Office,,1550.42,Card,NY ,Ali
+734,02/07/2022,Wholesale,Tablet,office,, ,Transfer,NY ,Fatima
+735,2023-09-16,Wholesale,Monitor,electronics,2.0, ,Transfer,Chicago,Sara
+736,,Online,Tablet, ELECTRONICS ,3.0,2037.86,Transfer,new york,Fatima
+737,,Retail,Phone,electronics,3.0,,Cash,NY ,John
+738,24-05-2023,Retail,Mouse,office,2.0,1477.45,Card,,
+739,,Retail,Laptop, ELECTRONICS ,1.0,,,new york,Fatima
+740,,Retail,Phone, ELECTRONICS ,2.0,,Transfer,chicago,John
+741,16-01-2024,Online,Laptop,Office,1.0, ,Cash,chicago,John
+742,2024-02-15,Retail,Tablet,Office,1.0, ,,Chicago,Sara
+743,,Online,Keyboard,office,1.0,,Transfer,Chicago,Fatima
+744,,Wholesale,Phone,electronics,, ,card,new york,Fatima
+745,11/09/2023,Retail,Tablet,Electronics,, ,Transfer,new york,
+746,2022-08-14,Retail,Laptop,Electronics,,1610.71,Card,NY ,John
+747,2023-04-13,Online,Keyboard,Office,1.0,2283.45,Transfer,Chicago,Sara
+748,,Online,Keyboard,office,2.0,2937.49,,Chicago,John
+749,,Retail,Keyboard,electronics,, ,Transfer,Chicago,Fatima
+750,04/05/2022,Wholesale,Tablet,Electronics,3.0,842.55,Cash,New York,Sara
+751,02-12-2023,Wholesale,Keyboard,Electronics,,2329.86,Cash,chicago,John
+752,,Wholesale,Phone, ELECTRONICS ,2.0,2175.58,Cash,New York,Sara
+753,,Retail,Mouse, ELECTRONICS ,2.0,1092.59,,new york,Ali
+754,,Online,Laptop,Electronics,,,,new york,Fatima
+755,,Wholesale,Keyboard,office,,,Cash,Chicago,Fatima
+756,,Wholesale,Tablet,Electronics,,,card,,Sara
+757,,Wholesale,Monitor,office,,,card,chicago,Ali
+758,21-01-2023,Wholesale,Phone,Electronics,2.0,1561.17,Card,NY ,Sara
+759,,Wholesale,Tablet, ELECTRONICS ,, ,,New York,
+760,,Wholesale,Laptop,office,1.0,2655.54,card,new york,Ali
+761,11/03/2022,Online,Laptop,Electronics,,972.81,Transfer,NY ,Sara
+762,04/19/2024,Online,Laptop, ELECTRONICS ,1.0,,card,Chicago,Fatima
+763,09/05/2023,Online,Keyboard,Electronics,2.0, ,Card,Chicago,Fatima
+764,,Wholesale,Laptop, ELECTRONICS ,,654.2,card,Chicago,
+765,,Retail,Tablet,Office,1.0,592.18,card,Chicago,Ali
+766,2023-03-02,Wholesale,Monitor, ELECTRONICS ,3.0,,,NY ,
+767,2023-08-08,Retail,Mouse,office,,385.36,card,,Sara
+768,11-09-2023,Retail,Monitor,Electronics,2.0,,Card,Chicago,Sara
+769,,Wholesale,Monitor,electronics,3.0, ,Card,chicago,Sara
+770,19-09-2023,Retail,Laptop,Office,1.0,1746.7,Transfer,Chicago,Ali
+771,09/15/2023,Wholesale,Monitor, ELECTRONICS ,3.0,,Card,new york,John
+772,,Retail,Phone, ELECTRONICS ,3.0,825.97,Card,Chicago,Ali
+773,2022-03-25,Wholesale,Keyboard,Office,3.0, ,Transfer,Chicago,John
+774,2023-12-14,Wholesale,Mouse,office,3.0,,Cash,Chicago,
+775,,Wholesale,Monitor,electronics,3.0,,Card,NY ,Sara
+776,,Wholesale,Mouse,Electronics,3.0,2600.5,Transfer,chicago,Ali
+777,08-10-2022,Online,Laptop,electronics,1.0,388.59,Transfer,new york,Fatima
+778,2023-03-19,Wholesale,Phone,Office,,,,NY ,John
+779,01-05-2023,Retail,Mouse,office,3.0,695.99,Cash,chicago,Ali
+780,23-03-2022,Online,Laptop,electronics,2.0, ,Transfer,New York,John
+781,03/23/2023,Retail,Tablet, ELECTRONICS ,3.0,2382.32,Transfer,,Sara
+782,2022-09-20,Wholesale,Mouse,Electronics,2.0, ,Cash,New York,
+783,06/06/2024,Online,Phone,Office,3.0,,Cash,Chicago,John
+784,2023-09-16,Retail,Phone,office,3.0,2222.02,Card,New York,Ali
+785,02/25/2024,Online,Monitor,Office,3.0,,Card,Chicago,Ali
+786,12-03-2023,Wholesale,Mouse,Electronics,3.0,,Cash,New York,Fatima
+787,28-05-2023,Retail,Mouse,office,2.0, ,,New York,Fatima
+788,,Online,Keyboard,Electronics,,,Transfer,New York,Fatima
+789,09-04-2022,Retail,Laptop,Electronics,,,,chicago,Sara
+790,2022-08-26,Retail,Phone,office,,,card,chicago,Ali
+791,2023-11-08,Retail,Tablet,Electronics,2.0,1318.49,Card,New York,Fatima
+792,2022-06-21,Online,Keyboard,office,2.0,,Card,,Sara
+793,19-02-2024,Online,Keyboard,Electronics,3.0,,Transfer,Chicago,Fatima
+794,,Retail,Tablet,Electronics,3.0,2074.56,Cash,New York,Ali
+795,01-05-2023,Online,Tablet,office,2.0,980.64,card,,Fatima
+796,,Retail,Keyboard, ELECTRONICS ,,,,New York,
+797,,Wholesale,Mouse,Office,2.0,1114.35,Card,New York,Ali
+798,,Online,Phone,electronics,1.0,743.93,,New York,John
+799,,Retail,Laptop,Electronics,2.0, ,Card,chicago,Sara
+800,2022-04-13,Online,Phone,Office,3.0,,,chicago,Ali
+801,09-08-2023,Online,Phone,Electronics,,389.35,Card,new york,John
+802,,Wholesale,Keyboard,electronics,,1546.79,card,Chicago,John
+803,12/29/2022,Online,Monitor,Office,1.0,,,,Ali
+804,10-08-2022,Retail,Laptop,office,,,card,new york,
+805,10/29/2023,Retail,Phone,electronics,3.0,,,,Sara
+806,16-08-2022,Wholesale,Laptop, ELECTRONICS ,2.0,765.15,Transfer,,Sara
+807,2023-12-12,Retail,Laptop,office,2.0, ,card,NY ,Fatima
+808,12/05/2022,Retail,Phone,electronics,,352.32,Card,chicago,Ali
+809,02/28/2022,Retail,Tablet,electronics,, ,Cash,,Ali
+810,11-02-2023,Online,Tablet,electronics,2.0,,Transfer,new york,Fatima
+811,04/15/2023,Online,Mouse,Office,2.0,1650.81,Cash,Chicago,Ali
+812,,Wholesale,Phone, ELECTRONICS ,1.0, ,Transfer,new york,Ali
+813,11-12-2023,Retail,Mouse,Electronics,1.0,,card,chicago,
+814,2022-06-15,Online,Monitor,Electronics,2.0,2399.95,card,NY ,
+815,,Online,Phone,Office,3.0, ,card,NY ,John
+816,11/29/2022,Retail,Phone, ELECTRONICS ,1.0, ,Transfer,New York,Fatima
+817,,Retail,Phone,office,1.0,,card,new york,Fatima
+818,07/11/2022,Online,Keyboard,Electronics,2.0,,Transfer,new york,
+819,09/15/2023,Wholesale,Monitor,Office,,582.12,,New York,Fatima
+820,2022-11-02,Online,Monitor,office,,598.73,Cash,New York,Sara
+821,11/01/2023,Wholesale,Monitor, ELECTRONICS ,,,card,new york,Fatima
+822,2022-11-26,Wholesale,Laptop, ELECTRONICS ,2.0,235.98,Transfer,Chicago,Fatima
+823,2022-07-24,Retail,Laptop,electronics,1.0,,Transfer,chicago,Sara
+824,2024-03-19,Retail,Phone,electronics,1.0,2360.57,,chicago,Sara
+825,08-05-2022,Retail,Keyboard, ELECTRONICS ,1.0,,,new york,Sara
+826,2022-10-19,Retail,Mouse,Office,2.0,2928.83,,new york,Fatima
+827,03-06-2022,Wholesale,Mouse,Electronics,3.0, ,Cash,NY ,John
+828,2023-03-14,Retail,Tablet,Electronics,,82.44,Transfer,New York,John
+829,2023-08-19,Online,Keyboard,electronics,, ,Card,chicago,Ali
+830,05/10/2024,Online,Tablet,Office,, ,Card,Chicago,Ali
+831,2022-03-03,Online,Laptop,office,3.0,426.42,,Chicago,John
+832,11/12/2022,Wholesale,Tablet,Electronics,2.0,2985.21,card,chicago,Sara
+833,,Retail,Keyboard, ELECTRONICS ,,,,NY ,Sara
+834,06-09-2023,Wholesale,Phone,electronics,2.0, ,Transfer,chicago,John
+835,2023-12-23,Retail,Tablet,office,1.0,,,NY ,Ali
+836,,Wholesale,Mouse, ELECTRONICS ,1.0,1886.85,Cash,New York,Sara
+837,20-08-2022,Wholesale,Mouse,office,,877.02,,chicago,Sara
+838,25-01-2024,Wholesale,Phone,office,1.0, ,card,chicago,John
+839,2024-04-17,Wholesale,Mouse,office,2.0,,Card,New York,Fatima
+840,2022-08-20,Online,Monitor,Electronics,, ,Card,,Fatima
+841,12/20/2022,Online,Phone,office,,,card,New York,Ali
+842,10/26/2022,Wholesale,Phone,office,3.0,,,Chicago,John
+843,2022-01-12,Retail,Tablet,Office,2.0,,Transfer,new york,John
+844,02/03/2022,Wholesale,Keyboard,electronics,, ,Transfer,,John
+845,,Online,Tablet,Electronics,1.0,2635.09,card,chicago,
+846,05/16/2022,Wholesale,Tablet, ELECTRONICS ,,779.29,,new york,
+847,,Online,Keyboard,electronics,3.0,,,NY ,Ali
+848,,Online,Mouse,Electronics,3.0,1298.94,Transfer,New York,John
+849,18-03-2024,Wholesale,Phone,office,2.0,2977.45,Cash,new york,
+850,29-12-2023,Retail,Monitor, ELECTRONICS ,2.0,,Transfer,Chicago,John
+851,,Retail,Tablet,Electronics,1.0,,Card,New York,John
+852,2024-06-15,Retail,Phone,office,2.0, ,Cash,,
+853,11-06-2024,Online,Monitor, ELECTRONICS ,,,card,New York,Ali
+854,,Retail,Tablet,Electronics,3.0,1638.95,,,John
+855,,Wholesale,Phone,Office,2.0,2125.86,Card,Chicago,John
+856,18-07-2022,Retail,Keyboard,electronics,2.0, ,Transfer,,Ali
+857,,Retail,Phone,Office,, ,,new york,
+858,05/06/2022,Online,Keyboard, ELECTRONICS ,3.0,,Card,chicago,Sara
+859,2023-03-04,Wholesale,Laptop,Electronics,,800.5,,NY ,John
+860,01-01-2022,Retail,Laptop,Office,,1248.01,card,new york,Ali
+861,,Retail,Laptop,Office,,,Card,Chicago,Ali
+862,03/26/2023,Online,Monitor,office,1.0,,card,new york,Ali
+863,,Online,Tablet, ELECTRONICS ,, ,Card,,John
+864,27-07-2023,Online,Mouse, ELECTRONICS ,3.0,,card,,Fatima
+865,02/25/2023,Online,Keyboard,electronics,,,card,New York,Fatima
+866,10/26/2022,Wholesale,Laptop,Office,3.0,381.3,Card,new york,Sara
+867,12/25/2023,Retail,Phone,office,3.0,,Cash,NY ,Ali
+868,14-06-2024,Online,Keyboard, ELECTRONICS ,1.0,653.84,,new york,Sara
+869,04/21/2024,Wholesale,Mouse, ELECTRONICS ,2.0, ,Cash,,Ali
+870,,Retail,Mouse,electronics,, ,,New York,Ali
+871,19-03-2024,Retail,Phone,office,1.0, ,Card,,Fatima
+872,,Wholesale,Keyboard,Electronics,1.0,,Transfer,NY ,Fatima
+873,2023-10-22,Online,Keyboard, ELECTRONICS ,1.0, ,Card,,Ali
+874,14-08-2023,Online,Laptop, ELECTRONICS ,2.0,2220.19,,new york,Sara
+875,2023-01-11,Online,Keyboard, ELECTRONICS ,3.0,2163.3,card,Chicago,John
+876,06/04/2023,Wholesale,Mouse,Office,2.0,,,NY ,John
+877,,Online,Mouse,Office,2.0,,card,NY ,John
+878,2024-01-31,Retail,Laptop,Office,1.0,,Cash,New York,Ali
+879,09-05-2022,Retail,Laptop, ELECTRONICS ,3.0,,Card,,John
+880,01/17/2023,Online,Tablet,Office,3.0, ,Cash,NY ,
+881,21-04-2023,Wholesale,Mouse,Electronics,2.0,,Card,chicago,Sara
+882,30-06-2023,Online,Phone,electronics,, ,Card,New York,John
+883,16-01-2023,Online,Laptop,Office,2.0, ,Card,NY ,
+884,2023-06-13,Online,Phone,office,,,Card,new york,Sara
+885,2022-06-27,Online,Keyboard, ELECTRONICS ,2.0,,Transfer,,
+886,,Retail,Mouse, ELECTRONICS ,2.0,,Transfer,Chicago,
+887,,Wholesale,Keyboard,office,3.0,,Card,Chicago,Ali
+888,,Wholesale,Monitor, ELECTRONICS ,,,Card,NY ,Sara
+889,31-03-2024,Retail,Keyboard,electronics,1.0, ,Card,New York,Fatima
+890,2024-06-12,Online,Mouse, ELECTRONICS ,3.0,1428.16,Cash,chicago,
+891,2023-09-18,Online,Laptop, ELECTRONICS ,,2431.73,Card,chicago,
+892,05/12/2024,Online,Tablet,Office,3.0, ,,NY ,Sara
+893,06-05-2022,Wholesale,Laptop,Electronics,3.0,,Card,new york,Fatima
+894,,Wholesale,Laptop,office,3.0, ,,Chicago,Sara
+895,,Retail,Tablet,electronics,2.0,683.59,Card,New York,Fatima
+896,,Online,Keyboard,Electronics,1.0,,Card,,John
+897,22-02-2023,Wholesale,Phone, ELECTRONICS ,,,,NY ,Ali
+898,2022-09-23,Wholesale,Phone, ELECTRONICS ,,,Card,NY ,Ali
+899,27-05-2023,Online,Laptop,Office,2.0,1507.08,Card,Chicago,Fatima
+900,02-01-2022,Wholesale,Keyboard,electronics,, ,card,new york,
+901,2023-07-13,Retail,Monitor,Office,, ,Transfer,,Sara
+902,10/11/2022,Wholesale,Phone,electronics,3.0, ,,New York,Ali
+903,2024-04-17,Retail,Phone,Office,1.0,1067.82,card,New York,
+904,09-07-2023,Wholesale,Laptop,office,1.0,1975.47,card,chicago,
+905,,Wholesale,Tablet,Electronics,1.0,601.39,,new york,Fatima
+906,03-10-2022,Online,Keyboard,office,2.0,642.96,Cash,Chicago,Sara
+907,16-01-2023,Retail,Keyboard,Electronics,2.0,,card,Chicago,Fatima
+908,2023-12-28,Online,Keyboard, ELECTRONICS ,2.0,158.29,Cash,Chicago,Fatima
+909,12-08-2022,Online,Mouse,Electronics,1.0,1254.48,Cash,new york,Sara
+910,,Wholesale,Laptop,Electronics,2.0, ,,NY ,John
+911,07/15/2022,Online,Mouse,office,,1547.11,Cash,New York,John
+912,,Retail,Mouse, ELECTRONICS ,,1573.79,,New York,Sara
+913,2024-04-16,Wholesale,Monitor,office,2.0,,,,
+914,01-12-2023,Wholesale,Monitor,electronics,1.0,1991.98,,NY ,John
+915,,Online,Keyboard,Electronics,3.0, ,,new york,Fatima
+916,12/31/2022,Retail,Phone, ELECTRONICS ,1.0,2084.96,Card,New York,Fatima
+917,02/06/2023,Wholesale,Phone, ELECTRONICS ,1.0,,card,Chicago,John
+918,2023-02-17,Retail,Mouse,office,1.0,,Transfer,NY ,John
+919,2024-05-22,Wholesale,Tablet, ELECTRONICS ,,685.65,Transfer,new york,
+920,03-07-2022,Retail,Tablet,Electronics,1.0, ,,,John
+921,05/29/2023,Retail,Laptop,Office,3.0,,Transfer,New York,Ali
+922,06/15/2024,Online,Mouse,Electronics,, ,,chicago,Sara
+923,,Retail,Monitor,Electronics,3.0, ,Card,Chicago,Ali
+924,,Wholesale,Tablet,Electronics,3.0,1319.68,,New York,John
+925,2022-05-01,Wholesale,Phone,Office,, ,Card,NY ,Fatima
+926,2023-02-24,Online,Keyboard,office,1.0,422.38,Cash,new york,
+927,,Wholesale,Keyboard,electronics,3.0,,Cash,new york,Fatima
+928,2022-10-14,Online,Monitor,electronics,,,card,Chicago,Fatima
+929,2023-03-25,Wholesale,Laptop, ELECTRONICS ,,,Transfer,,
+930,,Retail,Monitor,Office,2.0,,,new york,Fatima
+931,,Online,Mouse,Electronics,1.0,,,new york,
+932,10/26/2023,Retail,Keyboard,Electronics,1.0,1086.94,card,New York,Fatima
+933,,Online,Keyboard,Electronics,,342.24,,New York,Ali
+934,,Wholesale,Monitor, ELECTRONICS ,2.0,,card,New York,Ali
+935,07-09-2023,Retail,Laptop,office,1.0, ,Card,chicago,Sara
+936,02-02-2022,Wholesale,Phone,Electronics,,985.12,card,new york,
+937,28-01-2024,Wholesale,Keyboard,electronics,1.0,,Card,New York,Sara
+938,06/21/2023,Online,Phone,electronics,3.0,2745.94,card,new york,
+939,23-03-2023,Online,Keyboard,electronics,2.0,1499.57,Card,NY ,
+940,2024-02-03,Online,Mouse,electronics,,,Cash,new york,Ali
+941,,Online,Tablet,Office,1.0,,card,New York,Ali
+942,06-03-2022,Online,Phone,Electronics,3.0,,card,Chicago,Fatima
+943,02-04-2022,Online,Phone,electronics,,113.05,,new york,John
+944,04/21/2023,Online,Laptop,Electronics,1.0,451.64,,NY ,
+945,05/19/2023,Wholesale,Monitor, ELECTRONICS ,3.0, ,,new york,Fatima
+946,2022-01-04,Wholesale,Laptop,Office,1.0,1088.96,Transfer,New York,Ali
+947,2022-09-02,Wholesale,Keyboard,Electronics,3.0,,card,New York,Fatima
+948,,Online,Monitor,Office,3.0, ,card,,
+949,23-02-2024,Online,Keyboard,Electronics,3.0,2315.16,Transfer,new york,Ali
+950,2023-09-17,Online,Keyboard,office,3.0, ,,New York,Sara
+951,,Wholesale,Monitor,office,2.0,936.61,Transfer,new york,Fatima
+952,05/05/2024,Online,Mouse, ELECTRONICS ,2.0, ,Transfer,Chicago,Ali
+953,09/02/2022,Online,Phone,electronics,2.0, ,Transfer,Chicago,John
+954,,Retail,Tablet,office,2.0,,Card,Chicago,John
+955,10/31/2023,Online,Keyboard,electronics,1.0,,Card,new york,John
+956,2024-06-07,Online,Monitor,office,1.0, ,Card,Chicago,Fatima
+957,15-11-2022,Online,Tablet,electronics,, ,card,Chicago,Ali
+958,10/01/2022,Retail,Laptop,Electronics,2.0, ,card,Chicago,John
+959,11-09-2023,Wholesale,Laptop,office,3.0,1465.44,Cash,New York,Ali
+960,01/17/2022,Wholesale,Laptop,Electronics,1.0,406.72,,Chicago,Sara
+961,,Online,Monitor, ELECTRONICS ,, ,Transfer,New York,Fatima
+962,2023-04-05,Wholesale,Phone,electronics,2.0,335.58,Transfer,,Ali
+963,01/03/2023,Online,Phone,Electronics,2.0,,card,New York,Sara
+964,,Online,Keyboard, ELECTRONICS ,1.0, ,Transfer,chicago,Fatima
+965,2022-04-30,Online,Monitor,Electronics,,,Transfer,new york,
+966,2024-04-17,Wholesale,Phone, ELECTRONICS ,1.0,1852.82,Card,chicago,John
+967,19-09-2023,Online,Laptop, ELECTRONICS ,1.0,,card,new york,Ali
+968,05/31/2022,Online,Mouse,electronics,,2207.21,Cash,new york,Sara
+969,04/14/2022,Retail,Tablet,office,1.0, ,card,NY ,Sara
+970,2023-01-31,Online,Keyboard,Electronics,,635.13,Transfer,new york,Sara
+971,02/25/2023,Retail,Phone, ELECTRONICS ,3.0,,,NY ,
+972,08-09-2023,Wholesale,Phone,Office,2.0,2419.4,,New York,Sara
+973,01/29/2024,Wholesale,Mouse,office,2.0,,,Chicago,Sara
+974,2023-03-29,Wholesale,Mouse,electronics,3.0,,card,Chicago,
+975,2023-04-04,Wholesale,Mouse,Electronics,3.0,,Cash,,Fatima
+976,03-07-2023,Retail,Tablet,electronics,2.0,793.65,Transfer,Chicago,Fatima
+977,,Online,Mouse,Office,3.0, ,Transfer,new york,Ali
+978,,Retail,Keyboard, ELECTRONICS ,2.0,2101.68,Card,Chicago,Fatima
+979,05/29/2022,Wholesale,Tablet, ELECTRONICS ,1.0, ,,chicago,Ali
+980,09/11/2023,Retail,Monitor,office,1.0, ,Transfer,NY ,Ali
+981,14-06-2024,Wholesale,Keyboard,electronics,,,card,NY ,Ali
+982,,Wholesale,Monitor, ELECTRONICS ,, ,Transfer,Chicago,Fatima
+983,,Online,Keyboard,Office,2.0,2059.78,Card,Chicago,
+984,08/28/2022,Retail,Mouse,Office,1.0,1932.85,Card,NY ,Sara
+985,26-07-2023,Retail,Keyboard,Office,2.0,,Cash,,
+986,2022-03-07,Retail,Monitor,Electronics,2.0,46.97,,New York,Ali
+987,12/22/2022,Retail,Phone, ELECTRONICS ,2.0,,,New York,John
+988,05/02/2024,Wholesale,Laptop, ELECTRONICS ,2.0,,Cash,New York,John
+989,,Online,Mouse,Electronics,1.0,,Cash,,Sara
+990,2022-01-10,Online,Tablet,electronics,3.0,960.3,,chicago,Sara
+991,08/31/2022,Online,Mouse, ELECTRONICS ,3.0,,,new york,Ali
+992,10/06/2022,Retail,Tablet,Electronics,, ,card,new york,John
+993,,Online,Monitor,electronics,3.0, ,Card,,John
+994,03/09/2024,Retail,Mouse, ELECTRONICS ,, ,Cash,,
+995,09-04-2023,Wholesale,Laptop,electronics,2.0, ,card,Chicago,Fatima
+996,09-01-2023,Wholesale,Monitor, ELECTRONICS ,2.0,,Transfer,New York,Sara
+997,04-04-2023,Online,Keyboard,electronics,3.0, ,Card,NY ,Fatima
+998,22-01-2022,Wholesale,Phone,Office,,186.93,card,NY ,John
+999,22-01-2024,Wholesale,Keyboard,office,1.0,,card,,Sara
+1000,2022-09-15,Wholesale,Tablet,Office,,66.03,Card,NY ,Ali
+1001,09/24/2023,Retail,Laptop,office,2.0,106.17,Cash,Chicago,Fatima
+1002,,Wholesale,Monitor,Electronics,3.0,,card,Chicago,
+1003,15-05-2023,Online,Tablet, ELECTRONICS ,2.0,,,New York,
+1004,2023-02-04,Retail,Monitor, ELECTRONICS ,2.0,1640.83,card,NY ,Fatima
+1005,,Wholesale,Monitor,office,3.0, ,Transfer,NY ,Ali
+1006,18-11-2022,Online,Phone, ELECTRONICS ,1.0,1387.75,Card,New York,Ali
+1007,10/18/2022,Retail,Laptop,Electronics,1.0, ,Cash,chicago,Fatima
+1008,05/26/2024,Online,Laptop, ELECTRONICS ,,,card,,
+1009,01-07-2023,Retail,Monitor,Electronics,3.0, ,,Chicago,Fatima
+1010,27-01-2022,Retail,Monitor,Electronics,2.0,,Cash,,Sara
+1011,02/14/2022,Wholesale,Phone,Office,,2347.57,Card,New York,Sara
+1012,04/03/2024,Online,Phone, ELECTRONICS ,2.0,852.28,Card,new york,Ali
+1013,,Wholesale,Tablet,office,1.0, ,,New York,Fatima
+1014,02-06-2022,Online,Mouse,Office,2.0,989.37,,NY ,Ali
+1015,04/24/2022,Wholesale,Keyboard, ELECTRONICS ,2.0,,card,NY ,Fatima
+1016,,Retail,Laptop,Electronics,2.0,1355.45,card,new york,
+1017,2023-12-07,Retail,Tablet, ELECTRONICS ,2.0,,Transfer,chicago,Ali
+1018,2023-07-31,Wholesale,Phone,office,1.0, ,Transfer,Chicago,John
+1019,,Retail,Monitor,Office,2.0,2795.18,Card,,Sara
+1020,,Retail,Phone,Electronics,,683.87,Card,Chicago,Fatima
+1021,05/03/2023,Online,Mouse, ELECTRONICS ,2.0, ,Cash,Chicago,Fatima
+1022,03-02-2023,Online,Tablet, ELECTRONICS ,, ,card,,Sara
+1023,04/14/2022,Retail,Mouse,Office,2.0,116.84,Transfer,chicago,Fatima
+1024,10/21/2022,Online,Keyboard, ELECTRONICS ,2.0,232.84,Card,New York,Fatima
+1025,2024-02-09,Wholesale,Keyboard,Office,2.0,,Transfer,NY ,
+1026,,Retail,Laptop,Electronics,2.0,,,chicago,Ali
+1027,,Online,Keyboard,Office,2.0, ,Card,NY ,
+1028,2022-07-08,Retail,Phone,office,, ,card,New York,Ali
+1029,02/05/2022,Online,Tablet,Electronics,1.0,699.02,Transfer,new york,
+1030,09-03-2024,Retail,Monitor,office,1.0,,Cash,,Ali
+1031,04-01-2024,Online,Monitor,office,1.0,,Card,NY ,Fatima
+1032,,Wholesale,Mouse,Office,3.0,,Transfer,,Sara
+1033,12/17/2023,Wholesale,Monitor,Office,3.0,,Transfer,new york,John
+1034,2024-02-07,Online,Laptop,office,1.0,,Cash,Chicago,Sara
+1035,11-07-2023,Online,Monitor,Office,1.0, ,card,New York,Ali
+1036,2022-02-21,Online,Tablet,Electronics,, ,Card,Chicago,Sara
+1037,2024-04-14,Online,Monitor, ELECTRONICS ,2.0, ,,,Ali
+1038,03/11/2022,Retail,Keyboard,office,2.0,593.1,Card,Chicago,
+1039,02/27/2023,Retail,Monitor,Office,1.0, ,card,NY ,John
+1040,,Wholesale,Phone,electronics,,1279.02,Cash,NY ,Ali
+1041,19-12-2023,Retail,Laptop,office,2.0, ,Card,Chicago,Fatima
+1042,2022-06-22,Online,Keyboard, ELECTRONICS ,1.0,,Card,Chicago,Sara
+1043,04/02/2024,Retail,Tablet, ELECTRONICS ,3.0,608.88,Cash,,John
+1044,12/20/2022,Retail,Mouse,Electronics,2.0, ,card,Chicago,Fatima
+1045,,Wholesale,Monitor,office,1.0,,Transfer,New York,
+1046,25-10-2022,Online,Laptop,electronics,2.0,,Card,chicago,
+1047,,Online,Monitor,electronics,1.0,,,chicago,Fatima
+1048,21-07-2022,Wholesale,Laptop,office,3.0,,Cash,NY ,
+1049,,Online,Monitor,Electronics,3.0,2893.57,Transfer,chicago,John
+1050,07-04-2022,Online,Keyboard,Electronics,, ,,NY ,John
+1051,,Online,Tablet,Electronics,, ,card,new york,Sara
+1052,12-09-2022,Wholesale,Monitor,Electronics,2.0,,Cash,chicago,John
+1053,19-09-2023,Retail,Mouse,office,, ,Transfer,,
+1054,2023-05-30,Retail,Mouse,office,3.0,2838.0,Cash,chicago,
+1055,,Retail,Phone,Office,3.0,1346.88,,NY ,Fatima
+1056,07/09/2023,Retail,Monitor,Electronics,1.0,,Transfer,,Sara
+1057,04/15/2024,Retail,Keyboard,Electronics,, ,card,Chicago,Fatima
+1058,14-06-2024,Wholesale,Tablet,office,2.0,,Card,new york,Fatima
+1059,,Retail,Tablet,office,,,,chicago,Ali
+1060,17-08-2022,Retail,Tablet,Office,2.0, ,,chicago,John
+1061,,Retail,Keyboard,Electronics,3.0,,card,Chicago,John
+1062,,Online,Monitor,electronics,1.0, ,Card,Chicago,Fatima
+1063,2022-04-23,Online,Phone,Office,2.0,2692.74,Card,chicago,Ali
+1064,,Online,Mouse, ELECTRONICS ,2.0,2131.02,,Chicago,Sara
+1065,2023-07-21,Online,Laptop,Office,3.0,1117.19,Card,Chicago,Ali
+1066,,Retail,Laptop, ELECTRONICS ,1.0, ,Cash,chicago,Ali
+1067,09-08-2023,Retail,Phone,office,2.0,1432.38,card,New York,John
+1068,27-02-2023,Online,Tablet,Electronics,1.0,2112.22,Transfer,Chicago,John
+1069,,Wholesale,Mouse,electronics,,2585.93,Card,new york,
+1070,03-01-2023,Retail,Laptop,Electronics,1.0,,card,,Fatima
+1071,,Retail,Tablet,Office,3.0, ,Transfer,NY ,Sara
+1072,09-01-2023,Online,Keyboard,office,3.0,2885.03,Transfer,NY ,
+1073,,Online,Laptop,electronics,,567.19,Transfer,NY ,Ali
+1074,,Online,Phone, ELECTRONICS ,2.0,2348.73,Cash,Chicago,Fatima
+1075,2023-07-30,Wholesale,Mouse,electronics,1.0, ,card,new york,Ali
+1076,19-04-2023,Wholesale,Phone, ELECTRONICS ,3.0,1821.71,,,Fatima
+1077,05/14/2024,Retail,Laptop,office,,2327.67,,Chicago,Fatima
+1078,03/02/2024,Retail,Mouse,office,3.0,343.98,Cash,new york,John
+1079,,Wholesale,Tablet, ELECTRONICS ,1.0,,Transfer,new york,John
+1080,2024-04-25,Online,Laptop,Electronics,3.0, ,Card,Chicago,Sara
+1081,2023-07-01,Retail,Laptop,electronics,1.0, ,card,,Fatima
+1082,,Retail,Mouse,Electronics,2.0, ,Card,New York,Fatima
+1083,10/15/2023,Retail,Tablet,office,3.0,2569.81,Card,chicago,Sara
+1084,10-04-2022,Online,Keyboard,electronics,2.0,,card,Chicago,Fatima
+1085,19-03-2023,Wholesale,Keyboard,office,,,card,NY ,Ali
+1086,2024-03-03,Retail,Tablet, ELECTRONICS ,3.0,674.57,Cash,New York,
+1087,,Retail,Keyboard,office,2.0,2281.97,,new york,
+1088,07/12/2023,Online,Laptop,office,1.0,2994.7,Card,chicago,Ali
+1089,2022-01-25,Online,Monitor,electronics,3.0,,Card,,
+1090,03/18/2024,Wholesale,Tablet,office,, ,,Chicago,Ali
+1091,11/10/2022,Online,Tablet,electronics,3.0,2619.76,,Chicago,John
+1092,04/23/2022,Online,Monitor,Office,2.0,,Card,chicago,
+1093,02/02/2023,Wholesale,Monitor,Office,3.0,614.88,Cash,chicago,Ali
+1094,07/17/2023,Wholesale,Phone, ELECTRONICS ,,2672.99,Card,,
+1095,,Online,Phone, ELECTRONICS ,3.0,841.66,Card,,Fatima
+1096,04/17/2022,Wholesale,Mouse, ELECTRONICS ,, ,Transfer,,John
+1097,2022-08-23,Wholesale,Tablet,office,1.0,,Card,Chicago,Fatima
+1098,2024-01-16,Online,Mouse,Electronics,2.0,,,NY ,Sara
+1099,,Online,Monitor,office,2.0, ,,Chicago,
+1100,2022-08-04,Wholesale,Monitor,Electronics,,1506.9,Transfer,chicago,Ali
+1101,29-04-2024,Online,Phone,electronics,1.0, ,Transfer,New York,Fatima
+1102,02/10/2024,Wholesale,Monitor,Office,2.0, ,Cash,new york,Ali
+1103,15-05-2023,Wholesale,Mouse, ELECTRONICS ,2.0,85.42,,chicago,John
+1104,,Retail,Keyboard, ELECTRONICS ,1.0,,Transfer,New York,John
+1105,13-11-2023,Online,Mouse,office,,,Cash,new york,John
+1106,2024-03-21,Wholesale,Tablet, ELECTRONICS ,2.0,2855.33,,new york,
+1107,2024-03-14,Wholesale,Phone, ELECTRONICS ,3.0, ,,New York,Ali
+1108,20-03-2023,Retail,Mouse, ELECTRONICS ,3.0, ,Transfer,New York,John
+1109,10/22/2023,Retail,Laptop,office,2.0, ,card,Chicago,Ali
+1110,12/23/2023,Online,Laptop,Office,3.0,1335.66,,NY ,Ali
+1111,05-03-2024,Wholesale,Tablet,Electronics,2.0,2643.27,Cash,chicago,
+1112,12-12-2022,Online,Monitor,electronics,2.0,103.69,Cash,NY ,
+1113,28-02-2022,Retail,Phone, ELECTRONICS ,, ,card,new york,John
+1114,2023-05-20,Online,Tablet,Office,1.0,,Cash,New York,Sara
+1115,,Retail,Monitor,Electronics,,2895.03,card,New York,Ali
+1116,2022-03-08,Wholesale,Mouse,Electronics,3.0,1978.95,card,Chicago,Ali
+1117,,Online,Monitor,Office,,1524.91,Card,NY ,Sara
+1118,,Retail,Mouse,office,3.0, ,card,NY ,Ali
+1119,24-11-2023,Retail,Phone,Electronics,1.0, ,card,New York,Fatima
+1120,2023-05-28,Retail,Phone,Electronics,2.0,,card,Chicago,Ali
+1121,06/02/2022,Wholesale,Mouse,office,3.0, ,,Chicago,John
+1122,,Online,Phone,Electronics,1.0, ,card,New York,John
+1123,2022-11-08,Wholesale,Mouse,electronics,2.0,,Cash,New York,Fatima
+1124,2023-12-28,Retail,Tablet,Office,1.0, ,card,chicago,Ali
+1125,,Wholesale,Monitor,office,,,Cash,NY ,Fatima
+1126,,Wholesale,Tablet,Electronics,1.0,243.3,card,NY ,Sara
+1127,10/03/2023,Online,Mouse,office,, ,Transfer,new york,John
+1128,12/09/2022,Online,Tablet, ELECTRONICS ,3.0,1478.72,Transfer,chicago,Sara
+1129,2022-10-21,Retail,Tablet,Office,, ,Transfer,chicago,Ali
+1130,01/31/2023,Online,Phone, ELECTRONICS ,3.0, ,Card,Chicago,Sara
+1131,2023-05-04,Retail,Keyboard,electronics,2.0,,,chicago,Sara
+1132,,Online,Keyboard,electronics,,1980.36,Card,,John
+1133,06-12-2022,Retail,Phone,office,3.0,1587.55,,new york,
+1134,,Retail,Tablet,electronics,2.0,477.81,,,Fatima
+1135,05/27/2023,Wholesale,Keyboard,Office,,184.81,Cash,NY ,
+1136,21-02-2024,Retail,Keyboard, ELECTRONICS ,3.0, ,card,Chicago,Fatima
+1137,30-09-2023,Wholesale,Mouse,Electronics,3.0,1056.92,Cash,New York,Ali
+1138,,Online,Phone, ELECTRONICS ,,,card,chicago,Fatima
+1139,,Online,Phone,office,1.0,1026.27,Card,new york,Ali
+1140,12/14/2022,Online,Laptop,Electronics,1.0,,,NY ,
+1141,04/29/2023,Wholesale,Monitor, ELECTRONICS ,2.0, ,card,Chicago,Fatima
+1142,09/27/2023,Online,Keyboard,Office,2.0, ,Card,new york,John
+1143,09-11-2022,Wholesale,Tablet, ELECTRONICS ,3.0,2816.11,,new york,
+1144,,Wholesale,Keyboard, ELECTRONICS ,2.0,2782.01,Cash,Chicago,
+1145,24-12-2022,Online,Monitor,Office,,782.52,,NY ,Sara
+1146,27-02-2024,Wholesale,Tablet, ELECTRONICS ,3.0,,Card,Chicago,Fatima
+1147,12/22/2022,Wholesale,Tablet,office,3.0,,card,new york,John
+1148,2023-08-14,Online,Phone,electronics,2.0,2093.18,card,NY ,Sara
+1149,2023-06-16,Wholesale,Monitor,Electronics,1.0,,Card,new york,John
+1150,25-01-2024,Wholesale,Tablet,office,2.0,2306.47,Cash,,John
+1151,,Online,Monitor,office,,844.52,,,John
+1152,,Retail,Laptop,electronics,3.0,,card,chicago,John
+1153,02/29/2024,Online,Laptop,Electronics,1.0,,,New York,
+1154,2022-02-26,Online,Monitor, ELECTRONICS ,1.0,1670.36,Cash,NY ,Fatima
+1155,17-12-2023,Online,Tablet,office,,822.83,Cash,New York,Ali
+1156,02-11-2023,Wholesale,Tablet,office,2.0, ,Card,NY ,Sara
+1157,02/08/2024,Wholesale,Keyboard,Office,2.0,,Transfer,NY ,
+1158,,Wholesale,Tablet,office,2.0,,card,,Ali
+1159,30-05-2024,Online,Keyboard, ELECTRONICS ,, ,Cash,New York,Ali
+1160,,Wholesale,Monitor,office,,,card,Chicago,Sara
+1161,2022-07-08,Retail,Mouse,office,, ,Card,NY ,John
+1162,05/12/2022,Retail,Tablet,office,,,Transfer,NY ,
+1163,10/06/2023,Retail,Keyboard,Office,,,Transfer,,John
+1164,01/14/2024,Wholesale,Keyboard,electronics,2.0, ,card,chicago,Ali
+1165,04/15/2023,Retail,Keyboard,Office,3.0,,Card,New York,Sara
+1166,20-08-2023,Retail,Keyboard,electronics,1.0, ,Cash,,
+1167,05/31/2023,Online,Mouse,Electronics,3.0, ,Card,Chicago,Sara
+1168,2023-11-30,Online,Keyboard, ELECTRONICS ,1.0,,Cash,,Fatima
+1169,23-04-2022,Online,Laptop,Electronics,2.0,1193.88,Transfer,chicago,Fatima
+1170,03/12/2024,Retail,Monitor,office,2.0, ,Transfer,chicago,
+1171,08/09/2022,Wholesale,Phone,electronics,3.0,,Transfer,new york,Fatima
+1172,2023-06-30,Online,Tablet, ELECTRONICS ,2.0, ,Cash,Chicago,Fatima
+1173,,Online,Laptop,Electronics,2.0, ,Cash,,Ali
+1174,01/02/2023,Online,Mouse,Electronics,3.0,1922.92,,new york,
+1175,01/21/2022,Wholesale,Tablet,Electronics,3.0,,Card,NY ,John
+1176,,Retail,Tablet, ELECTRONICS ,,1772.0,Transfer,,Ali
+1177,04/28/2024,Wholesale,Phone,Office,2.0, ,,chicago,
+1178,,Online,Laptop,office,, ,Transfer,New York,John
+1179,05/11/2022,Online,Keyboard,Electronics,1.0, ,card,new york,
+1180,2024-03-01,Wholesale,Phone,electronics,3.0,,,New York,Ali
+1181,11/13/2023,Wholesale,Monitor,electronics,1.0,,card,,John
+1182,07/14/2022,Wholesale,Tablet,Electronics,2.0,,Transfer,chicago,Sara
+1183,2023-06-29,Wholesale,Keyboard,Office,,,Cash,chicago,Fatima
+1184,2024-03-08,Retail,Monitor,office,, ,Cash,NY ,John
+1185,,Online,Monitor,office,,1053.42,Cash,chicago,Ali
+1186,2022-11-04,Online,Keyboard,Office,2.0, ,Transfer,,Fatima
+1187,,Retail,Laptop,Office,3.0,,card,Chicago,
+1188,,Online,Phone,electronics,2.0,,,chicago,John
+1189,11/14/2022,Retail,Mouse,Electronics,2.0,,,chicago,Fatima
+1190,21-02-2022,Online,Laptop,office,3.0, ,,New York,John
+1191,04/16/2024,Wholesale,Phone,Electronics,2.0,,card,new york,John
+1192,05/13/2024,Wholesale,Keyboard,Electronics,1.0, ,,new york,Fatima
+1193,05/13/2024,Online,Keyboard,Electronics,2.0,1272.86,Transfer,new york,Fatima
+1194,04/05/2023,Online,Phone, ELECTRONICS ,3.0, ,Cash,new york,
+1195,07/26/2022,Online,Mouse,office,2.0,595.49,Card,NY ,
+1196,17-07-2023,Online,Monitor,electronics,3.0,1233.9,card,,
+1197,,Online,Monitor,electronics,2.0,827.36,,,Ali
+1198,04-01-2023,Online,Phone,electronics,3.0,,card,new york,
+1199,01/02/2023,Online,Monitor,office,1.0,2185.73,Cash,new york,
+1200,02-03-2023,Wholesale,Tablet,electronics,1.0,758.42,Card,NY ,
+1201,10/18/2023,Wholesale,Keyboard, ELECTRONICS ,2.0,115.76,,new york,Fatima
+1202,,Wholesale,Mouse,electronics,2.0,1952.23,Cash,New York,John
+1203,2023-01-28,Retail,Phone,Office,,2675.0,card,new york,Fatima
+1204,2024-02-09,Online,Monitor,electronics,1.0, ,Transfer,Chicago,John
+1205,03-01-2024,Retail,Monitor,office,2.0,2834.69,Cash,NY ,Fatima
+1206,06/10/2024,Retail,Monitor,Electronics,3.0,,Cash,chicago,John
+1207,,Retail,Mouse,office,1.0,,Transfer,,
+1208,,Online,Tablet,Electronics,1.0, ,Transfer,Chicago,Sara
+1209,,Online,Keyboard,electronics,2.0,,Cash,Chicago,
+1210,21-10-2022,Wholesale,Keyboard,electronics,3.0,2232.17,Cash,Chicago,
+1211,2023-12-06,Online,Keyboard,office,, ,Transfer,Chicago,John
+1212,09/27/2023,Wholesale,Laptop,Electronics,3.0,31.84,card,,Sara
+1213,21-11-2022,Retail,Phone,office,1.0,,,New York,Sara
+1214,,Retail,Laptop,Electronics,1.0,174.76,,,John
+1215,12/27/2022,Online,Tablet,office,3.0,,card,new york,John
+1216,,Online,Laptop,Electronics,, ,Transfer,NY ,
+1217,10/04/2023,Retail,Monitor,electronics,, ,Cash,Chicago,Fatima
+1218,2022-03-08,Retail,Laptop,Office,2.0,,card,Chicago,Sara
+1219,04/07/2023,Wholesale,Tablet,Office,3.0,,Card,New York,Sara
+1220,07/09/2022,Wholesale,Keyboard,Office,,,Transfer,NY ,Sara
+1221,2024-02-22,Online,Tablet,Electronics,3.0, ,card,,Ali
+1222,,Wholesale,Mouse,office,2.0, ,,new york,Fatima
+1223,2022-05-06,Retail,Monitor,Office,3.0, ,Transfer,chicago,Fatima
+1224,09/14/2022,Online,Monitor,electronics,,796.6,Transfer,,Ali
+1225,14-01-2024,Online,Keyboard,office,3.0, ,,chicago,Sara
+1226,2024-01-08,Retail,Keyboard, ELECTRONICS ,,1557.92,Transfer,Chicago,
+1227,2023-01-15,Wholesale,Phone,office,2.0,1304.14,Cash,,Fatima
+1228,2023-07-10,Retail,Laptop, ELECTRONICS ,,617.67,Transfer,NY ,John
+1229,08/08/2022,Online,Tablet,electronics,3.0, ,Card,New York,John
+1230,31-05-2023,Online,Monitor, ELECTRONICS ,2.0,1320.13,Transfer,New York,John
+1231,03/09/2024,Wholesale,Keyboard,Office,3.0, ,,Chicago,Ali
+1232,2024-03-25,Retail,Phone,Electronics,3.0,,Cash,chicago,John
+1233,22-01-2022,Online,Mouse,Electronics,1.0, ,Card,Chicago,Sara
+1234,01-06-2022,Wholesale,Laptop,electronics,3.0,,Transfer,chicago,Fatima
+1235,24-01-2023,Online,Keyboard,electronics,2.0, ,Transfer,Chicago,
+1236,,Retail,Tablet,Office,2.0,,card,New York,
+1237,01/23/2023,Wholesale,Keyboard,office,,979.58,Transfer,Chicago,Ali
+1238,2024-03-13,Online,Phone, ELECTRONICS ,1.0,2948.79,Transfer,,John
+1239,07/23/2022,Online,Keyboard, ELECTRONICS ,1.0,2836.8,,NY ,Ali
+1240,,Wholesale,Laptop, ELECTRONICS ,,,Card,new york,Ali
+1241,2022-05-19,Retail,Mouse,electronics,3.0,2810.65,Card,New York,Ali
+1242,2023-06-19,Retail,Mouse,Electronics,3.0,,,chicago,Fatima
+1243,,Wholesale,Mouse,Electronics,3.0,,Cash,Chicago,John
+1244,2024-04-01,Retail,Monitor, ELECTRONICS ,,,card,Chicago,Sara
+1245,05/08/2022,Retail,Laptop,Electronics,,,Transfer,new york,Ali
+1246,2022-06-16,Retail,Phone,office,2.0,,,,Fatima
+1247,2023-07-18,Retail,Keyboard,Office,1.0,1650.55,,,
+1248,26-11-2023,Retail,Monitor,Office,,,Transfer,Chicago,Ali
+1249,05/08/2023,Retail,Mouse,Electronics,, ,Cash,,Sara
+1250,24-05-2023,Retail,Keyboard,Electronics,3.0,,card,Chicago,Fatima
+1251,2024-04-05,Online,Monitor, ELECTRONICS ,2.0,,card,NY ,
+1252,31-12-2022,Retail,Keyboard, ELECTRONICS ,1.0,1013.83,,new york,Fatima
+1253,2024-01-04,Wholesale,Phone,Electronics,1.0,1219.87,Card,,John
+1254,2022-04-10,Wholesale,Monitor,Electronics,,71.73,Card,NY ,Ali
+1255,08/28/2023,Wholesale,Tablet,office,3.0, ,card,,Fatima
+1256,13-06-2024,Online,Mouse,Electronics,,,card,Chicago,Sara
+1257,30-04-2023,Online,Mouse,Office,2.0,,Card,,Ali
+1258,31-01-2022,Retail,Mouse,Electronics,2.0, ,Cash,chicago,Fatima
+1259,25-07-2023,Wholesale,Phone,office,1.0, ,,,Ali
+1260,06-04-2022,Retail,Mouse,electronics,3.0,2142.9,Transfer,New York,Sara
+1261,04/04/2022,Wholesale,Mouse,Office,2.0, ,,new york,Sara
+1262,,Online,Phone,Office,, ,Card,,Ali
+1263,,Online,Laptop,electronics,1.0, ,,chicago,
+1264,,Retail,Keyboard,office,1.0,,Transfer,,John
+1265,2024-05-26,Wholesale,Keyboard,electronics,3.0,2535.43,Cash,NY ,Ali
+1266,,Wholesale,Keyboard,Office,2.0, ,card,Chicago,Sara
+1267,,Online,Monitor,electronics,, ,Transfer,chicago,Fatima
+1268,18-08-2022,Wholesale,Tablet, ELECTRONICS ,, ,Transfer,NY ,Fatima
+1269,12/07/2023,Retail,Phone,Electronics,,,card,,John
+1270,05-01-2023,Wholesale,Monitor,office,1.0,734.52,,chicago,Sara
+1271,2023-07-08,Retail,Mouse,Electronics,1.0,1099.49,Transfer,Chicago,
+1272,,Retail,Tablet, ELECTRONICS ,2.0,,Cash,new york,Ali
+1273,,Wholesale,Monitor,Electronics,3.0, ,Transfer,chicago,John
+1274,05/28/2024,Wholesale,Monitor,Electronics,3.0,,Card,Chicago,
+1275,10/29/2022,Retail,Laptop,Office,,227.71,,New York,Sara
+1276,19-10-2022,Wholesale,Monitor, ELECTRONICS ,1.0, ,Card,Chicago,Sara
+1277,,Online,Phone,electronics,3.0,,Cash,chicago,John
+1278,,Online,Keyboard,Office,1.0,25.86,Card,,Fatima
+1279,,Wholesale,Keyboard,electronics,1.0, ,Cash,chicago,Ali
+1280,05-03-2023,Online,Mouse,Office,2.0,,,,Ali
+1281,13-03-2024,Wholesale,Tablet,Electronics,2.0,,card,,John
+1282,02/25/2023,Online,Tablet,office,2.0, ,Card,new york,
+1283,01-06-2023,Online,Tablet, ELECTRONICS ,3.0, ,Card,NY ,Ali
+1284,,Online,Keyboard,electronics,1.0,,,new york,John
+1285,,Online,Keyboard,Electronics,,,Cash,Chicago,Sara
+1286,05/23/2023,Retail,Mouse,Electronics,2.0,2431.37,card,NY ,Ali
+1287,,Online,Monitor, ELECTRONICS ,3.0,,Card,new york,
+1288,04/12/2022,Wholesale,Phone,Electronics,,2463.04,,New York,Sara
+1289,,Online,Keyboard,electronics,1.0,,,Chicago,Fatima
+1290,2023-09-14,Online,Tablet,Electronics,3.0,2760.29,Card,chicago,John
+1291,2023-12-31,Retail,Tablet,office,2.0, ,,new york,Fatima
+1292,02/21/2022,Retail,Laptop,Electronics,, ,Transfer,,
+1293,,Wholesale,Phone,Electronics,1.0,,Cash,new york,John
+1294,10-12-2023,Retail,Phone, ELECTRONICS ,, ,,Chicago,Sara
+1295,29-08-2022,Wholesale,Laptop,Office,3.0, ,Cash,New York,Sara
+1296,,Retail,Laptop,office,3.0,778.58,Cash,,Ali
+1297,02/16/2023,Wholesale,Monitor,office,,1870.96,card,New York,Sara
+1298,10/14/2022,Retail,Monitor,office,3.0, ,Cash,new york,
+1299,12/25/2023,Wholesale,Laptop,office,1.0,,,new york,John
+1300,18-05-2024,Online,Keyboard,electronics,,,,new york,
+1301,2022-12-22,Wholesale,Tablet,Electronics,,,card,,Fatima
+1302,23-04-2024,Online,Tablet, ELECTRONICS ,1.0,2478.22,Cash,,Ali
+1303,08/04/2022,Retail,Mouse,Office,,,Card,Chicago,Fatima
+1304,2022-10-05,Online,Phone,office,1.0,116.67,Transfer,Chicago,Sara
+1305,2024-04-30,Retail,Monitor,Electronics,1.0,52.72,card,chicago,Fatima
+1306,,Wholesale,Phone,electronics,2.0, ,Transfer,Chicago,Sara
+1307,09/20/2023,Retail,Tablet,Electronics,3.0, ,,chicago,John
+1308,06-04-2024,Retail,Monitor,office,3.0, ,Cash,,Ali
+1309,2024-02-23,Online,Laptop,Office,1.0,103.25,Cash,,Fatima
+1310,,Wholesale,Mouse,office,1.0, ,Cash,,John
+1311,,Online,Mouse,Electronics,3.0, ,,new york,John
+1312,,Retail,Keyboard,electronics,3.0,,Transfer,,
+1313,,Wholesale,Tablet,electronics,1.0,1648.22,Transfer,NY ,
+1314,01/15/2023,Online,Monitor,office,, ,Cash,chicago,Fatima
+1315,,Online,Phone,electronics,,791.66,,,Ali
+1316,10/05/2022,Retail,Mouse,Office,2.0,,,Chicago,John
+1317,,Wholesale,Laptop,Office,3.0,807.99,card,Chicago,Fatima
+1318,10-04-2023,Online,Phone, ELECTRONICS ,1.0,,Card,Chicago,John
+1319,,Retail,Laptop, ELECTRONICS ,3.0,1239.95,Transfer,chicago,Ali
+1320,2024-02-13,Retail,Monitor, ELECTRONICS ,1.0, ,Cash,Chicago,
+1321,07/05/2022,Wholesale,Phone,office,2.0,,card,,Fatima
+1322,,Wholesale,Tablet,Electronics,, ,Cash,Chicago,
+1323,06/05/2022,Wholesale,Mouse,Electronics,3.0, ,card,,Sara
+1324,,Online,Phone,Electronics,2.0, ,Card,chicago,John
+1325,2022-02-17,Wholesale,Mouse,Office,3.0,2342.98,,Chicago,
+1326,2022-11-23,Wholesale,Keyboard, ELECTRONICS ,3.0, ,card,Chicago,Ali
+1327,03/28/2022,Retail,Laptop,electronics,1.0,,,New York,
+1328,,Online,Mouse, ELECTRONICS ,1.0, ,Cash,New York,Ali
+1329,2022-11-22,Online,Tablet,Electronics,3.0, ,,Chicago,
+1330,,Online,Laptop,office,1.0, ,Transfer,New York,
+1331,09-09-2022,Retail,Phone,Office,2.0,,,chicago,Fatima
+1332,2022-06-01,Online,Phone,Electronics,1.0,,card,New York,Ali
+1333,2022-10-16,Retail,Mouse, ELECTRONICS ,,1209.72,,New York,Sara
+1334,30-06-2023,Retail,Mouse,office,3.0, ,,NY ,John
+1335,01/27/2022,Wholesale,Keyboard,Electronics,1.0,,Card,chicago,John
+1336,09/03/2023,Retail,Mouse,Office,,,,Chicago,Sara
+1337,2022-09-01,Online,Phone, ELECTRONICS ,1.0,,card,New York,Sara
+1338,01/05/2023,Retail,Tablet,office,,2600.02,Cash,NY ,Fatima
+1339,05-07-2022,Retail,Monitor,Electronics,2.0,,card,,John
+1340,2022-11-12,Wholesale,Monitor,electronics,2.0,,card,chicago,Sara
+1341,02/20/2024,Retail,Monitor,electronics,2.0, ,,,John
+1342,,Wholesale,Monitor,Office,2.0, ,card,chicago,Ali
+1343,02/10/2022,Retail,Laptop,Electronics,1.0, ,card,,Sara
+1344,2023-01-08,Retail,Phone,office,2.0,,card,NY ,John
+1345,,Online,Monitor,office,,2548.34,Cash,Chicago,
+1346,03/06/2022,Retail,Phone,Office,1.0,,Transfer,,Fatima
+1347,07/29/2022,Wholesale,Monitor,Office,,,card,new york,Ali
+1348,2022-06-05,Retail,Mouse,Office,3.0,282.01,,,Sara
+1349,,Online,Mouse,electronics,2.0,2666.3,card,New York,Ali
+1350,18-09-2022,Wholesale,Tablet,electronics,2.0,,card,NY ,Ali
+1351,,Online,Laptop,Electronics,,,Cash,Chicago,
+1352,2022-11-30,Retail,Monitor, ELECTRONICS ,2.0,,,New York,Sara
+1353,2022-03-10,Wholesale,Keyboard,Office,3.0,1197.76,Card,New York,John
+1354,28-10-2022,Online,Tablet,office,1.0, ,Cash,chicago,Fatima
+1355,04-02-2024,Online,Tablet,electronics,1.0,2724.78,Cash,Chicago,Sara
+1356,09/22/2023,Online,Tablet,office,, ,Transfer,Chicago,Fatima
+1357,,Online,Monitor,Electronics,2.0,,Transfer,New York,Ali
+1358,02/12/2022,Online,Laptop,Electronics,3.0,744.79,Cash,,Fatima
+1359,,Retail,Phone,office,3.0, ,Cash,NY ,
+1360,,Online,Laptop,electronics,3.0, ,Transfer,Chicago,Ali
+1361,02/01/2022,Retail,Mouse,Electronics,, ,Cash,new york,Ali
+1362,11-02-2022,Wholesale,Keyboard,Electronics,1.0, ,Transfer,chicago,
+1363,07/30/2023,Online,Keyboard,electronics,,,Transfer,New York,John
+1364,2023-12-04,Online,Keyboard,office,,2658.55,Transfer,,Ali
+1365,,Retail,Mouse,electronics,3.0,,Cash,Chicago,John
+1366,08/03/2022,Online,Phone,electronics,2.0,,card,Chicago,Fatima
+1367,13-12-2022,Online,Mouse, ELECTRONICS ,3.0, ,Card,new york,
+1368,03/18/2024,Wholesale,Monitor,office,2.0, ,Transfer,New York,Sara
+1369,03/14/2024,Retail,Laptop,electronics,2.0, ,Transfer,Chicago,
+1370,,Online,Phone,electronics,2.0,,Transfer,Chicago,Sara
+1371,10-07-2022,Online,Tablet,Office,,2329.63,Cash,Chicago,Sara
+1372,2023-05-08,Wholesale,Tablet,Electronics,,572.61,,,Ali
+1373,,Retail,Phone,Electronics,2.0,,Cash,chicago,Fatima
+1374,2023-02-24,Wholesale,Tablet,electronics,1.0,,Cash,NY ,
+1375,2022-01-16,Online,Mouse,electronics,1.0, ,Card,New York,Sara
+1376,2023-10-19,Retail,Monitor,Electronics,,,Cash,new york,Fatima
+1377,01/30/2023,Retail,Keyboard, ELECTRONICS ,2.0,2555.7,card,new york,Ali
+1378,03-09-2023,Wholesale,Keyboard,office,1.0,,Card,,Sara
+1379,2022-06-29,Wholesale,Monitor,office,3.0,,,,
+1380,,Wholesale,Phone,electronics,1.0,2107.65,card,chicago,
+1381,2022-04-20,Retail,Keyboard,Office,1.0,,,chicago,John
+1382,2022-02-25,Retail,Monitor,Office,1.0, ,Card,chicago,Sara
+1383,14-01-2024,Wholesale,Keyboard,Office,3.0,,card,new york,
+1384,2023-11-20,Wholesale,Phone,electronics,3.0,485.31,Cash,NY ,Fatima
+1385,01/12/2022,Wholesale,Laptop,office,,892.31,Transfer,NY ,Fatima
+1386,11/01/2023,Online,Monitor,office,2.0,2387.7,Cash,new york,Ali
+1387,,Online,Keyboard,Electronics,, ,Transfer,Chicago,Ali
+1388,04/10/2023,Wholesale,Keyboard, ELECTRONICS ,1.0,,Card,,Fatima
+1389,20-01-2022,Online,Phone,Office,2.0,2440.9,,,Ali
+1390,,Retail,Mouse,office,, ,Card,NY ,John
+1391,05/18/2022,Online,Tablet, ELECTRONICS ,3.0,385.88,Cash,chicago,Fatima
+1392,15-04-2022,Retail,Phone,office,1.0,2782.81,card,chicago,John
+1393,2022-11-30,Wholesale,Laptop,office,2.0,716.28,Cash,chicago,Ali
+1394,01/31/2023,Retail,Laptop, ELECTRONICS ,,2422.4,,,Sara
+1395,2022-11-10,Retail,Mouse,office,,2583.05,,chicago,Fatima
+1396,24-03-2024,Wholesale,Mouse,Office,,,Card,New York,Ali
+1397,,Wholesale,Tablet,electronics,3.0,2001.23,Card,chicago,Sara
+1398,30-06-2023,Retail,Laptop,electronics,,,card,new york,John
+1399,,Online,Tablet,office,2.0,,card,new york,John
+1400,2023-01-22,Retail,Mouse,office,2.0,,Transfer,new york,Fatima
+1401,2022-06-05,Wholesale,Mouse,Electronics,2.0,,Card,New York,John
+1402,09/23/2023,Online,Laptop,electronics,1.0, ,Card,,Sara
+1403,12-06-2023,Wholesale,Mouse,Electronics,, ,Card,Chicago,John
+1404,02/16/2022,Online,Tablet,Office,3.0,,card,,Fatima
+1405,06/25/2022,Online,Monitor,Electronics,2.0,1752.98,,,John
+1406,,Wholesale,Phone,Electronics,1.0,142.2,Transfer,NY ,John
+1407,11/20/2022,Retail,Laptop,electronics,2.0, ,Cash,,John
+1408,06/18/2024,Retail,Tablet,Office,3.0,274.48,card,,Sara
+1409,2023-12-29,Online,Mouse, ELECTRONICS ,3.0, ,Cash,,Fatima
+1410,04-06-2023,Retail,Monitor,Electronics,,,,new york,John
+1411,08/01/2022,Wholesale,Keyboard,Electronics,, ,Card,new york,Sara
+1412,14-05-2022,Online,Laptop,Office,2.0,,Cash,chicago,
+1413,2024-04-24,Wholesale,Monitor,electronics,, ,card,,Ali
+1414,12/16/2023,Online,Laptop,Office,1.0,1521.86,Cash,,
+1415,04/13/2024,Retail,Tablet,Electronics,3.0,2090.37,Card,New York,
+1416,2024-04-20,Wholesale,Laptop,Office,,834.21,Transfer,,Fatima
+1417,2024-01-29,Wholesale,Mouse,electronics,3.0, ,,New York,
+1418,02/21/2024,Online,Laptop, ELECTRONICS ,1.0,2049.49,Card,,Sara
+1419,11/01/2023,Retail,Phone,office,1.0,,Card,NY ,Fatima
+1420,09-05-2022,Online,Monitor,Office,,809.06,card,NY ,Sara
+1421,,Online,Keyboard, ELECTRONICS ,1.0, ,card,,Sara
+1422,07-12-2023,Wholesale,Keyboard,Electronics,2.0,,card,chicago,Ali
+1423,03/26/2022,Retail,Monitor,office,2.0, ,Transfer,Chicago,Sara
+1424,,Wholesale,Phone,Electronics,,,Cash,Chicago,Fatima
+1425,03/29/2022,Wholesale,Mouse, ELECTRONICS ,,2252.35,card,chicago,Ali
+1426,18-01-2024,Wholesale,Monitor,office,3.0,,Cash,Chicago,John
+1427,,Online,Monitor,Office,1.0,478.75,,Chicago,Fatima
+1428,2023-12-02,Wholesale,Laptop,Electronics,3.0,,Transfer,new york,
+1429,25-04-2023,Retail,Monitor,office,1.0,809.15,Transfer,New York,
+1430,2024-03-09,Online,Mouse,electronics,2.0, ,Card,chicago,Ali
+1431,24-10-2022,Retail,Keyboard,office,,,Transfer,Chicago,
+1432,26-03-2022,Online,Tablet, ELECTRONICS ,1.0,,Card,chicago,Fatima
+1433,04/13/2024,Retail,Tablet,Electronics,2.0,,Transfer,,
+1434,19-05-2022,Retail,Keyboard,Office,3.0,2893.44,Cash,Chicago,Fatima
+1435,04-11-2022,Retail,Keyboard,office,3.0,2493.95,card,new york,John
+1436,25-08-2023,Wholesale,Phone,Electronics,2.0, ,Cash,chicago,Fatima
+1437,,Retail,Keyboard, ELECTRONICS ,1.0,385.87,Cash,new york,Sara
+1438,09/07/2023,Wholesale,Keyboard,office,3.0,,Transfer,,Sara
+1439,08/29/2022,Wholesale,Keyboard, ELECTRONICS ,2.0,367.24,Transfer,NY ,Ali
+1440,01-02-2024,Online,Monitor, ELECTRONICS ,, ,card,new york,John
+1441,11/16/2023,Wholesale,Laptop,office,,1555.06,Card,,Sara
+1442,06/10/2024,Online,Laptop,electronics,,,Card,,Sara
+1443,22-04-2022,Wholesale,Monitor,Office,1.0,,,New York,Ali
+1444,,Retail,Keyboard,Electronics,2.0,1931.89,card,new york,Ali
+1445,,Online,Mouse,office,2.0,2385.05,Transfer,,Sara
+1446,05/17/2022,Online,Phone, ELECTRONICS ,,,Transfer,new york,Sara
+1447,,Online,Keyboard,office,2.0, ,Transfer,Chicago,Sara
+1448,15-12-2022,Online,Monitor,Electronics,1.0, ,Transfer,chicago,John
+1449,11/21/2023,Online,Laptop,Office,2.0, ,Card,chicago,John
+1450,,Retail,Mouse,office,2.0,,Card,new york,Fatima
+1451,2022-06-14,Wholesale,Mouse,electronics,1.0,2378.82,Cash,chicago,Sara
+1452,2024-05-14,Wholesale,Phone,Electronics,2.0, ,,new york,Ali
+1453,2023-01-06,Online,Laptop,Electronics,,,card,,Fatima
+1454,21-05-2023,Wholesale,Phone,electronics,1.0,2172.88,,Chicago,Sara
+1455,2023-04-10,Online,Mouse,electronics,1.0,,Card,chicago,Sara
+1456,28-11-2023,Online,Tablet,Office,3.0, ,Card,Chicago,
+1457,,Online,Phone,office,1.0,2859.17,Card,New York,Sara
+1458,2022-02-10,Retail,Monitor,Office,,,,,Ali
+1459,15-03-2023,Wholesale,Monitor,office,,1464.03,card,new york,Ali
+1460,,Retail,Monitor,Office,1.0,,Transfer,NY ,Sara
+1461,11/16/2023,Online,Monitor,Electronics,,,Cash,NY ,John
+1462,09/25/2022,Retail,Mouse,electronics,3.0,1937.39,card,Chicago,John
+1463,,Wholesale,Keyboard, ELECTRONICS ,, ,card,NY ,Ali
+1464,,Retail,Phone, ELECTRONICS ,3.0,,,chicago,John
+1465,04-06-2022,Retail,Phone, ELECTRONICS ,2.0,,card,new york,Sara
+1466,04/03/2024,Retail,Keyboard,Electronics,2.0,1770.45,Card,Chicago,Fatima
+1467,2022-05-18,Retail,Monitor,electronics,2.0,,,Chicago,Fatima
+1468,2022-10-10,Wholesale,Mouse,electronics,,2608.55,Card,new york,
+1469,14-10-2023,Wholesale,Mouse,Office,1.0, ,Cash,new york,
+1470,09-12-2022,Wholesale,Monitor,Office,1.0,1776.25,Cash,new york,Ali
+1471,2023-02-24,Online,Mouse,electronics,2.0,,Transfer,New York,Sara
+1472,05/19/2023,Wholesale,Monitor,electronics,3.0,,,,Fatima
+1473,,Retail,Tablet, ELECTRONICS ,,,,New York,Fatima
+1474,,Retail,Tablet,office,1.0,1935.34,,chicago,
+1475,19-03-2022,Wholesale,Keyboard,electronics,1.0,2365.09,card,New York,Fatima
+1476,04/20/2024,Wholesale,Monitor,electronics,3.0, ,Transfer,chicago,John
+1477,2023-08-20,Retail,Keyboard, ELECTRONICS ,3.0,,Cash,,Ali
+1478,01/13/2024,Wholesale,Monitor,Electronics,1.0,1157.45,card,,
+1479,2022-09-11,Wholesale,Monitor,Office,,,Cash,,John
+1480,,Retail,Phone,office,3.0,,Transfer,New York,John
+1481,11/09/2023,Wholesale,Phone,office,1.0, ,card,chicago,Sara
+1482,08/25/2023,Wholesale,Keyboard,electronics,3.0,201.25,Card,new york,Ali
+1483,10/19/2023,Online,Mouse,office,1.0, ,card,new york,Fatima
+1484,,Wholesale,Monitor,electronics,3.0,2316.64,Card,,John
+1485,22-01-2023,Retail,Monitor,office,1.0,,Card,,
+1486,2023-04-03,Wholesale,Mouse,electronics,3.0,,card,new york,Ali
+1487,06/03/2024,Wholesale,Mouse, ELECTRONICS ,,,,New York,John
+1488,2022-07-26,Wholesale,Mouse, ELECTRONICS ,1.0, ,Card,new york,Sara
+1489,,Wholesale,Mouse,electronics,2.0, ,Card,New York,Ali
+1490,27-02-2023,Retail,Tablet, ELECTRONICS ,2.0,,Card,,Fatima
+1491,,Online,Tablet, ELECTRONICS ,,1326.09,Card,NY ,John
+1492,,Retail,Monitor,Office,2.0,222.39,card,,Fatima
+1493,08/23/2022,Online,Mouse,office,,2800.8,Card,,Sara
+1494,25-07-2023,Wholesale,Monitor,Electronics,,790.31,Card,new york,
+1495,09/29/2022,Wholesale,Tablet,Office,1.0,1690.31,Transfer,Chicago,
+1496,07/24/2023,Retail,Phone, ELECTRONICS ,3.0,1168.78,,new york,Ali
+1497,03/02/2022,Retail,Tablet,Office,3.0,1403.89,Card,Chicago,Ali
+1498,12/26/2022,Wholesale,Monitor, ELECTRONICS ,3.0,1160.87,Cash,New York,Fatima
+1499,2022-01-12,Wholesale,Tablet, ELECTRONICS ,1.0,438.52,Cash,New York,Ali
+1500,30-09-2022,Wholesale,Keyboard,office,2.0,,card,Chicago,Sara
+1501,05/16/2023,Online,Phone, ELECTRONICS ,2.0, ,Transfer,,Sara
+1502,22-05-2023,Online,Monitor, ELECTRONICS ,,1168.27,Card,new york,Fatima
+1503,15-06-2022,Wholesale,Phone, ELECTRONICS ,3.0,2955.7,,,Ali
+1504,01/28/2024,Wholesale,Mouse,office,1.0, ,,Chicago,Ali
+1505,03/25/2024,Online,Tablet,Office,,,Card,,Sara
+1506,29-11-2022,Online,Tablet,electronics,3.0,894.46,Card,,Sara
+1507,03-02-2022,Retail,Phone,Office,2.0,2315.63,,Chicago,
+1508,24-08-2022,Wholesale,Laptop,electronics,,,Transfer,Chicago,Fatima
+1509,,Wholesale,Tablet,electronics,,,,Chicago,John
+1510,,Retail,Tablet,electronics,, ,Transfer,,
+1511,,Retail,Mouse,electronics,1.0,1430.57,Card,new york,Fatima
+1512,2023-10-04,Online,Laptop,Office,3.0, ,,New York,Ali
+1513,07-08-2023,Wholesale,Phone,Electronics,1.0, ,Cash,NY ,John
+1514,2022-04-30,Wholesale,Monitor, ELECTRONICS ,3.0, ,Transfer,,Fatima
+1515,2022-10-04,Retail,Monitor,Electronics,1.0,925.02,Cash,NY ,
+1516,10/24/2022,Wholesale,Laptop,electronics,1.0, ,Card,new york,
+1517,03/10/2023,Wholesale,Laptop, ELECTRONICS ,3.0,2235.05,,Chicago,
+1518,2022-09-05,Retail,Phone,Office,,,card,Chicago,Ali
+1519,31-05-2023,Wholesale,Monitor,Electronics,2.0,1717.63,card,New York,Sara
+1520,2023-02-26,Retail,Mouse,Office,3.0,,Cash,New York,Sara
+1521,,Retail,Keyboard,electronics,2.0,,Card,New York,Fatima
+1522,2024-04-07,Online,Laptop,Electronics,,,,chicago,
+1523,,Retail,Keyboard,electronics,2.0, ,Cash,NY ,John
+1524,05/26/2024,Wholesale,Keyboard,Electronics,3.0,,,chicago,Fatima
+1525,,Retail,Monitor,electronics,1.0, ,Card,Chicago,John
+1526,12-02-2024,Online,Monitor,electronics,1.0,192.96,Cash,Chicago,Fatima
+1527,06/17/2024,Retail,Phone,Electronics,2.0, ,,,Fatima
+1528,2023-06-26,Retail,Keyboard, ELECTRONICS ,,,card,chicago,
+1529,11/01/2022,Wholesale,Keyboard, ELECTRONICS ,2.0,2557.17,Card,Chicago,Ali
+1530,,Wholesale,Keyboard,office,2.0,2195.21,Transfer,,John
+1531,2022-09-20,Online,Keyboard,electronics,1.0,2395.71,,Chicago,Fatima
+1532,2022-10-03,Online,Mouse,Office,,,card,NY ,Fatima
+1533,17-03-2023,Retail,Mouse, ELECTRONICS ,1.0, ,Transfer,NY ,John
+1534,2024-01-03,Wholesale,Laptop,electronics,1.0,,Transfer,New York,John
+1535,,Wholesale,Mouse,electronics,3.0, ,Transfer,new york,Sara
+1536,,Retail,Phone,electronics,1.0,,,new york,Fatima
+1537,2023-05-25,Online,Mouse,office,2.0,,Transfer,NY ,
+1538,,Online,Mouse,electronics,,,Cash,,Sara
+1539,01/18/2022,Online,Monitor,electronics,3.0,,card,New York,
+1540,07/14/2022,Wholesale,Monitor,Office,1.0,218.01,card,NY ,John
+1541,28-04-2024,Retail,Tablet,Office,,384.35,Cash,NY ,John
+1542,2023-07-25,Wholesale,Laptop, ELECTRONICS ,1.0,2011.77,Cash,,Ali
+1543,,Wholesale,Keyboard,office,2.0,889.69,Transfer,New York,John
+1544,,Online,Laptop,Office,3.0,,card,New York,Ali
+1545,09-07-2023,Online,Monitor,Electronics,1.0,2704.56,Cash,New York,Ali
+1546,,Online,Monitor,Electronics,3.0, ,Cash,chicago,Fatima
+1547,04-10-2023,Retail,Tablet,electronics,,,Transfer,,John
+1548,,Wholesale,Laptop,Electronics,2.0,,Card,chicago,Ali
+1549,27-12-2023,Wholesale,Keyboard, ELECTRONICS ,3.0,,Cash,New York,
+1550,21-01-2024,Online,Mouse,Office,1.0, ,Cash,,
+1551,2023-05-20,Retail,Mouse,Office,,1469.96,Card,NY ,Ali
+1552,,Retail,Keyboard,electronics,2.0,,Card,,John
+1553,2023-03-19,Online,Mouse,Office,2.0,,Cash,Chicago,Ali
+1554,,Online,Keyboard,Office,,,,NY ,Ali
+1555,,Online,Tablet,Office,1.0,,card,new york,Sara
+1556,06/07/2024,Retail,Monitor,office,2.0, ,Transfer,Chicago,Sara
+1557,24-02-2024,Retail,Laptop,Electronics,1.0,,Cash,New York,John
+1558,2023-03-19,Wholesale,Mouse,Electronics,3.0,,card,NY ,Ali
+1559,,Retail,Phone,Office,1.0,2867.59,Cash,chicago,
+1560,,Retail,Keyboard,electronics,1.0,,card,New York,John
+1561,,Wholesale,Keyboard, ELECTRONICS ,2.0,303.53,Transfer,New York,Sara
+1562,04-04-2023,Retail,Keyboard,electronics,3.0,,Transfer,Chicago,
+1563,18-06-2022,Retail,Phone,office,2.0, ,Card,new york,Sara
+1564,2022-07-10,Retail,Keyboard,Office,3.0, ,card,New York,Sara
+1565,05-05-2024,Wholesale,Laptop, ELECTRONICS ,2.0,,card,Chicago,John
+1566,,Retail,Keyboard, ELECTRONICS ,3.0,557.72,Transfer,New York,Fatima
+1567,2023-05-22,Retail,Tablet,office,2.0, ,card,new york,
+1568,2024-02-19,Retail,Monitor, ELECTRONICS ,1.0,582.07,,,John
+1569,2024-04-29,Retail,Tablet,Office,2.0, ,,new york,Fatima
+1570,02/22/2024,Online,Laptop,office,1.0,,card,,John
+1571,25-06-2023,Online,Laptop, ELECTRONICS ,2.0,2276.81,,New York,Fatima
+1572,07/30/2022,Retail,Phone,office,3.0, ,card,New York,John
+1573,,Wholesale,Keyboard, ELECTRONICS ,1.0, ,card,,Ali
+1574,03-05-2022,Retail,Laptop,Office,2.0,224.28,Card,chicago,Fatima
+1575,,Online,Tablet, ELECTRONICS ,,,Card,NY ,
+1576,04/17/2023,Wholesale,Keyboard,electronics,1.0,,Card,NY ,
+1577,2022-10-08,Retail,Mouse, ELECTRONICS ,2.0,2911.53,,Chicago,John
+1578,03-04-2023,Wholesale,Mouse,Office,, ,Transfer,NY ,John
+1579,2023-12-15,Wholesale,Mouse,electronics,2.0, ,card,chicago,John
+1580,,Online,Laptop,Electronics,3.0,,Transfer,Chicago,
+1581,27-01-2024,Online,Keyboard,Office,,1667.18,Cash,Chicago,John
+1582,09-09-2023,Retail,Mouse,electronics,1.0, ,,,Fatima
+1583,10-11-2022,Retail,Phone,electronics,3.0, ,Transfer,new york,Sara
+1584,2023-06-13,Online,Mouse,Office,,,Card,chicago,
+1585,,Online,Tablet,electronics,1.0, ,Transfer,chicago,
+1586,12-01-2024,Online,Laptop,office,2.0, ,card,new york,Fatima
+1587,,Wholesale,Mouse,office,3.0,2669.4,Transfer,New York,John
+1588,2023-12-12,Retail,Tablet,office,1.0,507.08,card,Chicago,
+1589,,Retail,Keyboard, ELECTRONICS ,,,card,NY ,Fatima
+1590,02/08/2024,Retail,Laptop,office,2.0, ,card,Chicago,John
+1591,20-09-2023,Retail,Phone,Office,1.0, ,card,chicago,Sara
+1592,11/26/2022,Wholesale,Phone,Electronics,3.0,,card,NY ,Sara
+1593,2023-06-19,Wholesale,Mouse,electronics,1.0,2961.15,Card,,Ali
+1594,,Online,Laptop,Electronics,, ,Transfer,new york,Sara
+1595,2023-08-11,Retail,Mouse,Electronics,, ,Card,chicago,Fatima
+1596,07/02/2023,Online,Laptop,Office,3.0,,Cash,New York,Sara
+1597,16-01-2024,Wholesale,Keyboard, ELECTRONICS ,, ,Transfer,chicago,
+1598,19-12-2023,Wholesale,Keyboard,Electronics,2.0,,Card,NY ,Fatima
+1599,07/18/2022,Wholesale,Phone,office,1.0,,Transfer,Chicago,John
+1600,2022-12-23,Retail,Laptop, ELECTRONICS ,3.0,1646.58,Transfer,New York,Fatima
+1601,09/18/2022,Online,Keyboard, ELECTRONICS ,1.0,,Card,new york,John
+1602,,Retail,Tablet, ELECTRONICS ,2.0,1124.84,Transfer,new york,
+1603,01/02/2023,Retail,Laptop,Electronics,, ,Transfer,chicago,John
+1604,,Retail,Phone,Office,3.0,,Transfer,New York,Ali
+1605,28-02-2024,Online,Tablet, ELECTRONICS ,,,Cash,chicago,Ali
+1606,02/09/2023,Retail,Keyboard,electronics,3.0,,Cash,chicago,Ali
+1607,2023-06-16,Wholesale,Laptop, ELECTRONICS ,1.0,,Card,new york,John
+1608,,Wholesale,Monitor,office,1.0,2018.16,card,New York,John
+1609,10/23/2023,Wholesale,Monitor,Office,1.0,2934.0,Transfer,chicago,John
+1610,06/19/2022,Retail,Tablet, ELECTRONICS ,3.0,,card,Chicago,Sara
+1611,2023-11-02,Retail,Monitor, ELECTRONICS ,1.0, ,,,Fatima
+1612,05/12/2022,Wholesale,Tablet,electronics,3.0, ,Card,new york,Sara
+1613,2023-04-01,Retail,Phone, ELECTRONICS ,3.0, ,,NY ,Fatima
+1614,,Online,Phone,Electronics,3.0,1589.38,Cash,NY ,Fatima
+1615,10/06/2023,Wholesale,Laptop,electronics,,,Cash,,Fatima
+1616,13-07-2022,Online,Mouse, ELECTRONICS ,,197.3,,Chicago,Fatima
+1617,12/04/2022,Wholesale,Keyboard,electronics,2.0,,Card,New York,Sara
+1618,05/20/2024,Online,Mouse,Office,2.0, ,,New York,Sara
+1619,,Wholesale,Phone,Office,,760.02,Card,,
+1620,26-01-2024,Retail,Phone, ELECTRONICS ,1.0,1952.06,,NY ,John
+1621,06-02-2022,Wholesale,Mouse,office,1.0,,,New York,John
+1622,18-01-2022,Wholesale,Mouse, ELECTRONICS ,2.0,,,Chicago,Fatima
+1623,03/11/2024,Wholesale,Monitor,office,,682.45,,New York,Fatima
+1624,07/05/2023,Retail,Laptop, ELECTRONICS ,3.0, ,,,Ali
+1625,,Retail,Mouse,Office,, ,Card,chicago,Ali
+1626,2024-04-25,Online,Phone, ELECTRONICS ,3.0, ,Card,Chicago,John
+1627,06-01-2023,Online,Laptop,office,3.0,749.37,card,,Ali
+1628,12-04-2023,Online,Mouse,Electronics,2.0,,Card,new york,
+1629,2023-04-10,Wholesale,Laptop,Office,,2692.79,card,chicago,Ali
+1630,,Online,Tablet,office,, ,Cash,Chicago,Sara
+1631,29-04-2024,Retail,Keyboard,Office,1.0,2053.19,Cash,New York,John
+1632,05/12/2024,Online,Keyboard, ELECTRONICS ,2.0, ,Transfer,Chicago,Sara
+1633,,Online,Tablet,Electronics,3.0, ,Cash,,John
+1634,2022-06-26,Online,Mouse,Electronics,3.0,,Card,NY ,
+1635,20-01-2024,Wholesale,Tablet, ELECTRONICS ,3.0, ,Cash,,
+1636,19-03-2024,Wholesale,Keyboard,Electronics,1.0,,card,NY ,Ali
+1637,17-05-2023,Retail,Laptop,electronics,3.0, ,Cash,New York,John
+1638,05/11/2022,Retail,Mouse,office,2.0,,card,,John
+1639,2024-04-28,Wholesale,Laptop,Office,2.0,2932.21,Cash,,John
+1640,08-11-2022,Online,Laptop,office,3.0, ,,New York,
+1641,18-04-2023,Online,Laptop,electronics,3.0, ,card,chicago,
+1642,,Wholesale,Laptop,electronics,3.0,,Cash,NY ,Ali
+1643,,Wholesale,Keyboard,electronics,, ,Card,New York,Sara
+1644,30-12-2022,Retail,Tablet,office,,,Transfer,NY ,John
+1645,2023-10-19,Retail,Monitor, ELECTRONICS ,2.0,1845.06,Transfer,NY ,Sara
+1646,2022-04-29,Wholesale,Keyboard,Office,3.0,,,New York,Fatima
+1647,25-12-2023,Retail,Laptop,Office,1.0,,Cash,new york,John
+1648,09/24/2023,Wholesale,Laptop,Office,1.0, ,card,chicago,
+1649,04/17/2023,Wholesale,Phone,office,1.0,,card,New York,Sara
+1650,02/05/2024,Online,Phone,electronics,2.0, ,,NY ,
+1651,2022-06-12,Online,Tablet,electronics,2.0, ,card,chicago,John
+1652,17-12-2023,Online,Phone,Office,,2738.38,Transfer,New York,Fatima
+1653,26-08-2022,Retail,Laptop, ELECTRONICS ,1.0, ,Transfer,NY ,Fatima
+1654,03-09-2023,Wholesale,Monitor,office,2.0,157.23,Transfer,NY ,Sara
+1655,12/11/2023,Wholesale,Laptop, ELECTRONICS ,3.0,2233.56,card,chicago,Fatima
+1656,14-11-2023,Wholesale,Monitor,Office,1.0, ,,Chicago,John
+1657,,Wholesale,Laptop,Office,,2029.57,Transfer,NY ,Ali
+1658,,Retail,Phone,Office,2.0,,,New York,Sara
+1659,12-06-2022,Wholesale,Mouse,Electronics,1.0, ,,NY ,
+1660,03-07-2023,Retail,Monitor,electronics,3.0,,Transfer,New York,Fatima
+1661,09/18/2023,Online,Keyboard, ELECTRONICS ,1.0,769.71,Card,NY ,Ali
+1662,25-03-2024,Wholesale,Keyboard,Electronics,2.0, ,Card,Chicago,
+1663,24-07-2022,Wholesale,Mouse,Office,3.0, ,Cash,chicago,
+1664,11/22/2023,Retail,Laptop,Office,1.0,847.03,Cash,,Ali
+1665,04/21/2022,Wholesale,Laptop,Office,1.0,1928.19,Card,Chicago,Fatima
+1666,11-01-2022,Retail,Monitor,Office,1.0, ,,,Fatima
+1667,,Retail,Mouse,electronics,,,,NY ,Ali
+1668,,Wholesale,Phone, ELECTRONICS ,3.0,796.87,,Chicago,John
+1669,2023-04-12,Retail,Keyboard,electronics,1.0, ,card,NY ,Sara
+1670,,Online,Mouse,office,1.0,,Cash,NY ,Fatima
+1671,17-08-2022,Wholesale,Keyboard,electronics,1.0,1153.82,,chicago,Fatima
+1672,2022-01-30,Retail,Laptop,office,1.0,696.63,,new york,Ali
+1673,2022-10-20,Wholesale,Laptop,Electronics,3.0,,,Chicago,
+1674,2023-12-18,Retail,Laptop,office,1.0, ,Transfer,New York,Fatima
+1675,15-03-2023,Online,Phone,electronics,,590.22,Transfer,new york,
+1676,,Online,Monitor,office,,,Card,,Sara
+1677,,Wholesale,Laptop,Office,,2852.15,card,new york,John
+1678,03-01-2024,Retail,Mouse,Office,3.0, ,card,Chicago,
+1679,04/20/2024,Retail,Tablet, ELECTRONICS ,2.0,227.79,card,NY ,Fatima
+1680,07/22/2022,Retail,Monitor, ELECTRONICS ,, ,,chicago,Fatima
+1681,24-02-2024,Online,Laptop, ELECTRONICS ,3.0,,Card,chicago,Fatima
+1682,,Wholesale,Keyboard, ELECTRONICS ,,1222.07,Card,Chicago,John
+1683,02/08/2022,Wholesale,Tablet,Electronics,2.0, ,,New York,Fatima
+1684,10/21/2023,Retail,Laptop,electronics,1.0,1090.51,Transfer,new york,Fatima
+1685,01/27/2022,Retail,Monitor,Office,1.0,65.96,Cash,new york,Fatima
+1686,01/18/2023,Retail,Phone,Office,3.0,474.55,,NY ,Ali
+1687,12/31/2023,Wholesale,Monitor,electronics,2.0,119.72,Cash,New York,Ali
+1688,2023-01-14,Retail,Laptop,Office,, ,Transfer,New York,
+1689,,Retail,Mouse,Electronics,1.0,,Transfer,Chicago,Ali
+1690,,Wholesale,Mouse,office,,,Cash,chicago,John
+1691,,Retail,Monitor, ELECTRONICS ,2.0,1195.74,Cash,,John
+1692,13-02-2024,Wholesale,Mouse,Electronics,1.0,,card,,John
+1693,,Retail,Phone, ELECTRONICS ,3.0,175.69,Transfer,Chicago,Ali
+1694,,Retail,Monitor, ELECTRONICS ,,1018.11,Card,,
+1695,2024-04-18,Online,Tablet,office,1.0, ,Transfer,,Ali
+1696,09/30/2022,Retail,Mouse,Office,2.0,1117.25,Transfer,Chicago,Ali
+1697,,Wholesale,Laptop,Electronics,3.0,238.71,card,New York,
+1698,,Online,Tablet, ELECTRONICS ,2.0, ,Transfer,,Sara
+1699,,Wholesale,Phone,office,2.0,885.93,Cash,Chicago,
+1700,,Online,Mouse,office,2.0, ,Transfer,NY ,Ali
+1701,01-01-2024,Wholesale,Monitor,office,2.0, ,Card,chicago,Fatima
+1702,,Online,Monitor,Electronics,1.0,,Cash,new york,Ali
+1703,,Online,Phone,electronics,1.0,2676.51,Cash,chicago,
+1704,,Retail,Laptop,Electronics,3.0,2215.71,,new york,Sara
+1705,16-04-2023,Wholesale,Keyboard, ELECTRONICS ,,1596.58,,Chicago,John
+1706,03-01-2022,Online,Phone, ELECTRONICS ,,,Card,New York,Ali
+1707,20-07-2022,Wholesale,Tablet,electronics,,131.0,Transfer,new york,Sara
+1708,06/01/2023,Online,Phone,office,1.0,129.21,,New York,Sara
+1709,2023-05-03,Retail,Tablet,Office,1.0, ,Card,NY ,
+1710,,Retail,Monitor, ELECTRONICS ,2.0,,,new york,John
+1711,,Wholesale,Phone,Electronics,2.0,,Transfer,new york,Ali
+1712,2022-10-03,Retail,Laptop,office,2.0,2884.46,card,NY ,Ali
+1713,01-01-2022,Wholesale,Laptop,Office,,,card,New York,John
+1714,02/26/2024,Retail,Monitor,office,1.0,,Cash,NY ,Ali
+1715,11/02/2022,Retail,Laptop,Office,1.0, ,Card,Chicago,Ali
+1716,06-09-2023,Wholesale,Monitor, ELECTRONICS ,1.0, ,,NY ,John
+1717,23-11-2022,Wholesale,Laptop,electronics,1.0, ,,NY ,Ali
+1718,2022-01-27,Online,Monitor, ELECTRONICS ,3.0,,Cash,new york,Ali
+1719,2022-02-12,Retail,Tablet,Electronics,2.0,1147.76,Cash,New York,Fatima
+1720,,Wholesale,Tablet, ELECTRONICS ,3.0,815.76,,New York,
+1721,,Wholesale,Monitor,electronics,3.0,2887.48,Cash,NY ,Fatima
+1722,11/01/2023,Wholesale,Monitor,Electronics,1.0,503.54,,,Ali
+1723,02/25/2023,Wholesale,Keyboard,Electronics,1.0,,card,New York,John
+1724,09-03-2022,Retail,Tablet,office,3.0, ,,,Ali
+1725,2022-08-16,Retail,Phone,electronics,1.0,,,new york,John
+1726,02/27/2022,Online,Laptop,Electronics,, ,Cash,chicago,Sara
+1727,,Retail,Tablet,Office,3.0,1198.64,Card,NY ,Fatima
+1728,,Wholesale,Laptop,Office,,,Card,Chicago,Fatima
+1729,2024-03-12,Retail,Laptop,electronics,2.0,,Transfer,Chicago,Fatima
+1730,10-11-2023,Wholesale,Phone,Electronics,1.0,,card,New York,Sara
+1731,09/14/2023,Retail,Mouse, ELECTRONICS ,1.0,,,New York,Sara
+1732,,Wholesale,Monitor,office,3.0, ,Card,chicago,Fatima
+1733,04/27/2022,Wholesale,Tablet,Office,3.0, ,Transfer,,John
+1734,2024-04-27,Retail,Monitor,Electronics,2.0, ,Transfer,,Sara
+1735,12-01-2024,Wholesale,Phone,Office,1.0,,card,NY ,John
+1736,,Wholesale,Laptop,Electronics,2.0, ,Card,NY ,Sara
+1737,08/03/2023,Online,Phone,office,1.0,,Card,NY ,Fatima
+1738,2023-02-24,Online,Mouse,office,1.0,,Card,Chicago,Sara
+1739,01/12/2022,Online,Laptop,Office,2.0, ,Cash,New York,John
+1740,2023-01-16,Online,Phone, ELECTRONICS ,1.0,2546.04,Transfer,Chicago,Ali
+1741,03-06-2022,Wholesale,Tablet,office,, ,,Chicago,Fatima
+1742,02/26/2024,Wholesale,Keyboard,electronics,2.0,,Card,New York,Fatima
+1743,2023-09-09,Retail,Tablet,Office,,2215.26,Card,New York,Fatima
+1744,11-02-2023,Wholesale,Phone,office,2.0,2249.75,,New York,Fatima
+1745,2022-06-03,Online,Laptop,office,3.0,1254.9,Card,,Fatima
+1746,,Online,Laptop,office,2.0, ,Card,new york,John
+1747,12/23/2023,Retail,Monitor,Electronics,,1487.71,Card,chicago,Sara
+1748,02-05-2024,Online,Keyboard, ELECTRONICS ,, ,,NY ,
+1749,03/28/2024,Online,Mouse,Office,1.0,,card,NY ,Fatima
+1750,06/29/2023,Wholesale,Laptop,electronics,,916.74,Cash,chicago,Ali
+1751,,Online,Mouse,Electronics,3.0,1682.7,,Chicago,
+1752,,Online,Monitor,Electronics,3.0,,Cash,New York,
+1753,2024-05-28,Retail,Phone,office,2.0,625.05,Cash,New York,
+1754,,Online,Laptop,Electronics,1.0,,Cash,,Sara
+1755,08-02-2023,Retail,Monitor,office,,,Cash,Chicago,Ali
+1756,2022-04-22,Wholesale,Laptop,Electronics,2.0, ,,New York,
+1757,2024-02-16,Retail,Laptop,electronics,2.0,2659.43,card,new york,Fatima
+1758,2023-06-13,Wholesale,Mouse, ELECTRONICS ,1.0,178.72,,New York,John
+1759,18-01-2024,Wholesale,Mouse,electronics,, ,card,Chicago,Fatima
+1760,01/04/2024,Online,Tablet,electronics,1.0,,,Chicago,John
+1761,,Online,Keyboard,electronics,, ,Card,chicago,Sara
+1762,,Retail,Keyboard,office,1.0,,card,Chicago,Sara
+1763,20-03-2022,Online,Tablet,electronics,, ,card,,Fatima
+1764,,Retail,Mouse,electronics,2.0,1661.26,,New York,Ali
+1765,15-05-2024,Online,Tablet,electronics,3.0,1369.04,card,chicago,Fatima
+1766,2024-06-18,Online,Tablet, ELECTRONICS ,3.0,296.24,Transfer,,
+1767,26-01-2022,Retail,Monitor, ELECTRONICS ,1.0,,Transfer,NY ,Sara
+1768,2024-05-11,Online,Phone,electronics,3.0,441.21,Cash,,John
+1769,,Retail,Laptop, ELECTRONICS ,,,Card,new york,
+1770,11/19/2022,Wholesale,Tablet,Electronics,1.0,,Card,,Sara
+1771,13-01-2023,Online,Mouse,Electronics,1.0, ,card,Chicago,
+1772,,Retail,Mouse,Electronics,3.0,,,chicago,Ali
+1773,07-01-2023,Retail,Monitor,Office,2.0,,Transfer,chicago,Fatima
+1774,19-10-2023,Retail,Laptop,Office,2.0,264.69,card,new york,
+1775,,Online,Phone,office,,,Card,chicago,Sara
+1776,04/26/2022,Wholesale,Keyboard,office,1.0,1215.42,Card,new york,Ali
+1777,02-03-2023,Wholesale,Monitor,Office,3.0,1516.3,Card,NY ,John
+1778,10/23/2022,Online,Laptop, ELECTRONICS ,3.0,2824.65,Cash,chicago,Fatima
+1779,2023-12-17,Online,Phone, ELECTRONICS ,1.0, ,Card,New York,Ali
+1780,02/02/2022,Wholesale,Tablet,Office,,1540.26,card,NY ,Fatima
+1781,13-11-2022,Online,Phone,Electronics,, ,card,chicago,
+1782,03-10-2022,Retail,Keyboard,Electronics,3.0, ,card,new york,John
+1783,,Wholesale,Laptop,office,3.0,1006.79,Card,,Ali
+1784,01/03/2023,Online,Phone,office,2.0,52.0,card,new york,
+1785,2023-09-08,Online,Laptop,electronics,1.0, ,Card,NY ,
+1786,29-01-2023,Retail,Monitor,Office,2.0, ,,,Fatima
+1787,2023-08-24,Retail,Phone,Office,1.0,2315.05,Transfer,New York,Sara
+1788,27-03-2024,Wholesale,Tablet,electronics,3.0,2994.35,card,Chicago,Fatima
+1789,,Retail,Phone, ELECTRONICS ,1.0,1334.72,Card,chicago,John
+1790,,Wholesale,Monitor,office,3.0,,,NY ,Ali
+1791,04-05-2024,Retail,Keyboard,Office,1.0,,card,chicago,Ali
+1792,2022-07-09,Retail,Laptop,Office,3.0,,card,chicago,Sara
+1793,15-03-2024,Wholesale,Tablet,electronics,, ,Transfer,Chicago,Fatima
+1794,2024-03-01,Wholesale,Tablet,Office,,,,New York,Sara
+1795,2022-11-01,Retail,Mouse,office,3.0,,,chicago,
+1796,04/10/2024,Retail,Monitor, ELECTRONICS ,2.0,,Card,New York,Sara
+1797,2022-12-22,Retail,Phone,Office,1.0,,Transfer,NY ,Ali
+1798,03/16/2024,Retail,Mouse,Electronics,3.0, ,Cash,Chicago,Fatima
+1799,22-07-2022,Wholesale,Mouse,Office,2.0,497.2,card,Chicago,Ali
+1800,,Wholesale,Monitor,Office,1.0,,Card,New York,Fatima
+1801,12-04-2022,Wholesale,Phone,Office,2.0,,card,Chicago,
+1802,2022-03-04,Retail,Phone, ELECTRONICS ,3.0,,Transfer,New York,Sara
+1803,18-05-2022,Retail,Mouse, ELECTRONICS ,1.0,,card,New York,Ali
+1804,11-04-2023,Online,Mouse,office,,1161.06,card,NY ,Ali
+1805,2023-03-12,Retail,Phone, ELECTRONICS ,,,,NY ,Sara
+1806,03/22/2024,Retail,Laptop,Office,3.0,,Transfer,NY ,Sara
+1807,2022-02-22,Wholesale,Laptop,Office,,,Transfer,NY ,John
+1808,09-09-2023,Retail,Keyboard,electronics,3.0, ,card,Chicago,John
+1809,,Wholesale,Phone,electronics,1.0,,,chicago,John
+1810,01/17/2023,Retail,Mouse,electronics,2.0,,Transfer,,Ali
+1811,,Retail,Laptop, ELECTRONICS ,1.0,,Card,NY ,Ali
+1812,2022-08-29,Retail,Laptop, ELECTRONICS ,,2848.69,Transfer,,Ali
+1813,20-01-2022,Wholesale,Tablet,office,3.0,,Cash,Chicago,Ali
+1814,07/02/2023,Online,Phone, ELECTRONICS ,3.0,,,new york,
+1815,08/12/2023,Online,Laptop,office,1.0,,Card,new york,
+1816,2024-02-08,Retail,Phone,office,1.0,,Transfer,NY ,Ali
+1817,14-06-2023,Wholesale,Phone,Office,,1078.54,,Chicago,Ali
+1818,,Wholesale,Monitor,electronics,1.0, ,,,Sara
+1819,2023-05-05,Wholesale,Tablet,Office,2.0,1762.18,Card,,Sara
+1820,,Retail,Phone, ELECTRONICS ,3.0,,Transfer,,
+1821,2022-10-13,Retail,Monitor,Office,,2016.14,,Chicago,
+1822,2024-05-17,Online,Monitor,Office,1.0,,card,NY ,Fatima
+1823,,Online,Laptop, ELECTRONICS ,2.0, ,Card,new york,
+1824,30-03-2023,Online,Laptop,office,,2846.62,card,new york,Sara
+1825,,Retail,Tablet,Office,, ,Transfer,new york,Fatima
+1826,02/15/2023,Wholesale,Tablet,Office,1.0, ,card,New York,Ali
+1827,02/05/2024,Retail,Phone,Office,3.0,,,Chicago,Fatima
+1828,10-08-2023,Online,Keyboard,Office,2.0, ,Cash,NY ,Ali
+1829,07/11/2022,Online,Monitor,Electronics,1.0, ,Transfer,NY ,Fatima
+1830,06/03/2022,Retail,Tablet,Office,3.0, ,Card,Chicago,Fatima
+1831,2023-07-29,Retail,Mouse, ELECTRONICS ,,302.33,card,chicago,Ali
+1832,2023-12-21,Retail,Monitor,Office,,,,chicago,Fatima
+1833,30-12-2022,Retail,Laptop,Office,2.0, ,Cash,new york,Sara
+1834,01/06/2023,Wholesale,Tablet,electronics,,,Card,Chicago,Fatima
+1835,03/02/2022,Online,Monitor,Electronics,,2907.09,Cash,NY ,Ali
+1836,,Online,Laptop,electronics,3.0, ,,,
+1837,10/13/2023,Wholesale,Phone,electronics,1.0,,,new york,John
+1838,,Online,Phone, ELECTRONICS ,2.0,1639.79,card,NY ,Fatima
+1839,06/21/2022,Retail,Monitor,Office,2.0,,,chicago,John
+1840,01-01-2022,Online,Keyboard,Office,1.0, ,,New York,Fatima
+1841,,Wholesale,Tablet,office,2.0, ,card,Chicago,John
+1842,,Wholesale,Monitor,office,2.0,1737.33,Cash,chicago,Sara
+1843,,Online,Tablet,Office,,,card,Chicago,John
+1844,2024-05-18,Wholesale,Keyboard, ELECTRONICS ,3.0,617.86,Transfer,chicago,
+1845,08-09-2022,Retail,Laptop,office,1.0, ,card,new york,Sara
+1846,02/07/2024,Wholesale,Monitor,electronics,3.0,,card,chicago,John
+1847,,Online,Keyboard,Office,1.0,,,Chicago,
+1848,,Online,Mouse,office,, ,Card,,Fatima
+1849,2022-09-20,Online,Keyboard, ELECTRONICS ,2.0, ,Transfer,chicago,Sara
+1850,,Retail,Keyboard,office,2.0, ,,,
+1851,2022-02-04,Online,Phone, ELECTRONICS ,,2072.25,Cash,NY ,Ali
+1852,04/27/2024,Wholesale,Monitor,electronics,,,Card,,Ali
+1853,11/29/2022,Online,Keyboard,Electronics,1.0,1895.8,Transfer,,Sara
+1854,10/11/2022,Retail,Phone,office,1.0,2129.49,card,,Ali
+1855,2022-06-08,Retail,Laptop,electronics,,1225.91,Cash,New York,Fatima
+1856,2023-05-01,Wholesale,Keyboard,Electronics,3.0,,Cash,NY ,
+1857,,Retail,Tablet,electronics,2.0, ,card,chicago,Fatima
+1858,26-02-2022,Retail,Phone,electronics,1.0, ,Cash,,Sara
+1859,05/08/2024,Retail,Monitor,Electronics,2.0, ,Transfer,NY ,
+1860,03/29/2024,Online,Monitor,electronics,3.0,964.85,,,
+1861,2024-01-17,Online,Mouse, ELECTRONICS ,,,Card,new york,Fatima
+1862,2022-12-11,Wholesale,Laptop,electronics,3.0, ,card,chicago,Sara
+1863,05/16/2022,Online,Phone,office,,,,,Sara
+1864,21-07-2022,Wholesale,Phone,electronics,2.0,1202.87,Card,new york,John
+1865,18-11-2022,Wholesale,Mouse,electronics,1.0, ,Cash,New York,John
+1866,2023-12-08,Retail,Phone,office,3.0,288.32,Cash,Chicago,Fatima
+1867,31-03-2022,Online,Tablet,office,2.0,,Transfer,new york,John
+1868,04/11/2023,Wholesale,Phone,electronics,2.0,,Transfer,new york,
+1869,01/04/2024,Online,Laptop, ELECTRONICS ,,,Transfer,chicago,
+1870,2022-11-21,Online,Keyboard,electronics,3.0,,Card,chicago,
+1871,2022-08-24,Retail,Laptop,office,3.0,,,,Sara
+1872,,Retail,Phone, ELECTRONICS ,2.0,,,NY ,Sara
+1873,2024-06-06,Retail,Laptop,office,1.0,,card,NY ,John
+1874,05-10-2022,Online,Mouse,Electronics,3.0,1451.17,Card,,John
+1875,02/27/2022,Retail,Monitor,Office,3.0, ,card,,
+1876,07/22/2022,Retail,Tablet, ELECTRONICS ,2.0,2794.71,Transfer,,Fatima
+1877,22-10-2022,Retail,Monitor,electronics,2.0, ,card,new york,Fatima
+1878,,Retail,Monitor,electronics,,,,New York,
+1879,26-01-2024,Wholesale,Mouse, ELECTRONICS ,1.0,23.92,Transfer,,Fatima
+1880,28-03-2024,Wholesale,Tablet,office,1.0,997.53,Cash,New York,Ali
+1881,2022-05-06,Online,Mouse,Office,1.0, ,,chicago,Fatima
+1882,2023-08-19,Online,Monitor,electronics,,,Transfer,Chicago,
+1883,13-02-2024,Retail,Laptop,Office,3.0,792.85,,chicago,
+1884,10-07-2023,Retail,Mouse, ELECTRONICS ,3.0,86.58,Transfer,New York,
+1885,11/08/2023,Retail,Monitor,Electronics,2.0,2779.4,Cash,NY ,Fatima
+1886,,Online,Mouse, ELECTRONICS ,2.0,,card,New York,Ali
+1887,,Wholesale,Tablet,Office,2.0,1534.11,,new york,Ali
+1888,2022-09-09,Online,Mouse, ELECTRONICS ,3.0,,Transfer,NY ,Ali
+1889,2023-01-15,Retail,Phone,office,2.0, ,Card,new york,Ali
+1890,11-01-2022,Online,Keyboard, ELECTRONICS ,2.0,,Transfer,,
+1891,05/01/2024,Retail,Keyboard,Electronics,1.0, ,card,NY ,John
+1892,21-04-2023,Wholesale,Mouse,Electronics,1.0,2366.18,Transfer,new york,Fatima
+1893,24-05-2022,Wholesale,Phone,electronics,3.0, ,card,Chicago,Sara
+1894,,Wholesale,Monitor, ELECTRONICS ,2.0, ,,Chicago,
+1895,2024-01-11,Online,Monitor,office,3.0,,card,NY ,
+1896,23-03-2024,Online,Mouse, ELECTRONICS ,2.0, ,card,NY ,Ali
+1897,14-06-2022,Retail,Monitor,Electronics,2.0, ,Card,new york,Sara
+1898,08-11-2023,Wholesale,Tablet,office,2.0,1476.8,card,Chicago,Fatima
+1899,,Wholesale,Phone,Office,, ,Cash,new york,Sara
+1900,,Online,Monitor,Electronics,,,card,New York,
+1901,09/26/2023,Online,Laptop,office,, ,,NY ,
+1902,15-06-2023,Retail,Laptop,Office,2.0, ,card,,John
+1903,04/19/2024,Online,Mouse,office,,,Card,new york,Ali
+1904,2023-07-07,Retail,Keyboard, ELECTRONICS ,1.0, ,Cash,new york,Ali
+1905,09-07-2023,Retail,Mouse,electronics,1.0, ,Transfer,,John
+1906,2022-11-09,Retail,Tablet,office,1.0,,,new york,Ali
+1907,17-04-2024,Wholesale,Phone,Office,1.0,,Transfer,New York,
+1908,03/10/2022,Wholesale,Mouse,Office,,1399.53,,New York,John
+1909,2022-09-08,Retail,Keyboard,Office,1.0,,Cash,chicago,Ali
+1910,04/04/2023,Retail,Keyboard,office,2.0, ,Cash,,Fatima
+1911,08-09-2023,Wholesale,Monitor,office,,,,chicago,Sara
+1912,09-12-2023,Online,Mouse,electronics,2.0, ,card,chicago,Fatima
+1913,04/15/2022,Online,Monitor,electronics,2.0,564.58,Cash,Chicago,John
+1914,31-01-2022,Online,Mouse,Electronics,1.0, ,Transfer,NY ,Ali
+1915,,Retail,Keyboard,electronics,1.0, ,Card,new york,Fatima
+1916,2023-12-30,Wholesale,Keyboard, ELECTRONICS ,1.0,,,Chicago,
+1917,12/06/2023,Wholesale,Phone,Office,,2228.66,Transfer,,Fatima
+1918,24-02-2024,Wholesale,Phone,Office,3.0,,,chicago,Fatima
+1919,2022-10-11,Wholesale,Laptop,Office,3.0,,Cash,NY ,Sara
+1920,,Retail,Tablet,Office,2.0,,Card,NY ,Ali
+1921,,Retail,Mouse,office,,708.77,Cash,new york,John
+1922,2022-04-23,Wholesale,Keyboard,Office,3.0,947.67,,chicago,John
+1923,15-03-2023,Online,Laptop,electronics,,,card,NY ,Ali
+1924,01/25/2023,Online,Tablet,electronics,,,Card,chicago,Sara
+1925,,Wholesale,Mouse, ELECTRONICS ,,,Cash,,Fatima
+1926,,Online,Phone,Office,1.0,,card,,Fatima
+1927,08-04-2023,Online,Monitor,office,3.0,2533.19,card,Chicago,Sara
+1928,,Wholesale,Phone,Electronics,2.0,,card,,
+1929,2023-06-11,Retail,Monitor,electronics,2.0, ,Cash,New York,John
+1930,03-04-2023,Online,Keyboard,Office,,2594.48,Card,chicago,Ali
+1931,28-07-2023,Retail,Tablet, ELECTRONICS ,3.0,1894.19,Card,NY ,Ali
+1932,,Retail,Tablet,office,,,Transfer,NY ,Fatima
+1933,04/25/2023,Retail,Monitor,Electronics,1.0, ,card,new york,Sara
+1934,,Retail,Phone,office,2.0,2942.54,Card,chicago,
+1935,29-04-2024,Retail,Mouse,Office,1.0,,Card,Chicago,Ali
+1936,2022-11-16,Online,Phone,electronics,1.0, ,Card,Chicago,Fatima
+1937,2024-01-18,Wholesale,Phone,Office,1.0,332.87,Transfer,NY ,Sara
+1938,09-03-2022,Wholesale,Tablet,Electronics,2.0, ,Cash,Chicago,Fatima
+1939,,Retail,Monitor,Office,2.0, ,Card,Chicago,John
+1940,2023-03-28,Online,Mouse,Office,1.0,300.65,Card,chicago,
+1941,2022-01-03,Retail,Keyboard,Electronics,1.0,1441.96,card,,Sara
+1942,09/10/2023,Retail,Mouse,office,3.0,1769.07,Cash,chicago,
+1943,17-06-2023,Online,Monitor, ELECTRONICS ,2.0, ,,chicago,Fatima
+1944,,Wholesale,Mouse,Electronics,1.0,1821.13,Card,chicago,
+1945,24-11-2022,Wholesale,Mouse, ELECTRONICS ,2.0,656.49,Transfer,Chicago,
+1946,2024-04-29,Retail,Keyboard,Office,2.0, ,Transfer,New York,
+1947,,Retail,Mouse,office,1.0,2603.56,Transfer,chicago,Fatima
+1948,14-07-2022,Online,Laptop,Office,1.0,,,Chicago,Fatima
+1949,,Online,Laptop,electronics,1.0,287.7,Cash,New York,
+1950,10-05-2024,Retail,Monitor,electronics,3.0,,,new york,John
+1951,,Wholesale,Tablet,Office,1.0,2953.97,Card,NY ,John
+1952,08/23/2022,Retail,Mouse,electronics,1.0, ,,New York,Fatima
+1953,2023-01-05,Online,Phone,office,3.0,,card,NY ,Sara
+1954,04/23/2022,Online,Monitor,electronics,2.0,,,,John
+1955,2022-07-27,Wholesale,Mouse,office,2.0, ,card,NY ,Fatima
+1956,06-07-2022,Wholesale,Keyboard,Electronics,,,,NY ,Ali
+1957,22-04-2022,Retail,Laptop,office,, ,Cash,New York,Sara
+1958,27-10-2023,Online,Monitor,Office,3.0,,,NY ,Ali
+1959,,Wholesale,Tablet,Office,1.0,2051.32,Card,NY ,Ali
+1960,23-03-2024,Retail,Laptop,electronics,,2532.4,Cash,,Fatima
+1961,21-01-2024,Retail,Phone,electronics,1.0, ,Cash,Chicago,John
+1962,2022-05-13,Retail,Keyboard,Electronics,,1465.55,Cash,new york,Fatima
+1963,,Retail,Mouse,office,1.0,,Transfer,NY ,John
+1964,10/27/2022,Wholesale,Tablet,office,2.0,700.83,,Chicago,Fatima
+1965,11/15/2023,Online,Monitor, ELECTRONICS ,,,Cash,new york,Fatima
+1966,2024-06-18,Online,Laptop,Electronics,1.0, ,Cash,,Fatima
+1967,06-02-2024,Wholesale,Monitor,Electronics,,2109.42,Transfer,Chicago,Sara
+1968,,Retail,Monitor, ELECTRONICS ,3.0,1798.04,,Chicago,John
+1969,,Wholesale,Phone, ELECTRONICS ,1.0,,Transfer,New York,Ali
+1970,2022-03-21,Online,Mouse,electronics,2.0, ,Card,Chicago,Ali
+1971,2022-04-23,Retail,Monitor,office,, ,card,new york,Fatima
+1972,07/07/2023,Retail,Keyboard,Office,,615.54,Cash,chicago,
+1973,2023-04-27,Retail,Laptop,Office,,1798.98,card,NY ,John
+1974,08/26/2023,Online,Mouse,Office,2.0,2751.17,Card,NY ,John
+1975,,Online,Phone, ELECTRONICS ,, ,card,Chicago,Fatima
+1976,,Retail,Laptop, ELECTRONICS ,1.0, ,Transfer,NY ,Ali
+1977,,Wholesale,Phone,Electronics,,2372.54,card,Chicago,
+1978,,Online,Monitor, ELECTRONICS ,1.0,,card,chicago,Sara
+1979,06/08/2024,Retail,Monitor,Office,,,Cash,New York,Ali
+1980,,Retail,Mouse,office,1.0, ,Cash,chicago,Ali
+1981,04/04/2024,Online,Laptop, ELECTRONICS ,,,Cash,NY ,Sara
+1982,11-11-2022,Retail,Keyboard,Office,2.0, ,Transfer,NY ,Sara
+1983,08/29/2023,Online,Keyboard, ELECTRONICS ,2.0, ,Cash,New York,Fatima
+1984,2023-12-07,Wholesale,Keyboard,Office,3.0,,Transfer,chicago,Sara
+1985,03/27/2022,Retail,Laptop, ELECTRONICS ,3.0,1909.5,card,New York,John
+1986,2024-01-10,Retail,Laptop, ELECTRONICS ,1.0,,Transfer,New York,John
+1987,2022-07-01,Wholesale,Phone,Office,2.0,2104.82,Cash,,Sara
+1988,12/10/2023,Wholesale,Tablet,Office,2.0,1386.3,Card,,John
+1989,,Wholesale,Laptop,electronics,2.0,,Cash,new york,Fatima
+1990,21-01-2023,Wholesale,Keyboard,Electronics,3.0,1462.43,card,chicago,Fatima
+1991,,Retail,Phone, ELECTRONICS ,, ,Card,Chicago,John
+1992,2023-10-12,Wholesale,Tablet,Electronics,1.0, ,Transfer,chicago,Ali
+1993,,Retail,Phone,electronics,1.0, ,card,Chicago,Ali
+1994,,Retail,Keyboard,office,2.0,2997.48,card,New York,
+1995,,Retail,Keyboard,Electronics,2.0, ,,New York,John
+1996,2022-06-17,Retail,Phone,office,1.0,,card,new york,Sara
+1997,2022-05-11,Online,Mouse,Electronics,2.0,489.06,,new york,
+1998,18-11-2022,Online,Tablet,electronics,3.0,,card,New York,
+1999,06/05/2023,Online,Mouse,office,3.0,2905.2,,Chicago,Ali
+2000,2022-07-03,Online,Keyboard, ELECTRONICS ,3.0,2347.97,card,New York,Fatima
+2001,2023-07-10,Retail,Laptop,office,,375.05,Transfer,chicago,
+2002,,Wholesale,Keyboard,electronics,, ,Transfer,,Ali
+2003,03/28/2023,Retail,Mouse,Electronics,1.0, ,,Chicago,
+2004,,Retail,Phone,electronics,3.0,,Card,chicago,John
+2005,2022-01-03,Online,Tablet,office,2.0, ,card,,Sara
+2006,,Wholesale,Laptop,Electronics,2.0, ,card,Chicago,Ali
+2007,,Online,Monitor, ELECTRONICS ,3.0,,Card,chicago,
+2008,08-06-2023,Online,Phone,Electronics,1.0, ,Cash,,John
+2009,04-04-2022,Wholesale,Keyboard,Electronics,1.0,,card,New York,Ali
+2010,,Wholesale,Keyboard,Electronics,1.0,1027.38,Cash,Chicago,Sara
+2011,,Wholesale,Monitor, ELECTRONICS ,2.0, ,Cash,,John
+2012,2023-08-02,Wholesale,Monitor,electronics,, ,card,new york,
+2013,,Wholesale,Keyboard,Office,,,card,NY ,Ali
+2014,05/16/2024,Wholesale,Monitor,electronics,1.0,,card,NY ,John
+2015,2022-08-10,Online,Phone,office,3.0,654.16,Cash,New York,Sara
+2016,19-01-2024,Retail,Phone, ELECTRONICS ,,,Card,New York,Sara
+2017,,Retail,Tablet,Electronics,3.0, ,Transfer,,Ali
+2018,23-10-2022,Retail,Phone,office,3.0,1527.74,Cash,NY ,Fatima
+2019,,Wholesale,Laptop,Office,1.0,2761.34,Cash,chicago,Sara
+2020,07/03/2022,Online,Monitor,Office,1.0,483.97,Card,Chicago,Fatima
+2021,,Retail,Monitor,Electronics,3.0, ,Cash,new york,Sara
+2022,12/14/2023,Online,Phone,office,3.0,,Cash,new york,John
+2023,05-03-2024,Wholesale,Keyboard,electronics,3.0,2657.4,Card,Chicago,Ali
+2024,,Wholesale,Tablet,electronics,,2993.37,Transfer,New York,John
+2025,03/21/2024,Online,Tablet, ELECTRONICS ,1.0,722.46,Transfer,chicago,
+2026,04-06-2023,Online,Keyboard,electronics,3.0,,Cash,New York,
+2027,2023-02-07,Wholesale,Keyboard,office,2.0, ,Transfer,New York,Sara
+2028,,Retail,Mouse,Electronics,,,Card,Chicago,
+2029,18-02-2022,Online,Mouse, ELECTRONICS ,, ,,,John
+2030,07/09/2022,Wholesale,Tablet,Office,,1707.6,Cash,Chicago,
+2031,,Wholesale,Mouse,Electronics,2.0, ,Transfer,new york,Fatima
+2032,27-11-2022,Wholesale,Monitor, ELECTRONICS ,1.0,,,chicago,John
+2033,04-03-2024,Online,Mouse,Electronics,3.0,881.64,Cash,NY ,Sara
+2034,12/22/2022,Wholesale,Tablet, ELECTRONICS ,1.0,953.38,card,Chicago,Fatima
+2035,2023-11-05,Wholesale,Laptop,Office,3.0,598.1,card,new york,Ali
+2036,,Wholesale,Laptop, ELECTRONICS ,,,,Chicago,John
+2037,07/28/2023,Retail,Laptop,office,1.0,1604.72,Transfer,,Ali
+2038,2023-08-28,Online,Tablet,Office,3.0,,Card,chicago,Fatima
+2039,04/27/2022,Online,Monitor,Electronics,3.0,,Transfer,Chicago,Fatima
+2040,10-03-2024,Retail,Phone,Electronics,3.0, ,card,chicago,Ali
+2041,2022-02-10,Online,Keyboard,electronics,2.0,,,NY ,John
+2042,,Online,Mouse,office,3.0,,card,new york,Fatima
+2043,,Retail,Phone,Office,,683.31,Cash,New York,
+2044,04/21/2022,Online,Monitor,Office,1.0, ,,chicago,John
+2045,15-08-2022,Retail,Monitor, ELECTRONICS ,3.0,,Transfer,NY ,Ali
+2046,2023-12-12,Online,Phone,Office,,,card,new york,Fatima
+2047,24-02-2023,Online,Phone,office,,2280.31,Cash,New York,John
+2048,15-04-2024,Online,Laptop, ELECTRONICS ,2.0, ,Transfer,Chicago,John
+2049,01/31/2022,Wholesale,Tablet,office,2.0,1202.4,Cash,,Sara
+2050,04/25/2023,Retail,Mouse, ELECTRONICS ,1.0, ,Cash,new york,
+2051,2022-02-05,Online,Tablet, ELECTRONICS ,1.0, ,,new york,John
+2052,05/27/2024,Online,Phone,Office,,,,new york,
+2053,23-08-2023,Online,Keyboard,Electronics,2.0,1081.39,Cash,New York,Sara
+2054,2023-06-08,Wholesale,Mouse,Electronics,2.0,972.14,card,,Ali
+2055,04-07-2022,Retail,Mouse, ELECTRONICS ,1.0, ,Card,chicago,Ali
+2056,,Wholesale,Keyboard,office,,,,new york,
+2057,04-03-2022,Retail,Phone,office,,,Cash,NY ,John
+2058,02/15/2024,Online,Keyboard,Office,,452.39,card,New York,Fatima
+2059,,Retail,Laptop,Electronics,, ,card,,Ali
+2060,11/05/2022,Retail,Keyboard,Office,2.0,654.79,Transfer,,Sara
+2061,,Retail,Mouse,electronics,1.0,,Card,Chicago,John
+2062,2023-02-24,Retail,Mouse,Electronics,1.0,1686.39,,,John
+2063,13-05-2024,Retail,Phone,office,1.0,,card,Chicago,
+2064,26-03-2022,Online,Mouse,electronics,1.0, ,,Chicago,John
+2065,03/06/2024,Retail,Mouse,office,2.0,2964.42,Cash,chicago,Ali
+2066,,Retail,Keyboard, ELECTRONICS ,3.0,1393.27,card,NY ,Ali
+2067,16-07-2023,Retail,Phone,Office,3.0,,Card,new york,Sara
+2068,05/06/2022,Online,Monitor, ELECTRONICS ,3.0,,card,,
+2069,,Wholesale,Laptop,office,1.0,,Transfer,new york,Fatima
+2070,2023-12-31,Retail,Tablet,Electronics,1.0,238.68,Transfer,chicago,Sara
+2071,,Retail,Phone,Electronics,3.0, ,Transfer,,
+2072,10/30/2022,Online,Mouse,office,2.0,,Cash,new york,
+2073,03-07-2023,Wholesale,Phone, ELECTRONICS ,3.0,,Cash,New York,John
+2074,,Online,Mouse,Electronics,,,Transfer,New York,John
+2075,02/20/2023,Retail,Phone,Electronics,3.0, ,Cash,,Fatima
+2076,,Wholesale,Mouse,Office,2.0,759.73,Card,,Sara
+2077,23-07-2022,Wholesale,Tablet,Electronics,1.0,,Transfer,New York,Ali
+2078,12/16/2023,Wholesale,Tablet,electronics,1.0, ,,Chicago,Fatima
+2079,27-09-2023,Retail,Phone,Electronics,3.0,,card,New York,
+2080,07/31/2022,Wholesale,Keyboard,Electronics,3.0, ,card,NY ,John
+2081,,Retail,Keyboard,electronics,2.0,,,chicago,Sara
+2082,11/26/2023,Online,Keyboard,Office,1.0, ,Cash,new york,John
+2083,01-04-2023,Online,Phone, ELECTRONICS ,2.0, ,,new york,Ali
+2084,03/09/2022,Wholesale,Monitor,Office,2.0, ,Card,chicago,Fatima
+2085,,Wholesale,Monitor, ELECTRONICS ,, ,Card,New York,Sara
+2086,08/29/2022,Online,Mouse, ELECTRONICS ,,292.13,Card,chicago,
+2087,2022-06-24,Retail,Laptop,office,,,Cash,chicago,Fatima
+2088,04/01/2024,Retail,Mouse,Electronics,2.0, ,card,NY ,Fatima
+2089,11/06/2023,Online,Phone,electronics,1.0,1654.75,Card,Chicago,Ali
+2090,09-10-2023,Retail,Mouse,electronics,, ,Transfer,NY ,
+2091,2023-08-09,Online,Tablet,Electronics,1.0,,Cash,new york,Sara
+2092,2024-05-05,Wholesale,Phone,electronics,1.0, ,card,Chicago,John
+2093,12-08-2022,Retail,Phone,Office,3.0,1849.52,Card,Chicago,Ali
+2094,12/04/2023,Retail,Mouse, ELECTRONICS ,,,,Chicago,Fatima
+2095,04/09/2023,Retail,Phone,office,3.0,2999.59,card,NY ,Ali
+2096,2022-01-09,Wholesale,Keyboard,electronics,3.0, ,Transfer,,
+2097,,Online,Laptop,office,2.0,2915.98,Transfer,New York,John
+2098,2023-05-02,Online,Monitor,electronics,1.0,,,new york,Ali
+2099,2023-08-28,Retail,Laptop,Office,, ,card,chicago,John
+2100,09-04-2023,Retail,Monitor, ELECTRONICS ,, ,Transfer,chicago,
+2101,06/21/2022,Retail,Keyboard,Office,,,Cash,NY ,
+2102,,Retail,Laptop,electronics,3.0,,card,new york,Fatima
+2103,,Retail,Mouse,Electronics,2.0, ,Card,NY ,Sara
+2104,17-05-2022,Wholesale,Laptop,office,, ,card,new york,Ali
+2105,19-08-2023,Online,Tablet,office,,,card,New York,Sara
+2106,10/15/2022,Wholesale,Tablet, ELECTRONICS ,1.0,1888.37,Cash,chicago,Sara
+2107,2023-08-12,Online,Keyboard,Electronics,3.0,407.02,,chicago,
+2108,12/21/2022,Online,Tablet,office,,,Card,,John
+2109,16-12-2022,Retail,Phone,Office,1.0, ,Card,,Ali
+2110,,Retail,Monitor, ELECTRONICS ,2.0, ,Cash,NY ,
+2111,03-07-2023,Retail,Tablet,Electronics,1.0,,Cash,,Fatima
+2112,29-05-2024,Wholesale,Mouse, ELECTRONICS ,3.0, ,Card,Chicago,John
+2113,,Retail,Phone,Electronics,1.0, ,card,New York,Ali
+2114,04-08-2022,Retail,Phone,Office,1.0,,,new york,
+2115,2024-04-10,Wholesale,Laptop, ELECTRONICS ,,2148.62,Card,NY ,Sara
+2116,,Retail,Laptop,electronics,,2350.1,card,Chicago,Ali
+2117,2023-09-11,Online,Monitor,Electronics,1.0, ,Cash,new york,John
+2118,11/14/2023,Retail,Phone,Office,,2586.11,,NY ,Ali
+2119,2024-01-18,Online,Tablet,office,,,Transfer,NY ,John
+2120,,Wholesale,Keyboard,Office,3.0, ,Transfer,,Ali
+2121,31-03-2023,Wholesale,Laptop,Electronics,, ,Cash,NY ,Fatima
+2122,,Retail,Monitor,Office,,,card,New York,Sara
+2123,2022-03-15,Retail,Keyboard,Office,3.0,2193.72,card,,Fatima
+2124,,Online,Phone,office,1.0,,Cash,,Sara
+2125,08/24/2022,Online,Keyboard,office,2.0,,card,NY ,
+2126,,Wholesale,Tablet,electronics,3.0,2209.4,,Chicago,Fatima
+2127,03/04/2024,Retail,Mouse, ELECTRONICS ,1.0,353.44,Card,Chicago,Sara
+2128,,Retail,Laptop,electronics,1.0,,card,New York,Sara
+2129,10/16/2023,Wholesale,Keyboard,Electronics,2.0, ,card,,Sara
+2130,05/25/2022,Online,Mouse,office,,,Card,,Sara
+2131,09-06-2024,Wholesale,Laptop,Office,2.0, ,,New York,Sara
+2132,11/21/2023,Wholesale,Phone,office,,2369.29,Cash,Chicago,
+2133,2022-01-30,Online,Keyboard,Office,3.0,2763.96,Cash,chicago,John
+2134,2022-08-07,Wholesale,Tablet,Electronics,1.0,2404.2,Card,chicago,Ali
+2135,2024-05-29,Wholesale,Tablet,Office,3.0,,Cash,Chicago,
+2136,04/04/2024,Wholesale,Phone,electronics,1.0, ,card,Chicago,Sara
+2137,07-08-2023,Wholesale,Laptop,office,3.0,,Card,new york,Ali
+2138,2022-12-09,Wholesale,Monitor,Electronics,,,Transfer,NY ,Fatima
+2139,05/17/2024,Wholesale,Phone,Electronics,2.0,2565.13,card,chicago,Ali
+2140,2022-11-16,Wholesale,Monitor,office,2.0,307.78,Card,chicago,Ali
+2141,01/08/2024,Retail,Monitor,office,,64.77,Cash,,
+2142,28-05-2024,Retail,Laptop,office,3.0, ,card,chicago,Sara
+2143,10-08-2022,Online,Phone,office,1.0,1962.78,Transfer,New York,John
+2144,08-08-2023,Wholesale,Tablet,electronics,,,Cash,NY ,Fatima
+2145,2022-03-21,Wholesale,Keyboard,office,3.0,,,,Sara
+2146,,Online,Phone,Office,2.0, ,Transfer,new york,
+2147,2024-06-14,Retail,Monitor,electronics,,424.04,Card,new york,Ali
+2148,2023-05-18,Online,Monitor, ELECTRONICS ,2.0, ,Transfer,New York,Ali
+2149,2023-10-14,Wholesale,Tablet,Office,2.0,2095.02,Transfer,New York,Sara
+2150,2024-03-17,Retail,Monitor,Electronics,1.0,,card,Chicago,John
+2151,20-02-2024,Online,Phone,Electronics,2.0, ,Card,NY ,Fatima
+2152,2023-09-12,Online,Keyboard,Office,1.0,2101.84,card,,Fatima
+2153,06/08/2023,Online,Monitor,electronics,2.0, ,Transfer,New York,Sara
+2154,05/17/2024,Retail,Keyboard,electronics,,1555.57,,New York,Ali
+2155,06/10/2023,Retail,Mouse, ELECTRONICS ,3.0,705.65,,New York,Ali
+2156,2024-04-21,Online,Keyboard,Office,3.0,,card,chicago,Fatima
+2157,,Wholesale,Keyboard,Office,3.0, ,Cash,,Fatima
+2158,08-03-2024,Online,Laptop,office,1.0, ,card,new york,John
+2159,2023-02-15,Wholesale,Phone,office,3.0,,card,,
+2160,2023-05-09,Retail,Monitor,electronics,2.0, ,Cash,new york,
+2161,08-01-2024,Retail,Tablet, ELECTRONICS ,1.0,,Transfer,new york,Fatima
+2162,28-10-2022,Wholesale,Keyboard,Electronics,3.0,,Card,chicago,Fatima
+2163,07/28/2023,Retail,Monitor,electronics,3.0,83.95,,chicago,John
+2164,2022-09-01,Wholesale,Keyboard,electronics,3.0,2561.92,,,
+2165,05/14/2024,Online,Monitor, ELECTRONICS ,,2672.6,Transfer,new york,Fatima
+2166,,Wholesale,Monitor,Electronics,,,Card,new york,John
+2167,2023-11-07,Online,Phone,Office,3.0,,Cash,,Fatima
+2168,11/08/2023,Online,Phone,office,3.0,,Cash,,John
+2169,2022-06-12,Retail,Keyboard,Office,2.0, ,Transfer,Chicago,Sara
+2170,25-04-2024,Wholesale,Mouse,electronics,2.0,,Transfer,new york,Sara
+2171,02-09-2022,Online,Tablet,Electronics,1.0, ,card,Chicago,Fatima
+2172,,Online,Phone,Office,, ,Transfer,new york,John
+2173,,Wholesale,Monitor, ELECTRONICS ,1.0,,Transfer,new york,Sara
+2174,06/09/2024,Retail,Keyboard,electronics,3.0,,,NY ,
+2175,01/11/2024,Retail,Mouse,electronics,2.0,2705.77,Transfer,new york,Sara
+2176,11/10/2023,Online,Laptop,Electronics,3.0,,Cash,,John
+2177,28-01-2023,Wholesale,Mouse,electronics,3.0, ,Card,new york,
+2178,2023-06-17,Online,Monitor,Electronics,,1435.64,card,chicago,Fatima
+2179,2022-02-08,Wholesale,Phone,electronics,1.0,1045.57,Transfer,Chicago,Fatima
+2180,07/19/2022,Online,Tablet,Electronics,,1970.06,Cash,,Fatima
+2181,,Wholesale,Tablet,electronics,,,Transfer,new york,
+2182,,Wholesale,Laptop, ELECTRONICS ,2.0,2009.25,Cash,,Sara
+2183,2023-02-10,Wholesale,Tablet,office,2.0, ,,new york,Sara
+2184,05/09/2022,Wholesale,Mouse,electronics,1.0, ,Card,NY ,Ali
+2185,03/21/2024,Retail,Tablet,office,,2460.48,Card,chicago,Sara
+2186,23-07-2023,Retail,Phone,electronics,3.0,2232.65,,chicago,
+2187,,Wholesale,Mouse,office,3.0,,,,
+2188,02-12-2023,Online,Mouse,electronics,,2695.37,Transfer,chicago,John
+2189,2022-09-14,Online,Tablet, ELECTRONICS ,3.0,,card,New York,Fatima
+2190,04-04-2023,Wholesale,Mouse,office,3.0, ,,,Ali
+2191,17-06-2024,Wholesale,Tablet,office,,533.96,card,New York,
+2192,12/17/2023,Retail,Mouse, ELECTRONICS ,1.0,,,chicago,Fatima
+2193,2022-11-01,Wholesale,Keyboard,Electronics,3.0,2992.77,,New York,John
+2194,22-06-2023,Online,Laptop,Office,, ,Cash,Chicago,John
+2195,,Online,Phone, ELECTRONICS ,1.0,,Transfer,Chicago,Ali
+2196,06-02-2023,Online,Mouse,Office,1.0, ,Transfer,New York,Sara
+2197,,Wholesale,Laptop, ELECTRONICS ,3.0,,Transfer,New York,John
+2198,,Wholesale,Mouse,Electronics,3.0, ,Card,Chicago,Ali
+2199,,Wholesale,Monitor,electronics,3.0,,Cash,new york,
+2200,2023-10-25,Wholesale,Laptop,Electronics,2.0, ,card,Chicago,
